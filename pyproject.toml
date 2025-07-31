@@ -1,0 +1,19 @@
+[project]
+name = "clustering_pipeline"
+version = "0.1.0"
+description = "Modular, production-ready clustering pipeline"
+authors = [
+  { name="Your Name", email="your.email@example.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+  "pandas==2.2.2",
+  "numpy==1.26.4",
+  "scikit-learn==1.4.2",
+  "pydantic==2.7.1",
+  "matplotlib==3.8.4",
+  "seaborn==0.13.2"
+]
+
+[tool.setuptools.packages.find]
+where = ["clustering_pipeline"]
