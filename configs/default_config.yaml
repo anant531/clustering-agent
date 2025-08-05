@@ -1,0 +1,17 @@
+data:
+  min_samples: 50
+  handle_missing: "drop"
+  scaling_method: "standard"
+
+clustering:
+  algorithms: ["kmeans", "agglo"]
+  k_range: [2, 10]  # This will be converted to tuple automatically
+  n_jobs: 2
+  random_state: 42
+
+evaluation:
+  metrics: ["silhouette", "davies_bouldin"]
+
+output:
+  save_models: true
+  export_format: ["csv"]
