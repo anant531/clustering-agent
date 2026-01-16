@@ -1,0 +1,1001 @@
+sale_id,customer_id,product_id,product_name,product_category,purchase_amount,quantity,purchase_date,discount_applied,payment_method,channel,satisfaction_rating,repeat_purchase
+SALE_000001,CUST_00247,PROD_5230,Food,Groceries,19.9,2,2025-08-08,False,Debit Card,Phone,4.2,True
+SALE_000002,CUST_00212,PROD_7649,Medical,Health,57.29,3,2025-06-19,False,Cash,Mobile App,4.8,False
+SALE_000003,CUST_00453,PROD_0688,Skincare,Health,29.12,3,2025-08-01,False,Gift Card,Phone,4.0,True
+SALE_000004,CUST_00222,PROD_7244,Garden,Home,247.46,4,2025-06-14,False,PayPal,Phone,4.7,False
+SALE_000005,CUST_00315,PROD_5729,Music,Entertainment,74.94,2,2025-06-24,False,Gift Card,Phone,4.7,True
+SALE_000006,CUST_00163,PROD_4230,Frozen,Groceries,25.32,2,2025-08-07,False,PayPal,Phone,4.5,True
+SALE_000007,CUST_00261,PROD_2689,Personal,Health,81.46,2,2025-05-04,False,Gift Card,Online,3.6,True
+SALE_000008,CUST_00072,PROD_5103,T-Shirt,Fashion,67.53,1,2025-05-24,False,PayPal,Online,5.0,False
+SALE_000009,CUST_00378,PROD_3668,Wellness,Health,14.94,3,2025-08-07,True,PayPal,Online,3.5,False
+SALE_000010,CUST_00294,PROD_8417,Exclusive,Luxury,1290.42,7,2025-07-07,False,PayPal,Phone,4.3,False
+SALE_000011,CUST_00054,PROD_5089,Streaming,Entertainment,28.01,2,2025-04-27,False,PayPal,Phone,5.0,False
+SALE_000012,CUST_00251,PROD_7649,Medical,Health,46.76,4,2025-08-07,True,Debit Card,Online,4.9,True
+SALE_000013,CUST_00254,PROD_7562,Books,Entertainment,43.61,5,2025-07-13,False,Cash,Mobile App,4.7,False
+SALE_000014,CUST_00074,PROD_4033,Household,Essentials,24.84,3,2025-07-16,True,Debit Card,Mobile App,5.0,False
+SALE_000015,CUST_00245,PROD_3966,Transportation,Essentials,27.15,6,2025-08-04,False,Debit Card,Online,3.6,True
+SALE_000016,CUST_00247,PROD_5228,Organic,Groceries,18.01,1,2025-05-06,False,Debit Card,Mobile App,4.1,False
+SALE_000017,CUST_00162,PROD_9246,Appliances,Home,157.86,3,2025-08-01,True,PayPal,Mobile App,5.0,True
+SALE_000018,CUST_00397,PROD_3240,Clearance,Discount,5.95,2,2025-07-28,False,Gift Card,In-Store,4.5,True
+SALE_000019,CUST_00264,PROD_3948,Fitness,Health,36.25,4,2025-05-30,False,Credit Card,Mobile App,4.5,True
+SALE_000020,CUST_00373,PROD_4930,Jeans,Fashion,131.64,3,2025-07-15,True,Credit Card,Online,4.9,True
+SALE_000021,CUST_00167,PROD_7244,Garden,Home,175.67,3,2025-02-18,True,Gift Card,Phone,4.2,False
+SALE_000022,CUST_00228,PROD_4033,Household,Essentials,29.72,3,2025-08-04,True,Credit Card,In-Store,4.7,False
+SALE_000023,CUST_00353,PROD_7925,Hotels,Travel,987.8,3,2025-07-06,False,Cash,Online,4.3,True
+SALE_000024,CUST_00327,PROD_7925,Hotels,Travel,1031.37,3,2025-07-14,False,Gift Card,Phone,4.0,True
+SALE_000025,CUST_00049,PROD_4430,Headphones,Electronics,330.63,3,2025-05-26,False,Gift Card,Phone,5.0,False
+SALE_000026,CUST_00499,PROD_4412,Jacket,Fashion,38.8,1,2025-07-11,True,Gift Card,Online,4.0,True
+SALE_000027,CUST_00089,PROD_5103,T-Shirt,Fashion,86.64,4,2025-02-25,False,Gift Card,In-Store,4.6,True
+SALE_000028,CUST_00027,PROD_5103,T-Shirt,Fashion,47.24,4,2025-07-22,False,PayPal,Online,4.5,True
+SALE_000029,CUST_00197,PROD_3948,Fitness,Health,32.46,2,2025-04-30,True,PayPal,Online,4.9,True
+SALE_000030,CUST_00425,PROD_5228,Organic,Groceries,7.24,2,2025-04-05,False,Cash,In-Store,3.7,True
+SALE_000031,CUST_00410,PROD_0972,Bulk,Discount,5.44,3,2025-05-02,True,Credit Card,Online,3.5,False
+SALE_000032,CUST_00234,PROD_4033,Household,Essentials,17.82,3,2025-07-27,True,Debit Card,Mobile App,3.9,False
+SALE_000033,CUST_00230,PROD_6980,Fresh,Groceries,19.7,5,2025-06-30,False,Credit Card,In-Store,4.3,False
+SALE_000034,CUST_00203,PROD_5230,Food,Groceries,24.67,1,2025-07-02,False,Debit Card,Mobile App,4.3,True
+SALE_000035,CUST_00464,PROD_3948,Fitness,Health,44.58,2,2025-05-10,False,Credit Card,Phone,4.2,True
+SALE_000036,CUST_00186,PROD_4458,Furniture,Home,220.97,3,2025-07-28,True,Gift Card,In-Store,4.4,False
+SALE_000037,CUST_00112,PROD_4881,Smartphone,Electronics,334.63,3,2025-08-08,True,Cash,Online,4.1,True
+SALE_000038,CUST_00434,PROD_4230,Frozen,Groceries,4.95,3,2025-05-25,True,Cash,Mobile App,3.9,False
+SALE_000039,CUST_00009,PROD_5089,Streaming,Entertainment,37.51,3,2025-04-21,False,Debit Card,Mobile App,4.4,True
+SALE_000040,CUST_00099,PROD_0864,Laptop,Electronics,304.46,3,2025-06-30,False,Credit Card,Mobile App,4.1,True
+SALE_000041,CUST_00248,PROD_5228,Organic,Groceries,15.96,1,2025-05-25,True,PayPal,Phone,4.8,False
+SALE_000042,CUST_00362,PROD_4412,Jacket,Fashion,144.59,3,2025-07-05,False,Gift Card,In-Store,5.0,True
+SALE_000043,CUST_00476,PROD_5230,Food,Groceries,9.37,3,2025-06-28,False,Gift Card,Online,3.4,False
+SALE_000044,CUST_00088,PROD_1745,Tablet,Electronics,304.79,3,2025-07-03,False,Gift Card,In-Store,5.0,True
+SALE_000045,CUST_00467,PROD_5230,Food,Groceries,13.78,1,2025-01-28,True,Credit Card,In-Store,4.5,True
+SALE_000046,CUST_00012,PROD_2864,Gaming,Electronics,386.4,1,2025-06-28,False,PayPal,In-Store,5.0,False
+SALE_000047,CUST_00318,PROD_3010,Activities,Travel,957.13,2,2025-05-28,False,Credit Card,Online,4.3,True
+SALE_000048,CUST_00299,PROD_9896,Generic,Discount,28.64,6,2025-04-28,False,Credit Card,Mobile App,4.6,True
+SALE_000049,CUST_00155,PROD_0473,Kitchen,Home,153.22,2,2025-05-12,False,PayPal,Phone,4.6,False
+SALE_000050,CUST_00210,PROD_6980,Fresh,Groceries,27.77,2,2025-05-04,False,Credit Card,In-Store,4.3,True
+SALE_000051,CUST_00467,PROD_6061,Insurance,Travel,377.18,3,2025-04-21,False,Cash,Phone,4.2,False
+SALE_000052,CUST_00326,PROD_9255,Car Rental,Travel,1608.32,3,2025-06-04,False,Gift Card,In-Store,4.0,True
+SALE_000053,CUST_00338,PROD_4112,Jewelry,Luxury,1435.86,4,2025-05-11,False,Credit Card,In-Store,4.8,True
+SALE_000054,CUST_00496,PROD_6980,Fresh,Groceries,11.08,5,2025-08-05,True,PayPal,Phone,4.3,True
+SALE_000055,CUST_00154,PROD_6980,Fresh,Groceries,12.52,4,2025-04-07,False,PayPal,Phone,4.6,False
+SALE_000056,CUST_00348,PROD_5103,T-Shirt,Fashion,97.57,4,2025-08-06,True,Debit Card,In-Store,5.0,True
+SALE_000057,CUST_00176,PROD_1284,Bedding,Home,300.9,4,2024-08-08,False,PayPal,Mobile App,5.0,True
+SALE_000058,CUST_00086,PROD_1486,Camera,Electronics,411.68,3,2025-03-07,False,PayPal,Online,4.3,False
+SALE_000059,CUST_00448,PROD_6980,Fresh,Groceries,5.94,6,2025-07-19,False,PayPal,Phone,4.0,True
+SALE_000060,CUST_00097,PROD_7899,Dress,Fashion,74.61,1,2025-04-24,False,Cash,Mobile App,4.4,True
+SALE_000061,CUST_00447,PROD_0473,Kitchen,Home,67.88,1,2025-07-24,True,Credit Card,Mobile App,3.0,False
+SALE_000062,CUST_00305,PROD_6061,Insurance,Travel,996.2,2,2025-07-07,True,Debit Card,Phone,4.9,True
+SALE_000063,CUST_00107,PROD_2864,Gaming,Electronics,528.54,1,2025-03-19,False,Gift Card,Phone,5.0,False
+SALE_000064,CUST_00272,PROD_2689,Personal,Health,34.19,3,2025-07-28,True,PayPal,Phone,4.0,False
+SALE_000065,CUST_00328,PROD_6061,Insurance,Travel,1664.11,2,2025-07-01,False,Gift Card,Phone,5.0,True
+SALE_000066,CUST_00138,PROD_9288,Accessories,Fashion,31.54,3,2025-07-23,True,Cash,In-Store,4.7,False
+SALE_000067,CUST_00028,PROD_4930,Jeans,Fashion,58.28,2,2025-04-08,False,PayPal,Mobile App,5.0,False
+SALE_000068,CUST_00390,PROD_6961,Utilities,Essentials,10.84,4,2025-03-14,True,PayPal,Mobile App,3.5,False
+SALE_000069,CUST_00335,PROD_7925,Hotels,Travel,1440.41,5,2025-08-04,False,Debit Card,Phone,4.8,False
+SALE_000070,CUST_00049,PROD_5228,Organic,Groceries,15.88,2,2025-06-29,False,Debit Card,In-Store,4.6,False
+SALE_000071,CUST_00108,PROD_4881,Smartphone,Electronics,246.3,4,2025-04-12,False,Gift Card,Phone,4.7,True
+SALE_000072,CUST_00053,PROD_0864,Laptop,Electronics,445.56,3,2025-06-27,False,PayPal,Phone,4.7,False
+SALE_000073,CUST_00499,PROD_9944,Snacks,Groceries,12.53,3,2024-12-24,False,Debit Card,Phone,5.0,True
+SALE_000074,CUST_00260,PROD_7649,Medical,Health,61.74,3,2025-07-31,False,Debit Card,Phone,4.1,True
+SALE_000075,CUST_00372,PROD_9896,Generic,Discount,38.78,1,2025-05-05,True,PayPal,Phone,5.0,True
+SALE_000076,CUST_00465,PROD_1486,Camera,Electronics,300.89,4,2025-05-05,True,PayPal,In-Store,4.4,True
+SALE_000077,CUST_00341,PROD_7244,Garden,Home,577.3,3,2025-06-12,False,Gift Card,Mobile App,5.0,True
+SALE_000078,CUST_00229,PROD_7649,Medical,Health,42.03,2,2025-05-22,True,Credit Card,Mobile App,3.9,True
+SALE_000079,CUST_00369,PROD_5170,Decor,Home,349.94,2,2025-08-06,False,Gift Card,In-Store,4.0,True
+SALE_000080,CUST_00207,PROD_0473,Kitchen,Home,143.99,3,2025-06-08,True,PayPal,Mobile App,4.7,True
+SALE_000081,CUST_00458,PROD_9246,Appliances,Home,113.44,2,2025-07-29,True,Credit Card,Online,4.2,False
+SALE_000082,CUST_00128,PROD_0864,Laptop,Electronics,221.17,4,2025-07-12,False,PayPal,Phone,4.5,True
+SALE_000083,CUST_00182,PROD_1284,Bedding,Home,237.34,1,2025-07-29,True,Cash,In-Store,4.2,True
+SALE_000084,CUST_00183,PROD_3948,Fitness,Health,34.87,4,2025-07-27,True,Gift Card,Phone,3.9,False
+SALE_000085,CUST_00456,PROD_3948,Fitness,Health,44.07,2,2025-06-06,False,Cash,Phone,3.7,True
+SALE_000086,CUST_00345,PROD_1670,Beverages,Groceries,39.78,3,2025-06-15,False,Credit Card,Phone,5.0,False
+SALE_000087,CUST_00173,PROD_4458,Furniture,Home,224.34,2,2025-07-27,False,Debit Card,Phone,3.7,False
+SALE_000088,CUST_00500,PROD_6961,Utilities,Essentials,20.06,4,2025-07-01,False,Cash,Phone,3.4,False
+SALE_000089,CUST_00379,PROD_9766,Games,Entertainment,18.14,6,2025-06-21,False,Debit Card,Phone,3.2,False
+SALE_000090,CUST_00041,PROD_2864,Gaming,Electronics,320.8,2,2025-07-21,False,Gift Card,Online,4.7,True
+SALE_000091,CUST_00477,PROD_3948,Fitness,Health,49.85,4,2025-07-02,False,Gift Card,In-Store,3.6,True
+SALE_000092,CUST_00309,PROD_5660,Packages,Travel,1120.5,3,2025-07-21,False,Gift Card,In-Store,5.0,False
+SALE_000093,CUST_00152,PROD_9944,Snacks,Groceries,25.71,2,2025-05-25,False,Debit Card,Online,4.5,True
+SALE_000094,CUST_00271,PROD_7244,Garden,Home,124.2,1,2025-05-30,False,Credit Card,Online,4.3,True
+SALE_000095,CUST_00106,PROD_8417,Exclusive,Luxury,605.95,4,2025-06-24,False,Credit Card,In-Store,4.1,False
+SALE_000096,CUST_00063,PROD_4412,Jacket,Fashion,77.51,7,2025-08-07,False,Credit Card,Phone,4.8,True
+SALE_000097,CUST_00264,PROD_7649,Medical,Health,67.83,1,2025-03-16,False,PayPal,Online,4.4,False
+SALE_000098,CUST_00072,PROD_4930,Jeans,Fashion,90.98,4,2025-05-02,False,Debit Card,Online,4.1,True
+SALE_000099,CUST_00420,PROD_0551,Cleaning,Essentials,12.13,2,2025-06-10,False,Gift Card,Phone,4.0,True
+SALE_000100,CUST_00287,PROD_0297,Concerts,Entertainment,47.98,3,2025-05-28,True,Cash,Online,4.7,True
+SALE_000101,CUST_00230,PROD_4458,Furniture,Home,131.18,4,2025-07-06,False,Debit Card,Mobile App,4.4,True
+SALE_000102,CUST_00462,PROD_1284,Bedding,Home,82.69,4,2025-07-02,True,PayPal,Online,3.8,False
+SALE_000103,CUST_00302,PROD_0864,Laptop,Electronics,723.01,3,2025-06-17,False,Cash,Online,4.9,True
+SALE_000104,CUST_00301,PROD_3010,Activities,Travel,1643.91,3,2025-02-26,False,Debit Card,Mobile App,5.0,False
+SALE_000105,CUST_00062,PROD_9288,Accessories,Fashion,49.82,3,2025-07-04,False,PayPal,Online,4.6,True
+SALE_000106,CUST_00429,PROD_1670,Beverages,Groceries,5.68,3,2025-07-19,True,Debit Card,Mobile App,4.3,False
+SALE_000107,CUST_00418,PROD_6980,Fresh,Groceries,6.74,1,2025-07-13,False,Credit Card,In-Store,3.9,False
+SALE_000108,CUST_00200,PROD_5230,Food,Groceries,16.88,3,2025-06-16,False,Debit Card,Phone,5.0,False
+SALE_000109,CUST_00035,PROD_4412,Jacket,Fashion,72.64,3,2025-02-02,False,PayPal,Online,5.0,True
+SALE_000110,CUST_00024,PROD_5103,T-Shirt,Fashion,73.39,3,2025-07-02,False,PayPal,Online,5.0,True
+SALE_000111,CUST_00409,PROD_4033,Household,Essentials,5.93,3,2025-06-08,True,Credit Card,In-Store,3.0,False
+SALE_000112,CUST_00198,PROD_2355,Basic,Discount,12.94,1,2025-01-28,False,Gift Card,Phone,4.0,True
+SALE_000113,CUST_00047,PROD_7637,Movies,Entertainment,38.48,3,2025-07-28,False,PayPal,Phone,4.0,True
+SALE_000114,CUST_00368,PROD_0297,Concerts,Entertainment,73.71,4,2024-12-22,True,Credit Card,Mobile App,4.2,False
+SALE_000115,CUST_00460,PROD_4881,Smartphone,Electronics,225.65,4,2025-07-30,False,Cash,Online,3.8,True
+SALE_000116,CUST_00227,PROD_9246,Appliances,Home,160.99,4,2025-07-28,False,Credit Card,Mobile App,4.2,False
+SALE_000117,CUST_00328,PROD_6061,Insurance,Travel,1128.72,4,2025-08-06,False,PayPal,In-Store,4.7,True
+SALE_000118,CUST_00019,PROD_1486,Camera,Electronics,482.08,2,2025-07-24,False,Gift Card,In-Store,4.9,True
+SALE_000119,CUST_00046,PROD_1745,Tablet,Electronics,297.38,4,2025-06-30,False,Credit Card,Mobile App,5.0,True
+SALE_000120,CUST_00297,PROD_8417,Exclusive,Luxury,1200.79,2,2025-06-14,False,Cash,Phone,5.0,False
+SALE_000121,CUST_00418,PROD_6961,Utilities,Essentials,9.47,5,2025-07-18,False,PayPal,In-Store,3.6,True
+SALE_000122,CUST_00360,PROD_7925,Hotels,Travel,1702.19,5,2025-07-23,False,Credit Card,Online,5.0,True
+SALE_000123,CUST_00265,PROD_4881,Smartphone,Electronics,431.58,3,2025-08-01,False,Debit Card,Mobile App,4.1,True
+SALE_000124,CUST_00246,PROD_5170,Decor,Home,182.89,7,2025-03-25,False,Gift Card,Online,3.3,False
+SALE_000125,CUST_00229,PROD_3948,Fitness,Health,53.18,1,2025-07-18,True,Cash,In-Store,4.7,False
+SALE_000126,CUST_00050,PROD_9896,Generic,Discount,12.29,3,2025-07-29,True,Debit Card,Online,4.1,True
+SALE_000127,CUST_00227,PROD_5170,Decor,Home,169.27,4,2025-07-01,False,Cash,In-Store,3.5,False
+SALE_000128,CUST_00034,PROD_9307,Basic Clothing,Essentials,20.59,4,2025-06-18,False,Cash,Online,5.0,True
+SALE_000129,CUST_00376,PROD_0551,Cleaning,Essentials,10.4,2,2025-07-24,False,Debit Card,In-Store,4.8,True
+SALE_000130,CUST_00332,PROD_3097,Premium,Luxury,1084.85,2,2025-06-07,False,Credit Card,Mobile App,4.1,True
+SALE_000131,CUST_00308,PROD_5228,Organic,Groceries,45.18,4,2025-07-09,True,Gift Card,In-Store,4.4,False
+SALE_000132,CUST_00400,PROD_6961,Utilities,Essentials,14.1,2,2025-06-28,False,Gift Card,Online,4.3,True
+SALE_000133,CUST_00258,PROD_0297,Concerts,Entertainment,63.1,3,2025-07-26,False,Debit Card,Phone,3.6,True
+SALE_000134,CUST_00115,PROD_0864,Laptop,Electronics,282.02,6,2025-07-28,True,Debit Card,In-Store,5.0,False
+SALE_000135,CUST_00241,PROD_0473,Kitchen,Home,128.24,4,2025-06-10,False,Credit Card,In-Store,4.8,True
+SALE_000136,CUST_00353,PROD_4340,Flights,Travel,1469.5,3,2025-05-31,False,PayPal,Phone,5.0,True
+SALE_000137,CUST_00094,PROD_7562,Books,Entertainment,20.38,1,2025-08-04,False,Gift Card,In-Store,4.8,False
+SALE_000138,CUST_00068,PROD_8128,Designer,Luxury,582.54,3,2025-05-14,False,PayPal,Mobile App,4.8,True
+SALE_000139,CUST_00165,PROD_0297,Concerts,Entertainment,25.11,2,2025-04-20,True,Cash,Mobile App,3.8,False
+SALE_000140,CUST_00162,PROD_4458,Furniture,Home,120.18,5,2025-05-16,True,Gift Card,Phone,3.9,False
+SALE_000141,CUST_00020,PROD_1486,Camera,Electronics,474.17,3,2025-01-12,False,PayPal,In-Store,5.0,True
+SALE_000142,CUST_00110,PROD_0864,Laptop,Electronics,393.21,6,2025-08-05,False,Cash,Phone,4.7,False
+SALE_000143,CUST_00130,PROD_0972,Bulk,Discount,9.07,6,2025-07-02,False,Gift Card,Mobile App,5.0,False
+SALE_000144,CUST_00091,PROD_6961,Utilities,Essentials,33.38,4,2025-07-11,False,Cash,Online,4.7,True
+SALE_000145,CUST_00275,PROD_7649,Medical,Health,52.24,4,2025-08-04,False,Credit Card,Mobile App,3.2,False
+SALE_000146,CUST_00233,PROD_9944,Snacks,Groceries,19.05,3,2025-06-19,False,Gift Card,In-Store,4.8,True
+SALE_000147,CUST_00410,PROD_3240,Clearance,Discount,7.44,1,2025-07-12,False,Cash,Online,3.8,True
+SALE_000148,CUST_00312,PROD_4112,Jewelry,Luxury,994.55,4,2025-07-26,True,Credit Card,Mobile App,4.7,True
+SALE_000149,CUST_00038,PROD_5089,Streaming,Entertainment,23.73,3,2025-08-02,False,Cash,Online,4.9,True
+SALE_000150,CUST_00474,PROD_6980,Fresh,Groceries,21.38,1,2025-06-23,False,Debit Card,Mobile App,4.4,False
+SALE_000151,CUST_00364,PROD_0297,Concerts,Entertainment,70.86,3,2025-07-03,True,Debit Card,In-Store,5.0,False
+SALE_000152,CUST_00053,PROD_1745,Tablet,Electronics,446.4,2,2025-07-04,True,Gift Card,Phone,4.2,True
+SALE_000153,CUST_00410,PROD_0972,Bulk,Discount,5.11,3,2025-06-29,False,Credit Card,Online,4.1,False
+SALE_000154,CUST_00465,PROD_9944,Snacks,Groceries,12.72,3,2025-05-31,True,Gift Card,Phone,4.2,True
+SALE_000155,CUST_00218,PROD_5228,Organic,Groceries,29.62,3,2025-07-24,False,Debit Card,Online,4.3,True
+SALE_000156,CUST_00450,PROD_5228,Organic,Groceries,5.0,4,2025-06-01,True,Debit Card,Mobile App,4.0,True
+SALE_000157,CUST_00378,PROD_0972,Bulk,Discount,4.33,3,2025-04-20,False,Debit Card,Mobile App,3.4,False
+SALE_000158,CUST_00384,PROD_8417,Exclusive,Luxury,233.01,2,2025-05-27,True,Cash,Online,5.0,True
+SALE_000159,CUST_00184,PROD_9246,Appliances,Home,269.68,3,2025-05-11,False,Debit Card,In-Store,4.5,True
+SALE_000160,CUST_00349,PROD_4112,Jewelry,Luxury,2209.62,4,2025-02-10,False,PayPal,Phone,4.3,False
+SALE_000161,CUST_00034,PROD_7562,Books,Entertainment,19.85,1,2025-05-17,True,Credit Card,In-Store,4.5,False
+SALE_000162,CUST_00105,PROD_4881,Smartphone,Electronics,213.24,2,2025-07-13,True,Credit Card,Mobile App,4.5,False
+SALE_000163,CUST_00047,PROD_7562,Books,Entertainment,31.04,2,2025-06-19,True,PayPal,In-Store,4.3,True
+SALE_000164,CUST_00242,PROD_5170,Decor,Home,159.09,3,2025-04-01,False,Cash,In-Store,4.5,True
+SALE_000165,CUST_00094,PROD_7562,Books,Entertainment,24.82,3,2025-06-21,False,PayPal,In-Store,4.0,True
+SALE_000166,CUST_00179,PROD_7244,Garden,Home,217.91,4,2025-06-28,False,PayPal,Phone,3.9,True
+SALE_000167,CUST_00051,PROD_2689,Personal,Health,38.85,3,2025-04-24,True,Credit Card,Mobile App,5.0,True
+SALE_000168,CUST_00081,PROD_0534,Shoes,Fashion,55.74,1,2025-06-03,False,Gift Card,Phone,4.8,False
+SALE_000169,CUST_00205,PROD_0297,Concerts,Entertainment,30.49,3,2025-08-03,True,Cash,In-Store,3.7,True
+SALE_000170,CUST_00331,PROD_5660,Packages,Travel,891.71,3,2025-07-09,False,Credit Card,In-Store,4.1,False
+SALE_000171,CUST_00429,PROD_5228,Organic,Groceries,8.64,1,2025-05-03,False,Debit Card,Mobile App,4.4,True
+SALE_000172,CUST_00244,PROD_6980,Fresh,Groceries,27.25,3,2025-08-04,False,Gift Card,Phone,4.4,True
+SALE_000173,CUST_00057,PROD_9288,Accessories,Fashion,84.02,3,2025-07-14,False,Debit Card,In-Store,4.2,False
+SALE_000174,CUST_00127,PROD_2864,Gaming,Electronics,414.04,3,2025-02-04,False,Credit Card,Online,4.6,False
+SALE_000175,CUST_00495,PROD_9944,Snacks,Groceries,16.96,1,2025-08-07,False,Credit Card,In-Store,4.0,True
+SALE_000176,CUST_00404,PROD_4881,Smartphone,Electronics,183.33,2,2025-04-09,False,Credit Card,Phone,3.3,False
+SALE_000177,CUST_00490,PROD_7925,Hotels,Travel,355.61,6,2025-05-05,False,Debit Card,In-Store,3.0,False
+SALE_000178,CUST_00249,PROD_1670,Beverages,Groceries,22.46,4,2025-05-07,False,Debit Card,Phone,3.5,False
+SALE_000179,CUST_00237,PROD_2355,Basic,Discount,9.12,3,2025-07-31,True,PayPal,Phone,4.2,True
+SALE_000180,CUST_00036,PROD_0864,Laptop,Electronics,385.16,3,2025-07-19,False,Debit Card,Phone,4.9,False
+SALE_000181,CUST_00246,PROD_5170,Decor,Home,266.19,4,2025-06-22,False,PayPal,Mobile App,4.9,False
+SALE_000182,CUST_00027,PROD_4930,Jeans,Fashion,52.84,3,2025-05-27,False,Cash,Online,3.6,False
+SALE_000183,CUST_00464,PROD_7649,Medical,Health,25.58,4,2025-05-24,False,Cash,Online,4.6,True
+SALE_000184,CUST_00201,PROD_0688,Skincare,Health,66.9,3,2025-07-11,False,Credit Card,In-Store,4.6,True
+SALE_000185,CUST_00107,PROD_3948,Fitness,Health,55.67,5,2025-06-19,False,Gift Card,Mobile App,4.8,True
+SALE_000186,CUST_00171,PROD_6961,Utilities,Essentials,21.77,5,2025-07-01,False,Debit Card,Mobile App,4.0,True
+SALE_000187,CUST_00393,PROD_3240,Clearance,Discount,4.73,1,2025-02-25,True,Cash,In-Store,3.8,False
+SALE_000188,CUST_00302,PROD_3097,Premium,Luxury,1977.86,4,2025-07-30,False,Credit Card,Online,5.0,True
+SALE_000189,CUST_00294,PROD_8417,Exclusive,Luxury,1463.08,2,2025-06-12,False,Debit Card,Phone,5.0,False
+SALE_000190,CUST_00158,PROD_9766,Games,Entertainment,54.22,4,2025-05-28,False,Credit Card,Phone,3.6,False
+SALE_000191,CUST_00099,PROD_1745,Tablet,Electronics,309.02,3,2025-06-14,False,Gift Card,Mobile App,4.9,True
+SALE_000192,CUST_00363,PROD_6061,Insurance,Travel,1131.32,2,2025-07-23,False,Gift Card,In-Store,4.7,True
+SALE_000193,CUST_00202,PROD_9246,Appliances,Home,157.49,1,2025-01-25,True,Gift Card,Online,4.4,True
+SALE_000194,CUST_00387,PROD_9896,Generic,Discount,5.26,4,2025-05-28,False,Gift Card,Mobile App,2.9,False
+SALE_000195,CUST_00180,PROD_6220,Seasonal,Discount,11.98,3,2025-07-23,True,Gift Card,Online,5.0,True
+SALE_000196,CUST_00108,PROD_1486,Camera,Electronics,210.73,4,2025-08-01,False,Cash,Online,5.0,False
+SALE_000197,CUST_00191,PROD_0688,Skincare,Health,36.44,4,2025-06-02,False,Cash,Online,5.0,True
+SALE_000198,CUST_00102,PROD_7899,Dress,Fashion,68.22,3,2025-05-24,False,Gift Card,In-Store,4.9,True
+SALE_000199,CUST_00037,PROD_4412,Jacket,Fashion,52.7,4,2025-07-13,False,Credit Card,In-Store,4.3,False
+SALE_000200,CUST_00482,PROD_4230,Frozen,Groceries,17.54,4,2025-02-26,False,PayPal,Online,3.8,False
+SALE_000201,CUST_00184,PROD_0473,Kitchen,Home,270.46,2,2025-07-30,False,Debit Card,Online,3.6,True
+SALE_000202,CUST_00035,PROD_6980,Fresh,Groceries,14.29,3,2025-08-04,False,PayPal,Online,4.6,True
+SALE_000203,CUST_00310,PROD_2355,Basic,Discount,23.19,2,2025-04-07,False,Gift Card,Mobile App,5.0,True
+SALE_000204,CUST_00352,PROD_7637,Movies,Entertainment,91.97,4,2025-03-28,False,PayPal,Online,4.5,True
+SALE_000205,CUST_00137,PROD_5089,Streaming,Entertainment,22.26,3,2025-06-01,False,PayPal,Phone,4.7,True
+SALE_000206,CUST_00236,PROD_9944,Snacks,Groceries,21.66,1,2025-07-02,False,Debit Card,Mobile App,3.8,True
+SALE_000207,CUST_00344,PROD_3010,Activities,Travel,932.25,3,2025-07-29,False,Cash,In-Store,5.0,False
+SALE_000208,CUST_00107,PROD_4881,Smartphone,Electronics,403.64,3,2025-05-23,False,Debit Card,Online,4.5,True
+SALE_000209,CUST_00059,PROD_5103,T-Shirt,Fashion,69.55,2,2025-04-02,False,Credit Card,In-Store,5.0,True
+SALE_000210,CUST_00126,PROD_1745,Tablet,Electronics,499.02,5,2025-06-13,False,Cash,Phone,4.7,True
+SALE_000211,CUST_00438,PROD_7649,Medical,Health,14.4,6,2025-06-28,False,Debit Card,In-Store,3.0,False
+SALE_000212,CUST_00271,PROD_0473,Kitchen,Home,192.86,1,2025-06-04,False,PayPal,In-Store,3.0,False
+SALE_000213,CUST_00023,PROD_4430,Headphones,Electronics,431.19,5,2025-06-24,False,Credit Card,Mobile App,5.0,True
+SALE_000214,CUST_00182,PROD_9246,Appliances,Home,347.38,3,2025-06-30,False,Cash,Phone,4.3,False
+SALE_000215,CUST_00281,PROD_5660,Packages,Travel,874.91,3,2025-08-01,False,PayPal,Online,4.0,True
+SALE_000216,CUST_00098,PROD_4430,Headphones,Electronics,366.11,1,2024-12-06,False,Debit Card,Phone,5.0,False
+SALE_000217,CUST_00360,PROD_9255,Car Rental,Travel,1095.19,3,2025-07-12,False,PayPal,Phone,5.0,True
+SALE_000218,CUST_00444,PROD_9896,Generic,Discount,5.64,3,2025-06-12,True,Cash,Mobile App,4.0,False
+SALE_000219,CUST_00379,PROD_0655,Personal Care,Essentials,14.18,5,2025-05-25,False,Cash,Online,3.5,False
+SALE_000220,CUST_00221,PROD_9246,Appliances,Home,269.56,2,2025-05-11,False,Cash,Mobile App,4.2,True
+SALE_000221,CUST_00094,PROD_0534,Shoes,Fashion,67.29,2,2025-05-01,False,Cash,Mobile App,4.7,True
+SALE_000222,CUST_00128,PROD_2864,Gaming,Electronics,323.53,1,2025-07-26,False,Cash,Online,5.0,True
+SALE_000223,CUST_00249,PROD_3948,Fitness,Health,45.99,2,2025-08-03,False,Cash,Mobile App,4.3,False
+SALE_000224,CUST_00367,PROD_5228,Organic,Groceries,65.08,2,2025-06-28,False,Gift Card,Mobile App,4.6,True
+SALE_000225,CUST_00491,PROD_6980,Fresh,Groceries,7.48,3,2025-06-30,True,Gift Card,Online,4.1,False
+SALE_000226,CUST_00088,PROD_2864,Gaming,Electronics,271.56,2,2025-07-04,False,Credit Card,Online,4.7,True
+SALE_000227,CUST_00257,PROD_9944,Snacks,Groceries,19.94,3,2025-08-05,False,Gift Card,Online,3.9,True
+SALE_000228,CUST_00162,PROD_0473,Kitchen,Home,145.39,2,2025-08-03,True,PayPal,In-Store,4.4,False
+SALE_000229,CUST_00402,PROD_8417,Exclusive,Luxury,280.63,3,2025-07-20,False,Credit Card,Phone,4.0,True
+SALE_000230,CUST_00408,PROD_0972,Bulk,Discount,4.97,2,2025-07-14,True,Debit Card,In-Store,3.7,True
+SALE_000231,CUST_00009,PROD_7637,Movies,Entertainment,32.55,3,2025-08-05,False,Debit Card,In-Store,3.8,True
+SALE_000232,CUST_00092,PROD_9288,Accessories,Fashion,57.22,3,2025-06-14,False,Debit Card,Phone,5.0,True
+SALE_000233,CUST_00172,PROD_4458,Furniture,Home,156.95,4,2025-08-02,False,Gift Card,Phone,4.0,False
+SALE_000234,CUST_00242,PROD_9246,Appliances,Home,240.2,2,2025-04-04,True,Debit Card,In-Store,3.9,False
+SALE_000235,CUST_00074,PROD_4881,Smartphone,Electronics,362.2,2,2025-07-01,False,Debit Card,In-Store,5.0,True
+SALE_000236,CUST_00173,PROD_1284,Bedding,Home,223.02,3,2025-04-16,False,PayPal,In-Store,4.9,True
+SALE_000237,CUST_00306,PROD_7925,Hotels,Travel,1146.18,2,2025-06-21,False,PayPal,Mobile App,5.0,True
+SALE_000238,CUST_00371,PROD_9255,Car Rental,Travel,1462.07,3,2025-08-01,False,Credit Card,Phone,4.5,True
+SALE_000239,CUST_00232,PROD_1670,Beverages,Groceries,17.13,1,2025-05-14,False,Debit Card,Online,3.8,True
+SALE_000240,CUST_00157,PROD_7244,Garden,Home,275.16,3,2025-03-01,False,Credit Card,In-Store,4.4,False
+SALE_000241,CUST_00456,PROD_8417,Exclusive,Luxury,520.33,4,2025-08-05,False,Debit Card,In-Store,4.9,True
+SALE_000242,CUST_00253,PROD_1486,Camera,Electronics,485.04,3,2025-07-18,False,Debit Card,Phone,4.8,True
+SALE_000243,CUST_00349,PROD_4112,Jewelry,Luxury,1734.71,7,2025-08-07,False,Cash,Online,4.3,True
+SALE_000244,CUST_00404,PROD_7925,Hotels,Travel,289.49,2,2025-06-21,False,Debit Card,Mobile App,3.6,False
+SALE_000245,CUST_00406,PROD_9896,Generic,Discount,5.17,1,2025-06-17,True,Cash,In-Store,4.2,False
+SALE_000246,CUST_00354,PROD_3010,Activities,Travel,1582.55,3,2025-06-10,False,PayPal,Online,4.8,True
+SALE_000247,CUST_00113,PROD_5228,Organic,Groceries,20.49,3,2025-07-31,False,Credit Card,Mobile App,5.0,False
+SALE_000248,CUST_00193,PROD_4230,Frozen,Groceries,26.75,4,2025-07-10,False,Cash,Phone,4.3,True
+SALE_000249,CUST_00164,PROD_5228,Organic,Groceries,22.22,7,2025-07-02,False,Debit Card,Online,3.6,True
+SALE_000250,CUST_00270,PROD_4112,Jewelry,Luxury,642.77,2,2025-05-26,False,Gift Card,Mobile App,4.3,False
+SALE_000251,CUST_00052,PROD_4430,Headphones,Electronics,322.61,3,2024-09-25,False,Credit Card,In-Store,4.2,False
+SALE_000252,CUST_00055,PROD_5089,Streaming,Entertainment,24.44,3,2025-04-22,False,Gift Card,Phone,4.6,True
+SALE_000253,CUST_00197,PROD_2689,Personal,Health,31.51,3,2025-02-06,False,PayPal,Online,4.9,True
+SALE_000254,CUST_00422,PROD_9944,Snacks,Groceries,9.19,5,2025-05-10,False,Gift Card,Mobile App,4.7,True
+SALE_000255,CUST_00005,PROD_7637,Movies,Entertainment,23.73,2,2025-06-19,True,Debit Card,Phone,5.0,True
+SALE_000256,CUST_00159,PROD_1284,Bedding,Home,139.87,2,2025-07-15,True,Cash,Mobile App,4.4,True
+SALE_000257,CUST_00379,PROD_6961,Utilities,Essentials,12.21,1,2025-03-25,False,Gift Card,Phone,4.2,False
+SALE_000258,CUST_00404,PROD_9944,Snacks,Groceries,6.51,1,2025-08-08,True,Gift Card,Phone,3.4,False
+SALE_000259,CUST_00056,PROD_0534,Shoes,Fashion,56.53,1,2025-03-05,False,Cash,Mobile App,4.5,True
+SALE_000260,CUST_00013,PROD_0297,Concerts,Entertainment,29.36,2,2025-07-29,False,Credit Card,Online,4.7,True
+SALE_000261,CUST_00074,PROD_1745,Tablet,Electronics,185.61,4,2025-06-23,True,Debit Card,Online,4.8,True
+SALE_000262,CUST_00373,PROD_8128,Designer,Luxury,1783.84,1,2025-07-17,False,PayPal,Phone,4.2,True
+SALE_000263,CUST_00297,PROD_8417,Exclusive,Luxury,1789.31,1,2025-07-13,False,Gift Card,Mobile App,4.2,True
+SALE_000264,CUST_00418,PROD_6961,Utilities,Essentials,7.61,3,2025-07-13,False,Credit Card,In-Store,4.1,False
+SALE_000265,CUST_00206,PROD_4230,Frozen,Groceries,27.61,6,2025-06-20,False,Debit Card,Mobile App,4.2,True
+SALE_000266,CUST_00137,PROD_0297,Concerts,Entertainment,35.87,2,2025-07-31,False,Credit Card,In-Store,4.4,False
+SALE_000267,CUST_00202,PROD_7244,Garden,Home,310.41,2,2025-06-12,False,Credit Card,Mobile App,3.9,True
+SALE_000268,CUST_00023,PROD_0473,Kitchen,Home,119.34,3,2025-07-13,False,Gift Card,Mobile App,4.2,False
+SALE_000269,CUST_00028,PROD_4412,Jacket,Fashion,30.2,2,2025-06-26,True,Cash,In-Store,5.0,False
+SALE_000270,CUST_00225,PROD_7649,Medical,Health,67.98,2,2025-06-23,False,PayPal,Mobile App,4.1,True
+SALE_000271,CUST_00068,PROD_7899,Dress,Fashion,66.39,3,2025-04-07,False,Cash,Mobile App,5.0,True
+SALE_000272,CUST_00200,PROD_4930,Jeans,Fashion,57.97,3,2025-01-30,True,Gift Card,Phone,4.0,False
+SALE_000273,CUST_00035,PROD_7899,Dress,Fashion,76.43,1,2025-08-01,False,Gift Card,Mobile App,4.3,True
+SALE_000274,CUST_00030,PROD_0864,Laptop,Electronics,437.32,4,2025-04-21,False,Gift Card,Mobile App,3.5,False
+SALE_000275,CUST_00143,PROD_0534,Shoes,Fashion,56.47,3,2025-06-08,True,Gift Card,Mobile App,3.8,False
+SALE_000276,CUST_00149,PROD_5089,Streaming,Entertainment,27.61,5,2025-03-31,False,Gift Card,Phone,5.0,True
+SALE_000277,CUST_00070,PROD_4930,Jeans,Fashion,48.18,2,2025-05-20,False,Gift Card,Online,5.0,True
+SALE_000278,CUST_00176,PROD_7244,Garden,Home,249.32,4,2025-05-10,True,PayPal,Mobile App,4.1,True
+SALE_000279,CUST_00018,PROD_5729,Music,Entertainment,33.79,2,2025-04-23,False,Cash,In-Store,5.0,False
+SALE_000280,CUST_00172,PROD_5170,Decor,Home,194.34,2,2025-06-08,False,Cash,Online,4.1,True
+SALE_000281,CUST_00028,PROD_9288,Accessories,Fashion,33.59,4,2025-07-23,True,Debit Card,Online,4.3,True
+SALE_000282,CUST_00124,PROD_7899,Dress,Fashion,51.5,4,2025-01-07,False,Credit Card,Phone,5.0,False
+SALE_000283,CUST_00023,PROD_4430,Headphones,Electronics,283.45,2,2025-07-22,False,Cash,Phone,4.8,False
+SALE_000284,CUST_00238,PROD_7649,Medical,Health,36.38,1,2025-02-18,False,Cash,Online,4.1,False
+SALE_000285,CUST_00136,PROD_5729,Music,Entertainment,22.24,3,2025-06-16,False,Debit Card,In-Store,5.0,False
+SALE_000286,CUST_00124,PROD_3948,Fitness,Health,58.67,3,2025-07-13,False,Gift Card,Online,5.0,False
+SALE_000287,CUST_00247,PROD_5230,Food,Groceries,16.84,2,2025-06-10,True,Gift Card,In-Store,3.9,False
+SALE_000288,CUST_00351,PROD_9896,Generic,Discount,23.53,3,2025-06-10,True,PayPal,Mobile App,5.0,True
+SALE_000289,CUST_00484,PROD_9307,Basic Clothing,Essentials,11.19,4,2025-06-17,False,Cash,Online,4.7,True
+SALE_000290,CUST_00287,PROD_4112,Jewelry,Luxury,1851.53,2,2025-05-09,False,PayPal,Mobile App,4.6,False
+SALE_000291,CUST_00440,PROD_3240,Clearance,Discount,4.48,1,2025-07-16,False,Credit Card,Online,4.6,False
+SALE_000292,CUST_00286,PROD_4340,Flights,Travel,1553.56,2,2025-08-07,False,PayPal,In-Store,5.0,False
+SALE_000293,CUST_00340,PROD_6061,Insurance,Travel,891.94,3,2025-06-18,False,Credit Card,Online,4.4,False
+SALE_000294,CUST_00218,PROD_4230,Frozen,Groceries,26.0,2,2025-05-25,False,PayPal,Phone,5.0,False
+SALE_000295,CUST_00181,PROD_0473,Kitchen,Home,244.33,1,2025-08-02,False,PayPal,In-Store,3.7,True
+SALE_000296,CUST_00141,PROD_4930,Jeans,Fashion,60.62,5,2025-07-07,False,PayPal,Online,4.1,False
+SALE_000297,CUST_00065,PROD_7637,Movies,Entertainment,31.18,5,2025-07-16,False,Gift Card,Phone,4.3,False
+SALE_000298,CUST_00194,PROD_4033,Household,Essentials,28.74,4,2025-07-24,False,PayPal,In-Store,4.3,True
+SALE_000299,CUST_00173,PROD_4458,Furniture,Home,252.9,6,2025-07-16,False,PayPal,Phone,3.7,False
+SALE_000300,CUST_00370,PROD_4340,Flights,Travel,1778.1,5,2025-06-23,False,PayPal,Mobile App,4.6,True
+SALE_000301,CUST_00410,PROD_9896,Generic,Discount,6.07,3,2025-07-13,True,Debit Card,In-Store,3.6,True
+SALE_000302,CUST_00149,PROD_5729,Music,Entertainment,15.66,3,2025-04-28,True,Cash,Phone,4.6,False
+SALE_000303,CUST_00390,PROD_4033,Household,Essentials,11.09,1,2025-07-19,False,Debit Card,In-Store,3.7,True
+SALE_000304,CUST_00476,PROD_1670,Beverages,Groceries,14.47,4,2025-07-08,False,Cash,Mobile App,4.7,True
+SALE_000305,CUST_00119,PROD_4881,Smartphone,Electronics,240.28,2,2025-08-08,True,Debit Card,Phone,5.0,True
+SALE_000306,CUST_00026,PROD_5103,T-Shirt,Fashion,48.28,4,2025-07-18,False,Cash,In-Store,4.7,False
+SALE_000307,CUST_00138,PROD_9288,Accessories,Fashion,40.81,3,2025-04-21,True,Debit Card,Online,4.8,True
+SALE_000308,CUST_00036,PROD_4881,Smartphone,Electronics,187.26,4,2025-06-09,True,Cash,Phone,4.7,True
+SALE_000309,CUST_00209,PROD_5230,Food,Groceries,24.07,2,2025-06-20,False,Credit Card,Mobile App,5.0,False
+SALE_000310,CUST_00087,PROD_4033,Household,Essentials,27.13,4,2025-04-15,False,PayPal,Mobile App,3.8,False
+SALE_000311,CUST_00271,PROD_0473,Kitchen,Home,223.61,3,2025-06-22,False,Debit Card,In-Store,4.4,False
+SALE_000312,CUST_00428,PROD_6980,Fresh,Groceries,7.72,3,2025-07-29,True,PayPal,Online,3.4,False
+SALE_000313,CUST_00051,PROD_7562,Books,Entertainment,21.79,3,2025-07-14,False,Gift Card,In-Store,4.9,False
+SALE_000314,CUST_00362,PROD_3010,Activities,Travel,944.82,2,2025-01-28,False,Credit Card,Mobile App,5.0,True
+SALE_000315,CUST_00243,PROD_4230,Frozen,Groceries,19.4,1,2025-07-06,False,Debit Card,Mobile App,3.9,True
+SALE_000316,CUST_00130,PROD_4430,Headphones,Electronics,451.01,4,2025-04-23,True,PayPal,Online,4.2,True
+SALE_000317,CUST_00174,PROD_4541,Supplements,Health,37.4,2,2025-07-18,False,Debit Card,In-Store,3.3,False
+SALE_000318,CUST_00073,PROD_4430,Headphones,Electronics,553.66,2,2025-03-24,False,Debit Card,Online,5.0,True
+SALE_000319,CUST_00441,PROD_6980,Fresh,Groceries,6.34,3,2025-07-10,True,PayPal,In-Store,3.3,False
+SALE_000320,CUST_00093,PROD_0864,Laptop,Electronics,462.03,5,2025-07-19,True,Debit Card,In-Store,4.5,True
+SALE_000321,CUST_00199,PROD_4458,Furniture,Home,222.37,4,2025-07-06,False,Gift Card,Online,4.8,False
+SALE_000322,CUST_00299,PROD_7925,Hotels,Travel,1416.33,3,2025-05-05,False,PayPal,Online,4.5,True
+SALE_000323,CUST_00075,PROD_4112,Jewelry,Luxury,707.04,3,2025-08-02,False,Debit Card,Phone,4.2,False
+SALE_000324,CUST_00009,PROD_9766,Games,Entertainment,33.61,2,2025-07-19,False,Gift Card,Online,4.5,True
+SALE_000325,CUST_00287,PROD_3097,Premium,Luxury,2242.94,4,2025-08-08,False,Cash,In-Store,3.7,False
+SALE_000326,CUST_00313,PROD_1602,Overstock,Discount,32.28,2,2025-07-18,False,Cash,Mobile App,4.6,False
+SALE_000327,CUST_00128,PROD_4881,Smartphone,Electronics,206.16,2,2025-05-20,False,Credit Card,Mobile App,4.7,True
+SALE_000328,CUST_00124,PROD_4930,Jeans,Fashion,54.07,4,2025-07-26,True,Cash,Mobile App,4.9,True
+SALE_000329,CUST_00279,PROD_6377,Watches,Luxury,1224.97,1,2025-05-05,True,Cash,Online,5.0,True
+SALE_000330,CUST_00465,PROD_5228,Organic,Groceries,12.9,3,2025-05-06,False,PayPal,Online,3.6,False
+SALE_000331,CUST_00210,PROD_4230,Frozen,Groceries,20.66,3,2025-08-03,False,Debit Card,Phone,3.5,False
+SALE_000332,CUST_00236,PROD_1670,Beverages,Groceries,21.7,3,2025-06-15,False,PayPal,Online,3.3,False
+SALE_000333,CUST_00471,PROD_1284,Bedding,Home,113.59,3,2025-07-13,True,Cash,Online,3.9,False
+SALE_000334,CUST_00141,PROD_4412,Jacket,Fashion,68.98,4,2025-03-13,False,PayPal,Mobile App,4.9,False
+SALE_000335,CUST_00052,PROD_1486,Camera,Electronics,407.92,2,2025-05-25,False,Debit Card,In-Store,5.0,False
+SALE_000336,CUST_00428,PROD_1670,Beverages,Groceries,7.31,3,2025-05-19,True,Debit Card,Online,3.0,False
+SALE_000337,CUST_00230,PROD_4458,Furniture,Home,155.04,4,2025-05-03,True,Credit Card,Mobile App,3.5,False
+SALE_000338,CUST_00145,PROD_1486,Camera,Electronics,481.27,3,2025-07-15,False,PayPal,Mobile App,4.8,True
+SALE_000339,CUST_00282,PROD_7925,Hotels,Travel,1346.81,2,2025-08-05,False,Debit Card,Phone,4.0,False
+SALE_000340,CUST_00430,PROD_4881,Smartphone,Electronics,148.71,3,2025-07-08,True,PayPal,In-Store,4.8,False
+SALE_000341,CUST_00475,PROD_0688,Skincare,Health,14.15,6,2025-07-27,True,Credit Card,In-Store,4.3,True
+SALE_000342,CUST_00317,PROD_8128,Designer,Luxury,1273.22,3,2025-04-10,False,Credit Card,Online,5.0,True
+SALE_000343,CUST_00037,PROD_7562,Books,Entertainment,33.01,5,2025-05-25,True,Debit Card,In-Store,4.8,False
+SALE_000344,CUST_00476,PROD_5230,Food,Groceries,12.24,3,2025-07-31,True,Debit Card,Online,3.9,True
+SALE_000345,CUST_00246,PROD_7244,Garden,Home,279.9,2,2025-01-30,False,PayPal,Online,4.7,True
+SALE_000346,CUST_00479,PROD_6980,Fresh,Groceries,9.44,2,2025-07-11,False,Cash,Phone,5.0,False
+SALE_000347,CUST_00348,PROD_2689,Personal,Health,85.64,3,2025-07-21,False,PayPal,Mobile App,5.0,False
+SALE_000348,CUST_00027,PROD_9288,Accessories,Fashion,59.11,3,2025-07-18,False,Credit Card,Mobile App,5.0,False
+SALE_000349,CUST_00214,PROD_0688,Skincare,Health,39.16,3,2025-06-27,False,Cash,Phone,3.6,True
+SALE_000350,CUST_00452,PROD_5170,Decor,Home,67.87,3,2025-08-01,True,Cash,Mobile App,3.6,True
+SALE_000351,CUST_00438,PROD_4230,Frozen,Groceries,7.22,4,2025-07-16,True,Cash,Mobile App,3.3,False
+SALE_000352,CUST_00345,PROD_5170,Decor,Home,659.6,2,2024-12-01,False,PayPal,Online,4.9,False
+SALE_000353,CUST_00145,PROD_2864,Gaming,Electronics,485.23,6,2025-06-14,False,Debit Card,Online,5.0,True
+SALE_000354,CUST_00158,PROD_8128,Designer,Luxury,705.01,2,2025-02-24,True,Credit Card,Phone,4.6,True
+SALE_000355,CUST_00216,PROD_7244,Garden,Home,207.2,2,2025-01-09,False,Cash,Mobile App,3.5,False
+SALE_000356,CUST_00190,PROD_0534,Shoes,Fashion,65.35,4,2025-05-21,True,Credit Card,Mobile App,4.4,False
+SALE_000357,CUST_00152,PROD_4230,Frozen,Groceries,16.06,3,2025-06-06,False,Debit Card,In-Store,4.2,True
+SALE_000358,CUST_00188,PROD_7649,Medical,Health,33.35,3,2025-07-03,True,Gift Card,In-Store,4.8,False
+SALE_000359,CUST_00076,PROD_4881,Smartphone,Electronics,561.01,4,2025-07-07,False,Debit Card,Mobile App,4.4,False
+SALE_000360,CUST_00063,PROD_9944,Snacks,Groceries,12.65,4,2025-04-24,False,PayPal,Phone,5.0,False
+SALE_000361,CUST_00266,PROD_4930,Jeans,Fashion,40.38,2,2025-05-23,True,Cash,Online,4.5,False
+SALE_000362,CUST_00419,PROD_1602,Overstock,Discount,2.84,2,2025-08-05,True,Gift Card,In-Store,3.4,False
+SALE_000363,CUST_00424,PROD_6980,Fresh,Groceries,10.28,2,2025-07-15,False,Credit Card,In-Store,4.1,False
+SALE_000364,CUST_00356,PROD_3097,Premium,Luxury,1077.84,1,2025-07-11,False,PayPal,In-Store,3.9,True
+SALE_000365,CUST_00086,PROD_4430,Headphones,Electronics,247.04,2,2025-07-31,False,PayPal,Mobile App,4.5,True
+SALE_000366,CUST_00062,PROD_0534,Shoes,Fashion,66.01,2,2025-08-01,True,PayPal,Phone,4.9,False
+SALE_000367,CUST_00205,PROD_9246,Appliances,Home,216.02,6,2025-06-18,False,Cash,Phone,5.0,True
+SALE_000368,CUST_00411,PROD_0551,Cleaning,Essentials,7.52,3,2025-06-25,True,PayPal,Online,4.4,False
+SALE_000369,CUST_00438,PROD_4412,Jacket,Fashion,19.65,2,2024-09-19,False,Gift Card,Phone,4.5,True
+SALE_000370,CUST_00423,PROD_4230,Frozen,Groceries,7.23,2,2025-04-10,True,Gift Card,Online,4.2,False
+SALE_000371,CUST_00406,PROD_1602,Overstock,Discount,5.68,1,2025-07-10,False,Cash,Phone,3.5,False
+SALE_000372,CUST_00180,PROD_0534,Shoes,Fashion,84.05,2,2025-02-02,False,PayPal,Mobile App,4.6,True
+SALE_000373,CUST_00398,PROD_9896,Generic,Discount,6.0,4,2025-06-13,False,Debit Card,In-Store,4.3,True
+SALE_000374,CUST_00159,PROD_4033,Household,Essentials,11.61,4,2025-08-02,False,PayPal,Online,3.6,True
+SALE_000375,CUST_00059,PROD_5103,T-Shirt,Fashion,57.78,4,2025-01-21,False,Credit Card,Mobile App,4.8,False
+SALE_000376,CUST_00294,PROD_8417,Exclusive,Luxury,2141.32,5,2025-07-22,False,Credit Card,Online,4.0,True
+SALE_000377,CUST_00089,PROD_4930,Jeans,Fashion,100.77,3,2025-07-03,False,Credit Card,Mobile App,4.3,True
+SALE_000378,CUST_00478,PROD_7244,Garden,Home,235.62,5,2025-07-20,False,Cash,In-Store,3.8,True
+SALE_000379,CUST_00071,PROD_2689,Personal,Health,50.16,2,2025-05-20,False,PayPal,Mobile App,4.7,True
+SALE_000380,CUST_00293,PROD_9255,Car Rental,Travel,1745.79,5,2025-08-05,False,PayPal,In-Store,4.7,True
+SALE_000381,CUST_00347,PROD_0997,Collections,Luxury,1790.8,2,2025-08-07,False,PayPal,Mobile App,5.0,False
+SALE_000382,CUST_00330,PROD_1486,Camera,Electronics,938.93,5,2025-06-21,False,Debit Card,In-Store,4.0,False
+SALE_000383,CUST_00083,PROD_7244,Garden,Home,219.98,3,2025-07-13,False,Gift Card,Mobile App,4.5,True
+SALE_000384,CUST_00020,PROD_4881,Smartphone,Electronics,469.8,3,2025-08-07,False,PayPal,Mobile App,5.0,False
+SALE_000385,CUST_00022,PROD_4412,Jacket,Fashion,54.62,5,2025-04-28,False,Debit Card,In-Store,5.0,False
+SALE_000386,CUST_00154,PROD_5228,Organic,Groceries,19.86,3,2025-06-24,True,Cash,Mobile App,4.4,False
+SALE_000387,CUST_00017,PROD_4412,Jacket,Fashion,56.43,5,2025-04-20,False,Debit Card,Mobile App,5.0,True
+SALE_000388,CUST_00175,PROD_3668,Wellness,Health,67.35,2,2025-06-12,False,Gift Card,Mobile App,4.6,False
+SALE_000389,CUST_00162,PROD_5660,Packages,Travel,482.97,3,2025-07-01,False,Debit Card,In-Store,4.3,True
+SALE_000390,CUST_00491,PROD_9944,Snacks,Groceries,11.59,4,2025-06-05,True,Credit Card,Mobile App,3.5,False
+SALE_000391,CUST_00016,PROD_5729,Music,Entertainment,25.23,2,2025-07-27,True,PayPal,Mobile App,4.7,True
+SALE_000392,CUST_00146,PROD_7637,Movies,Entertainment,30.94,7,2025-04-11,False,Credit Card,Online,5.0,True
+SALE_000393,CUST_00468,PROD_7244,Garden,Home,98.69,6,2025-03-14,True,Cash,Phone,3.4,False
+SALE_000394,CUST_00008,PROD_9766,Games,Entertainment,39.4,2,2025-07-12,False,PayPal,In-Store,5.0,False
+SALE_000395,CUST_00420,PROD_1670,Beverages,Groceries,9.63,3,2025-07-15,True,Cash,Mobile App,4.2,True
+SALE_000396,CUST_00050,PROD_1745,Tablet,Electronics,214.1,1,2025-07-30,True,Gift Card,Online,4.2,False
+SALE_000397,CUST_00483,PROD_7244,Garden,Home,58.64,3,2025-05-27,True,Gift Card,In-Store,4.2,True
+SALE_000398,CUST_00310,PROD_7925,Hotels,Travel,1663.96,5,2025-05-17,False,Credit Card,Phone,4.5,False
+SALE_000399,CUST_00349,PROD_4112,Jewelry,Luxury,1123.76,4,2025-07-27,True,Gift Card,In-Store,5.0,False
+SALE_000400,CUST_00237,PROD_0655,Personal Care,Essentials,33.64,3,2025-04-18,False,PayPal,Phone,4.0,False
+SALE_000401,CUST_00259,PROD_0473,Kitchen,Home,108.76,5,2025-08-03,True,Cash,Phone,3.7,False
+SALE_000402,CUST_00393,PROD_0972,Bulk,Discount,4.77,3,2025-06-05,False,Gift Card,Mobile App,4.5,False
+SALE_000403,CUST_00034,PROD_5729,Music,Entertainment,33.7,3,2025-07-20,False,Gift Card,In-Store,4.6,False
+SALE_000404,CUST_00301,PROD_2864,Gaming,Electronics,786.75,4,2025-05-03,False,Gift Card,Phone,4.6,True
+SALE_000405,CUST_00372,PROD_4112,Jewelry,Luxury,1952.32,4,2024-10-02,True,Gift Card,Mobile App,5.0,True
+SALE_000406,CUST_00236,PROD_1670,Beverages,Groceries,17.02,3,2025-06-22,True,Credit Card,In-Store,3.9,True
+SALE_000407,CUST_00369,PROD_6980,Fresh,Groceries,47.96,3,2025-06-16,False,PayPal,Mobile App,4.7,True
+SALE_000408,CUST_00177,PROD_8417,Exclusive,Luxury,790.72,1,2025-07-17,False,Cash,Phone,4.0,True
+SALE_000409,CUST_00423,PROD_2355,Basic,Discount,5.33,2,2025-07-31,True,Debit Card,Mobile App,3.7,True
+SALE_000410,CUST_00085,PROD_5729,Music,Entertainment,38.64,3,2025-05-08,False,Gift Card,Online,4.9,True
+SALE_000411,CUST_00112,PROD_4881,Smartphone,Electronics,528.25,1,2025-08-04,False,Debit Card,In-Store,4.3,False
+SALE_000412,CUST_00224,PROD_4230,Frozen,Groceries,13.34,2,2025-05-22,True,PayPal,Online,4.3,True
+SALE_000413,CUST_00141,PROD_0534,Shoes,Fashion,61.01,6,2025-07-13,True,PayPal,Online,4.4,True
+SALE_000414,CUST_00048,PROD_5103,T-Shirt,Fashion,66.96,4,2025-07-22,False,Cash,Phone,4.5,True
+SALE_000415,CUST_00052,PROD_6980,Fresh,Groceries,17.57,2,2025-03-08,False,Credit Card,Mobile App,4.5,False
+SALE_000416,CUST_00435,PROD_6961,Utilities,Essentials,12.83,3,2025-07-05,False,Debit Card,Phone,4.3,False
+SALE_000417,CUST_00245,PROD_3668,Wellness,Health,35.06,6,2025-07-11,False,Credit Card,In-Store,4.3,False
+SALE_000418,CUST_00080,PROD_9766,Games,Entertainment,37.51,7,2024-11-18,False,Debit Card,Online,4.7,False
+SALE_000419,CUST_00430,PROD_5089,Streaming,Entertainment,18.74,5,2025-06-21,False,Credit Card,Online,3.9,False
+SALE_000420,CUST_00332,PROD_0972,Bulk,Discount,34.13,2,2025-06-05,False,Gift Card,Mobile App,4.9,True
+SALE_000421,CUST_00485,PROD_5230,Food,Groceries,12.44,1,2025-07-25,True,Debit Card,In-Store,4.7,True
+SALE_000422,CUST_00323,PROD_4458,Furniture,Home,416.01,6,2025-03-16,True,Credit Card,In-Store,5.0,True
+SALE_000423,CUST_00012,PROD_2864,Gaming,Electronics,340.91,4,2025-06-18,False,Gift Card,In-Store,4.7,True
+SALE_000424,CUST_00303,PROD_6220,Seasonal,Discount,38.57,2,2025-05-05,False,Gift Card,Mobile App,4.6,True
+SALE_000425,CUST_00040,PROD_4541,Supplements,Health,52.31,3,2025-06-29,False,Gift Card,Phone,4.5,False
+SALE_000426,CUST_00270,PROD_4412,Jacket,Fashion,75.39,2,2025-06-08,False,Cash,In-Store,4.5,True
+SALE_000427,CUST_00021,PROD_5729,Music,Entertainment,20.04,2,2025-02-07,True,Debit Card,Mobile App,4.8,True
+SALE_000428,CUST_00066,PROD_4881,Smartphone,Electronics,286.79,2,2025-02-12,False,PayPal,Phone,4.2,True
+SALE_000429,CUST_00080,PROD_5089,Streaming,Entertainment,42.6,2,2025-07-22,False,Debit Card,Mobile App,4.9,True
+SALE_000430,CUST_00269,PROD_0997,Collections,Luxury,544.73,3,2025-07-17,True,Gift Card,Online,3.9,True
+SALE_000431,CUST_00288,PROD_0297,Concerts,Entertainment,57.9,3,2025-07-23,False,Credit Card,Online,5.0,False
+SALE_000432,CUST_00146,PROD_0297,Concerts,Entertainment,26.6,4,2025-05-07,False,Credit Card,Phone,4.2,False
+SALE_000433,CUST_00496,PROD_5230,Food,Groceries,15.27,3,2025-08-02,False,Cash,In-Store,3.5,False
+SALE_000434,CUST_00333,PROD_4112,Jewelry,Luxury,1215.12,4,2025-08-02,False,Credit Card,Phone,5.0,True
+SALE_000435,CUST_00061,PROD_1486,Camera,Electronics,318.28,4,2025-08-08,False,PayPal,Phone,4.6,True
+SALE_000436,CUST_00037,PROD_3010,Activities,Travel,507.58,1,2025-04-02,False,Credit Card,In-Store,3.5,False
+SALE_000437,CUST_00386,PROD_9896,Generic,Discount,5.23,3,2025-06-03,True,Credit Card,Online,4.4,True
+SALE_000438,CUST_00212,PROD_3668,Wellness,Health,52.81,3,2025-07-23,False,Cash,Phone,4.7,False
+SALE_000439,CUST_00133,PROD_3097,Premium,Luxury,737.69,6,2025-05-10,False,Cash,In-Store,5.0,False
+SALE_000440,CUST_00300,PROD_9255,Car Rental,Travel,911.91,5,2025-05-17,False,Debit Card,In-Store,5.0,False
+SALE_000441,CUST_00469,PROD_2689,Personal,Health,34.13,2,2025-08-08,False,Credit Card,Online,3.3,False
+SALE_000442,CUST_00486,PROD_3240,Clearance,Discount,9.4,2,2025-04-24,True,Debit Card,Phone,3.9,False
+SALE_000443,CUST_00108,PROD_7244,Garden,Home,145.15,3,2025-06-26,False,PayPal,In-Store,4.4,True
+SALE_000444,CUST_00453,PROD_4541,Supplements,Health,26.61,2,2025-07-27,False,Cash,In-Store,4.2,True
+SALE_000445,CUST_00314,PROD_3240,Clearance,Discount,35.24,5,2025-07-19,True,PayPal,In-Store,4.6,True
+SALE_000446,CUST_00088,PROD_2864,Gaming,Electronics,275.95,3,2025-03-15,False,PayPal,Phone,5.0,False
+SALE_000447,CUST_00466,PROD_5170,Decor,Home,146.49,4,2025-07-17,False,PayPal,Online,4.5,True
+SALE_000448,CUST_00111,PROD_0297,Concerts,Entertainment,29.61,2,2025-07-09,True,Gift Card,Phone,4.4,False
+SALE_000449,CUST_00029,PROD_0972,Bulk,Discount,9.96,4,2025-06-29,False,Debit Card,Online,4.9,True
+SALE_000450,CUST_00235,PROD_9255,Car Rental,Travel,419.17,4,2025-07-30,True,Credit Card,In-Store,4.7,False
+SALE_000451,CUST_00441,PROD_6980,Fresh,Groceries,10.54,3,2025-06-30,False,Credit Card,In-Store,3.3,False
+SALE_000452,CUST_00233,PROD_9288,Accessories,Fashion,84.12,4,2025-06-25,False,Credit Card,Phone,4.9,False
+SALE_000453,CUST_00211,PROD_4458,Furniture,Home,198.89,2,2025-07-26,False,PayPal,Phone,3.9,False
+SALE_000454,CUST_00217,PROD_5170,Decor,Home,273.17,1,2025-07-16,False,Credit Card,Mobile App,4.9,False
+SALE_000455,CUST_00309,PROD_3966,Transportation,Essentials,64.09,3,2025-03-11,False,PayPal,Mobile App,5.0,True
+SALE_000456,CUST_00225,PROD_7244,Garden,Home,138.61,4,2025-07-12,False,Gift Card,In-Store,3.8,False
+SALE_000457,CUST_00251,PROD_3668,Wellness,Health,48.84,2,2025-06-29,False,Debit Card,Phone,3.7,True
+SALE_000458,CUST_00401,PROD_4430,Headphones,Electronics,130.54,2,2025-05-05,True,Credit Card,Phone,3.4,False
+SALE_000459,CUST_00408,PROD_3240,Clearance,Discount,6.75,3,2025-06-25,False,Credit Card,Online,3.6,True
+SALE_000460,CUST_00176,PROD_1284,Bedding,Home,316.75,1,2025-07-11,False,Cash,Mobile App,4.2,False
+SALE_000461,CUST_00212,PROD_3948,Fitness,Health,56.69,4,2025-07-12,False,PayPal,Mobile App,4.5,False
+SALE_000462,CUST_00025,PROD_5089,Streaming,Entertainment,41.07,4,2025-05-02,False,Credit Card,Mobile App,5.0,True
+SALE_000463,CUST_00065,PROD_5089,Streaming,Entertainment,37.41,3,2025-07-11,True,Debit Card,Phone,5.0,True
+SALE_000464,CUST_00426,PROD_5228,Organic,Groceries,8.83,5,2025-06-04,False,Cash,Phone,3.2,False
+SALE_000465,CUST_00229,PROD_5170,Decor,Home,148.0,2,2025-04-25,False,Gift Card,Phone,3.9,True
+SALE_000466,CUST_00359,PROD_6961,Utilities,Essentials,59.77,2,2025-07-11,False,Debit Card,Online,4.4,False
+SALE_000467,CUST_00168,PROD_9944,Snacks,Groceries,12.72,3,2025-06-29,True,Cash,In-Store,5.0,True
+SALE_000468,CUST_00314,PROD_4112,Jewelry,Luxury,1059.32,3,2025-04-05,False,PayPal,Mobile App,4.0,False
+SALE_000469,CUST_00138,PROD_4930,Jeans,Fashion,62.33,2,2025-07-14,True,PayPal,Online,4.2,True
+SALE_000470,CUST_00364,PROD_5103,T-Shirt,Fashion,119.56,1,2025-05-16,False,Gift Card,Online,4.2,False
+SALE_000471,CUST_00198,PROD_0688,Skincare,Health,71.25,6,2025-07-20,False,Credit Card,In-Store,3.9,False
+SALE_000472,CUST_00062,PROD_5089,Streaming,Entertainment,39.26,3,2025-06-13,False,Gift Card,Phone,4.8,False
+SALE_000473,CUST_00433,PROD_4458,Furniture,Home,96.17,3,2025-06-08,True,Cash,Phone,2.8,False
+SALE_000474,CUST_00430,PROD_1670,Beverages,Groceries,4.67,4,2025-07-16,True,PayPal,Mobile App,3.1,False
+SALE_000475,CUST_00469,PROD_3668,Wellness,Health,40.4,1,2025-08-03,True,Gift Card,Online,4.0,True
+SALE_000476,CUST_00419,PROD_3948,Fitness,Health,27.4,3,2025-06-01,False,Credit Card,Mobile App,4.0,True
+SALE_000477,CUST_00377,PROD_5089,Streaming,Entertainment,15.67,3,2025-07-20,False,Gift Card,Online,4.5,False
+SALE_000478,CUST_00050,PROD_4430,Headphones,Electronics,375.44,3,2025-07-16,True,Debit Card,Mobile App,5.0,True
+SALE_000479,CUST_00066,PROD_0864,Laptop,Electronics,490.3,5,2025-08-05,False,PayPal,Online,4.8,False
+SALE_000480,CUST_00269,PROD_3668,Wellness,Health,55.47,2,2025-07-08,False,Gift Card,Phone,4.4,True
+SALE_000481,CUST_00063,PROD_9896,Generic,Discount,17.67,4,2025-07-20,False,Gift Card,In-Store,5.0,False
+SALE_000482,CUST_00339,PROD_0997,Collections,Luxury,1906.85,3,2025-04-22,False,Cash,Mobile App,4.4,False
+SALE_000483,CUST_00330,PROD_3240,Clearance,Discount,43.87,2,2025-07-11,False,Debit Card,Phone,4.8,False
+SALE_000484,CUST_00343,PROD_4340,Flights,Travel,1661.76,3,2025-05-22,False,Credit Card,Online,4.8,True
+SALE_000485,CUST_00111,PROD_6377,Watches,Luxury,757.02,7,2025-05-19,False,PayPal,Mobile App,5.0,True
+SALE_000486,CUST_00035,PROD_9288,Accessories,Fashion,53.83,1,2025-07-19,True,Debit Card,Phone,4.6,False
+SALE_000487,CUST_00209,PROD_9766,Games,Entertainment,27.67,2,2025-07-20,False,Cash,In-Store,4.5,True
+SALE_000488,CUST_00448,PROD_7244,Garden,Home,85.29,4,2025-07-09,True,PayPal,Mobile App,3.1,False
+SALE_000489,CUST_00349,PROD_0997,Collections,Luxury,2238.98,2,2025-07-19,False,Credit Card,Mobile App,4.7,False
+SALE_000490,CUST_00067,PROD_2689,Personal,Health,42.56,4,2025-05-08,False,Credit Card,Phone,5.0,False
+SALE_000491,CUST_00283,PROD_7925,Hotels,Travel,1081.38,3,2024-09-21,False,PayPal,In-Store,4.9,True
+SALE_000492,CUST_00288,PROD_1486,Camera,Electronics,907.82,2,2025-08-08,True,PayPal,In-Store,4.2,True
+SALE_000493,CUST_00268,PROD_0997,Collections,Luxury,633.6,1,2025-06-22,False,Debit Card,Online,4.5,True
+SALE_000494,CUST_00247,PROD_6961,Utilities,Essentials,30.66,1,2025-07-02,False,Cash,Phone,4.3,True
+SALE_000495,CUST_00278,PROD_4412,Jacket,Fashion,177.03,3,2025-02-26,False,Credit Card,Online,4.7,True
+SALE_000496,CUST_00385,PROD_9307,Basic Clothing,Essentials,13.86,1,2025-07-07,False,Cash,Mobile App,3.8,False
+SALE_000497,CUST_00258,PROD_9766,Games,Entertainment,41.09,2,2025-06-27,True,Cash,Phone,3.6,True
+SALE_000498,CUST_00325,PROD_5230,Food,Groceries,58.15,3,2025-06-13,False,Gift Card,In-Store,5.0,True
+SALE_000499,CUST_00324,PROD_9255,Car Rental,Travel,677.73,6,2025-08-05,True,Gift Card,Online,5.0,True
+SALE_000500,CUST_00191,PROD_3948,Fitness,Health,48.53,2,2025-07-16,False,Credit Card,Online,3.7,True
+SALE_000501,CUST_00164,PROD_5230,Food,Groceries,15.18,3,2025-07-28,False,PayPal,Mobile App,4.7,False
+SALE_000502,CUST_00475,PROD_2689,Personal,Health,29.73,7,2025-06-16,False,Debit Card,Mobile App,5.0,True
+SALE_000503,CUST_00221,PROD_5170,Decor,Home,223.19,3,2025-06-20,False,Debit Card,Online,4.0,True
+SALE_000504,CUST_00060,PROD_7637,Movies,Entertainment,36.15,1,2025-05-22,False,Credit Card,Phone,4.1,True
+SALE_000505,CUST_00079,PROD_5103,T-Shirt,Fashion,52.39,7,2025-06-11,False,Debit Card,Online,5.0,True
+SALE_000506,CUST_00251,PROD_3240,Clearance,Discount,17.43,3,2025-03-24,False,PayPal,Online,4.0,False
+SALE_000507,CUST_00365,PROD_3240,Clearance,Discount,37.55,1,2025-06-07,False,PayPal,Mobile App,4.5,False
+SALE_000508,CUST_00473,PROD_1670,Beverages,Groceries,18.91,3,2025-05-14,False,Debit Card,Online,4.1,False
+SALE_000509,CUST_00087,PROD_5729,Music,Entertainment,20.01,3,2025-07-20,False,PayPal,Phone,4.0,True
+SALE_000510,CUST_00269,PROD_1284,Bedding,Home,171.46,4,2025-01-14,True,Gift Card,Online,4.5,False
+SALE_000511,CUST_00449,PROD_5228,Organic,Groceries,7.11,2,2025-07-07,True,PayPal,Online,3.3,False
+SALE_000512,CUST_00043,PROD_0534,Shoes,Fashion,84.36,2,2025-07-18,False,Gift Card,Phone,4.6,False
+SALE_000513,CUST_00357,PROD_8128,Designer,Luxury,1677.67,4,2025-07-09,True,PayPal,In-Store,4.5,True
+SALE_000514,CUST_00298,PROD_0534,Shoes,Fashion,203.82,6,2025-07-29,False,PayPal,Mobile App,5.0,True
+SALE_000515,CUST_00084,PROD_5103,T-Shirt,Fashion,64.61,3,2025-07-25,False,Gift Card,In-Store,4.9,True
+SALE_000516,CUST_00226,PROD_5230,Food,Groceries,28.37,6,2025-07-06,False,Cash,Phone,4.2,True
+SALE_000517,CUST_00312,PROD_1670,Beverages,Groceries,53.78,3,2025-05-22,False,Credit Card,Phone,4.8,True
+SALE_000518,CUST_00040,PROD_1745,Tablet,Electronics,352.15,2,2025-06-21,False,PayPal,Mobile App,5.0,True
+SALE_000519,CUST_00041,PROD_2864,Gaming,Electronics,249.48,4,2025-08-01,False,Gift Card,Online,5.0,False
+SALE_000520,CUST_00119,PROD_4458,Furniture,Home,229.26,6,2025-07-30,False,Cash,Online,4.9,True
+SALE_000521,CUST_00372,PROD_8417,Exclusive,Luxury,1967.91,3,2025-03-19,False,Cash,Phone,4.9,False
+SALE_000522,CUST_00368,PROD_0997,Collections,Luxury,1430.55,2,2025-06-26,False,PayPal,Phone,5.0,True
+SALE_000523,CUST_00014,PROD_4930,Jeans,Fashion,52.19,1,2025-07-11,False,Credit Card,In-Store,4.8,False
+SALE_000524,CUST_00472,PROD_2689,Personal,Health,18.47,2,2025-07-24,True,Credit Card,Phone,5.0,True
+SALE_000525,CUST_00126,PROD_9944,Snacks,Groceries,25.05,3,2025-07-14,False,Credit Card,Mobile App,4.7,False
+SALE_000526,CUST_00466,PROD_2864,Gaming,Electronics,218.88,4,2025-04-27,False,PayPal,In-Store,5.0,True
+SALE_000527,CUST_00389,PROD_9307,Basic Clothing,Essentials,8.32,3,2025-07-20,False,PayPal,Mobile App,3.4,False
+SALE_000528,CUST_00043,PROD_0534,Shoes,Fashion,83.75,1,2025-06-28,False,Gift Card,In-Store,3.8,False
+SALE_000529,CUST_00293,PROD_7562,Books,Entertainment,68.53,1,2025-07-23,True,Cash,In-Store,4.9,True
+SALE_000530,CUST_00185,PROD_9944,Snacks,Groceries,25.74,3,2025-07-23,False,Cash,In-Store,4.1,True
+SALE_000531,CUST_00448,PROD_4230,Frozen,Groceries,11.17,1,2025-07-22,False,PayPal,Phone,2.7,False
+SALE_000532,CUST_00122,PROD_7637,Movies,Entertainment,31.65,4,2025-08-02,False,Cash,Phone,4.5,True
+SALE_000533,CUST_00265,PROD_7637,Movies,Entertainment,46.31,5,2025-05-05,False,PayPal,Online,3.9,True
+SALE_000534,CUST_00122,PROD_0297,Concerts,Entertainment,26.4,1,2025-08-02,False,Credit Card,Mobile App,4.4,False
+SALE_000535,CUST_00314,PROD_2689,Personal,Health,105.62,2,2025-05-02,False,Debit Card,In-Store,4.7,True
+SALE_000536,CUST_00305,PROD_7925,Hotels,Travel,1735.73,1,2025-05-14,False,Gift Card,Online,4.7,True
+SALE_000537,CUST_00474,PROD_6980,Fresh,Groceries,18.98,2,2025-03-20,True,PayPal,Mobile App,3.2,False
+SALE_000538,CUST_00245,PROD_4541,Supplements,Health,48.63,2,2025-06-28,False,Gift Card,Phone,3.4,False
+SALE_000539,CUST_00082,PROD_7637,Movies,Entertainment,25.55,4,2025-06-02,False,Gift Card,In-Store,4.5,False
+SALE_000540,CUST_00092,PROD_0534,Shoes,Fashion,43.58,3,2025-04-02,True,Debit Card,Online,5.0,True
+SALE_000541,CUST_00499,PROD_5230,Food,Groceries,20.49,1,2025-05-06,False,Credit Card,Mobile App,4.5,False
+SALE_000542,CUST_00436,PROD_0997,Collections,Luxury,248.23,2,2025-07-26,False,Cash,In-Store,4.8,False
+SALE_000543,CUST_00288,PROD_7925,Hotels,Travel,1046.31,2,2025-07-31,False,Cash,In-Store,4.7,False
+SALE_000544,CUST_00347,PROD_1670,Beverages,Groceries,33.45,5,2025-07-26,False,Gift Card,Phone,4.1,False
+SALE_000545,CUST_00031,PROD_7637,Movies,Entertainment,34.53,4,2025-08-04,False,Debit Card,In-Store,4.9,True
+SALE_000546,CUST_00352,PROD_7925,Hotels,Travel,1317.4,2,2025-07-28,False,Debit Card,In-Store,4.5,False
+SALE_000547,CUST_00333,PROD_6377,Watches,Luxury,1122.45,2,2025-08-04,False,PayPal,In-Store,4.7,True
+SALE_000548,CUST_00405,PROD_9944,Snacks,Groceries,6.93,4,2025-08-04,False,Gift Card,Phone,4.1,False
+SALE_000549,CUST_00290,PROD_7562,Books,Entertainment,86.53,3,2025-07-07,True,Credit Card,In-Store,4.8,True
+SALE_000550,CUST_00458,PROD_0473,Kitchen,Home,127.75,3,2025-07-25,False,Cash,Phone,4.5,True
+SALE_000551,CUST_00432,PROD_6961,Utilities,Essentials,14.09,1,2025-07-26,False,Debit Card,In-Store,4.3,True
+SALE_000552,CUST_00075,PROD_6961,Utilities,Essentials,31.21,2,2025-07-30,False,Cash,Phone,4.6,True
+SALE_000553,CUST_00408,PROD_9896,Generic,Discount,3.39,5,2025-07-15,True,PayPal,Online,4.5,True
+SALE_000554,CUST_00217,PROD_4340,Flights,Travel,578.76,4,2025-07-29,False,Credit Card,Online,4.2,True
+SALE_000555,CUST_00319,PROD_9246,Appliances,Home,536.63,4,2025-05-05,False,Cash,Online,5.0,True
+SALE_000556,CUST_00147,PROD_4930,Jeans,Fashion,34.5,2,2025-07-15,True,Gift Card,In-Store,4.2,False
+SALE_000557,CUST_00141,PROD_5103,T-Shirt,Fashion,57.2,2,2025-06-12,False,Debit Card,Online,5.0,True
+SALE_000558,CUST_00167,PROD_4930,Jeans,Fashion,40.51,2,2025-07-28,True,PayPal,Mobile App,4.6,False
+SALE_000559,CUST_00112,PROD_1745,Tablet,Electronics,352.5,6,2025-07-05,False,Debit Card,In-Store,5.0,False
+SALE_000560,CUST_00033,PROD_4930,Jeans,Fashion,66.06,3,2025-07-02,False,Credit Card,Phone,5.0,True
+SALE_000561,CUST_00180,PROD_2689,Personal,Health,61.18,2,2025-07-29,True,Credit Card,Mobile App,4.1,False
+SALE_000562,CUST_00081,PROD_4930,Jeans,Fashion,46.8,4,2025-05-30,False,Gift Card,Online,5.0,False
+SALE_000563,CUST_00066,PROD_1486,Camera,Electronics,411.99,2,2025-07-27,False,Debit Card,Online,5.0,True
+SALE_000564,CUST_00466,PROD_9246,Appliances,Home,130.92,2,2025-05-02,False,Gift Card,Phone,4.4,True
+SALE_000565,CUST_00332,PROD_4112,Jewelry,Luxury,1761.62,5,2025-06-20,False,Debit Card,Mobile App,4.7,False
+SALE_000566,CUST_00010,PROD_5729,Music,Entertainment,23.98,5,2025-06-18,False,PayPal,Phone,4.6,False
+SALE_000567,CUST_00232,PROD_6980,Fresh,Groceries,13.13,1,2025-08-03,False,Gift Card,Online,4.8,True
+SALE_000568,CUST_00262,PROD_4541,Supplements,Health,53.63,3,2025-02-12,False,PayPal,Online,4.8,True
+SALE_000569,CUST_00219,PROD_2689,Personal,Health,59.62,3,2025-06-17,True,PayPal,Phone,4.1,False
+SALE_000570,CUST_00288,PROD_5660,Packages,Travel,852.36,4,2025-07-14,False,PayPal,Mobile App,4.9,False
+SALE_000571,CUST_00128,PROD_7562,Books,Entertainment,17.38,2,2025-07-11,False,Cash,Phone,4.8,False
+SALE_000572,CUST_00250,PROD_1670,Beverages,Groceries,31.17,2,2025-05-03,False,Gift Card,In-Store,4.3,True
+SALE_000573,CUST_00279,PROD_8128,Designer,Luxury,1102.71,3,2025-06-17,False,Credit Card,Mobile App,5.0,False
+SALE_000574,CUST_00194,PROD_3948,Fitness,Health,69.52,2,2025-07-25,True,Credit Card,In-Store,4.6,True
+SALE_000575,CUST_00208,PROD_6980,Fresh,Groceries,26.68,1,2025-06-29,False,Gift Card,In-Store,4.3,True
+SALE_000576,CUST_00438,PROD_0972,Bulk,Discount,5.28,3,2025-05-29,False,Debit Card,Online,3.0,False
+SALE_000577,CUST_00207,PROD_7244,Garden,Home,168.65,2,2025-06-13,True,PayPal,Online,3.3,False
+SALE_000578,CUST_00129,PROD_7562,Books,Entertainment,35.23,4,2025-08-01,False,Debit Card,In-Store,5.0,True
+SALE_000579,CUST_00448,PROD_1486,Camera,Electronics,138.63,2,2025-07-11,True,Gift Card,In-Store,4.4,True
+SALE_000580,CUST_00243,PROD_5228,Organic,Groceries,17.31,5,2025-06-29,False,Gift Card,Mobile App,4.2,False
+SALE_000581,CUST_00012,PROD_0864,Laptop,Electronics,228.78,3,2025-05-01,True,PayPal,Mobile App,4.6,True
+SALE_000582,CUST_00400,PROD_4230,Frozen,Groceries,11.23,1,2025-07-10,False,Cash,In-Store,3.3,False
+SALE_000583,CUST_00406,PROD_6220,Seasonal,Discount,6.54,1,2025-06-22,False,Cash,Phone,3.2,False
+SALE_000584,CUST_00392,PROD_6980,Fresh,Groceries,5.04,4,2025-07-13,True,Gift Card,Online,3.8,False
+SALE_000585,CUST_00132,PROD_5729,Music,Entertainment,23.73,4,2025-03-18,False,Gift Card,In-Store,4.7,True
+SALE_000586,CUST_00031,PROD_7562,Books,Entertainment,19.51,5,2025-06-22,True,Gift Card,In-Store,5.0,True
+SALE_000587,CUST_00163,PROD_0688,Skincare,Health,56.12,1,2025-07-26,False,Credit Card,Mobile App,4.6,False
+SALE_000588,CUST_00078,PROD_7637,Movies,Entertainment,27.39,4,2025-06-13,False,Gift Card,Phone,5.0,True
+SALE_000589,CUST_00211,PROD_3966,Transportation,Essentials,17.09,3,2025-07-31,False,Gift Card,Phone,4.7,False
+SALE_000590,CUST_00386,PROD_3240,Clearance,Discount,3.8,3,2025-07-21,False,Credit Card,Mobile App,4.3,False
+SALE_000591,CUST_00068,PROD_4430,Headphones,Electronics,379.36,2,2025-06-09,False,Credit Card,Mobile App,4.0,True
+SALE_000592,CUST_00364,PROD_0972,Bulk,Discount,26.43,2,2025-06-15,False,Cash,Mobile App,4.9,False
+SALE_000593,CUST_00308,PROD_6061,Insurance,Travel,1187.18,5,2025-08-05,True,Gift Card,Phone,4.7,True
+SALE_000594,CUST_00430,PROD_5230,Food,Groceries,9.32,4,2025-07-02,False,Gift Card,Phone,3.9,True
+SALE_000595,CUST_00375,PROD_5729,Music,Entertainment,108.14,1,2025-08-07,False,Credit Card,Mobile App,4.1,True
+SALE_000596,CUST_00212,PROD_4541,Supplements,Health,32.47,2,2025-07-29,True,Debit Card,Mobile App,5.0,True
+SALE_000597,CUST_00237,PROD_3668,Wellness,Health,65.6,4,2025-05-25,False,Gift Card,In-Store,4.7,False
+SALE_000598,CUST_00445,PROD_3010,Activities,Travel,205.72,5,2025-06-12,True,Debit Card,Mobile App,4.4,True
+SALE_000599,CUST_00129,PROD_4881,Smartphone,Electronics,362.62,1,2025-07-06,False,Debit Card,Mobile App,4.3,True
+SALE_000600,CUST_00006,PROD_4412,Jacket,Fashion,66.61,2,2025-07-28,True,Cash,Online,4.1,False
+SALE_000601,CUST_00229,PROD_2689,Personal,Health,53.3,3,2025-07-23,False,Debit Card,Mobile App,5.0,True
+SALE_000602,CUST_00371,PROD_6061,Insurance,Travel,1404.43,4,2025-07-07,False,Gift Card,Phone,5.0,False
+SALE_000603,CUST_00409,PROD_6961,Utilities,Essentials,9.06,3,2025-06-08,False,Credit Card,Online,4.3,True
+SALE_000604,CUST_00475,PROD_0688,Skincare,Health,28.49,2,2025-06-19,False,Credit Card,Online,4.4,True
+SALE_000605,CUST_00043,PROD_4458,Furniture,Home,238.8,2,2025-06-26,False,Credit Card,Online,4.5,False
+SALE_000606,CUST_00489,PROD_7244,Garden,Home,123.01,1,2025-07-31,False,Credit Card,Online,4.1,True
+SALE_000607,CUST_00040,PROD_3240,Clearance,Discount,10.11,2,2025-07-19,False,Cash,Online,4.4,False
+SALE_000608,CUST_00036,PROD_1745,Tablet,Electronics,271.52,3,2025-07-20,False,Cash,Phone,5.0,True
+SALE_000609,CUST_00285,PROD_8417,Exclusive,Luxury,1405.24,1,2025-04-22,False,Cash,In-Store,5.0,False
+SALE_000610,CUST_00460,PROD_5230,Food,Groceries,10.89,2,2025-06-11,False,PayPal,In-Store,4.3,False
+SALE_000611,CUST_00267,PROD_4541,Supplements,Health,42.0,3,2025-07-12,True,Cash,Phone,4.7,True
+SALE_000612,CUST_00398,PROD_6961,Utilities,Essentials,6.16,1,2025-07-03,True,PayPal,Mobile App,4.5,True
+SALE_000613,CUST_00411,PROD_0551,Cleaning,Essentials,14.45,3,2025-07-02,False,Debit Card,In-Store,4.6,True
+SALE_000614,CUST_00489,PROD_9246,Appliances,Home,134.79,3,2025-03-22,True,Credit Card,Mobile App,3.8,True
+SALE_000615,CUST_00393,PROD_2355,Basic,Discount,3.94,3,2025-06-11,True,Credit Card,Online,3.9,False
+SALE_000616,CUST_00064,PROD_4541,Supplements,Health,69.8,2,2025-06-23,False,Debit Card,In-Store,5.0,True
+SALE_000617,CUST_00026,PROD_7899,Dress,Fashion,76.66,3,2025-03-18,False,Cash,Mobile App,5.0,False
+SALE_000618,CUST_00155,PROD_9246,Appliances,Home,269.39,3,2025-07-06,False,PayPal,Mobile App,5.0,True
+SALE_000619,CUST_00150,PROD_7637,Movies,Entertainment,21.94,3,2025-07-30,False,Gift Card,Phone,4.0,True
+SALE_000620,CUST_00303,PROD_7899,Dress,Fashion,105.98,4,2025-07-31,True,Cash,Phone,4.2,True
+SALE_000621,CUST_00078,PROD_7562,Books,Entertainment,28.06,3,2025-06-12,True,PayPal,In-Store,4.6,False
+SALE_000622,CUST_00092,PROD_0534,Shoes,Fashion,49.52,2,2025-08-05,False,Debit Card,In-Store,5.0,False
+SALE_000623,CUST_00468,PROD_0473,Kitchen,Home,78.57,2,2025-04-13,True,Credit Card,Phone,4.6,False
+SALE_000624,CUST_00261,PROD_3948,Fitness,Health,57.34,3,2025-04-22,False,PayPal,Phone,4.5,False
+SALE_000625,CUST_00223,PROD_9944,Snacks,Groceries,21.83,4,2025-06-05,False,Debit Card,Phone,3.9,True
+SALE_000626,CUST_00224,PROD_0864,Laptop,Electronics,247.59,1,2025-07-04,False,Debit Card,Online,4.1,True
+SALE_000627,CUST_00307,PROD_9255,Car Rental,Travel,1698.98,5,2025-08-01,False,Credit Card,Phone,5.0,True
+SALE_000628,CUST_00027,PROD_0534,Shoes,Fashion,79.78,2,2025-07-31,False,Credit Card,Online,5.0,True
+SALE_000629,CUST_00321,PROD_5228,Organic,Groceries,63.4,2,2025-05-14,False,Debit Card,Phone,5.0,True
+SALE_000630,CUST_00342,PROD_3010,Activities,Travel,911.91,1,2025-07-18,True,Debit Card,Mobile App,5.0,False
+SALE_000631,CUST_00012,PROD_4881,Smartphone,Electronics,353.13,4,2025-07-29,True,PayPal,In-Store,4.3,True
+SALE_000632,CUST_00039,PROD_1745,Tablet,Electronics,606.13,4,2025-06-14,False,PayPal,In-Store,5.0,True
+SALE_000633,CUST_00204,PROD_3668,Wellness,Health,48.36,6,2025-05-28,True,Cash,Phone,4.5,True
+SALE_000634,CUST_00130,PROD_0864,Laptop,Electronics,389.59,2,2025-06-15,True,PayPal,Phone,2.9,False
+SALE_000635,CUST_00469,PROD_2689,Personal,Health,38.1,4,2025-07-09,False,PayPal,In-Store,4.7,True
+SALE_000636,CUST_00281,PROD_5660,Packages,Travel,1753.42,1,2025-07-25,False,Credit Card,Online,5.0,True
+SALE_000637,CUST_00476,PROD_1670,Beverages,Groceries,10.26,5,2025-06-07,False,Debit Card,Online,4.4,False
+SALE_000638,CUST_00178,PROD_8417,Exclusive,Luxury,731.51,4,2025-07-13,False,Debit Card,Mobile App,4.3,True
+SALE_000639,CUST_00225,PROD_9896,Generic,Discount,7.13,3,2025-07-22,True,PayPal,Phone,3.9,False
+SALE_000640,CUST_00304,PROD_8417,Exclusive,Luxury,1450.5,3,2025-07-08,False,PayPal,Mobile App,5.0,True
+SALE_000641,CUST_00383,PROD_5230,Food,Groceries,5.82,2,2025-05-05,False,Credit Card,Online,3.0,False
+SALE_000642,CUST_00257,PROD_4541,Supplements,Health,59.15,3,2025-07-15,False,PayPal,Mobile App,4.8,False
+SALE_000643,CUST_00130,PROD_1486,Camera,Electronics,516.09,4,2025-07-17,False,Debit Card,Mobile App,4.6,False
+SALE_000644,CUST_00070,PROD_0297,Concerts,Entertainment,30.83,3,2025-06-02,True,PayPal,In-Store,3.9,False
+SALE_000645,CUST_00105,PROD_0534,Shoes,Fashion,58.45,1,2025-07-21,False,Credit Card,Online,5.0,True
+SALE_000646,CUST_00411,PROD_0655,Personal Care,Essentials,12.54,3,2025-07-12,False,Debit Card,Phone,4.0,True
+SALE_000647,CUST_00472,PROD_3966,Transportation,Essentials,16.43,4,2025-08-06,False,Credit Card,Online,4.6,False
+SALE_000648,CUST_00408,PROD_1602,Overstock,Discount,4.14,4,2025-05-07,False,PayPal,Online,4.0,False
+SALE_000649,CUST_00315,PROD_0551,Cleaning,Essentials,85.3,1,2025-06-19,False,Cash,Phone,5.0,False
+SALE_000650,CUST_00342,PROD_7925,Hotels,Travel,1483.48,3,2025-07-28,False,Debit Card,Online,4.5,True
+SALE_000651,CUST_00374,PROD_5230,Food,Groceries,50.4,3,2025-08-05,False,PayPal,Mobile App,4.0,False
+SALE_000652,CUST_00374,PROD_5660,Packages,Travel,1670.24,2,2025-08-01,False,Gift Card,Mobile App,5.0,True
+SALE_000653,CUST_00469,PROD_4541,Supplements,Health,49.04,5,2025-02-23,False,PayPal,Online,3.9,True
+SALE_000654,CUST_00411,PROD_0655,Personal Care,Essentials,9.14,4,2025-04-20,True,PayPal,Phone,4.2,False
+SALE_000655,CUST_00301,PROD_4340,Flights,Travel,1791.05,1,2025-02-16,False,Gift Card,Mobile App,5.0,True
+SALE_000656,CUST_00404,PROD_9944,Snacks,Groceries,4.07,3,2025-08-08,True,Credit Card,Online,3.8,True
+SALE_000657,CUST_00480,PROD_0473,Kitchen,Home,165.43,3,2025-03-09,True,PayPal,In-Store,4.2,True
+SALE_000658,CUST_00406,PROD_1602,Overstock,Discount,4.51,3,2025-06-23,False,Debit Card,Mobile App,4.1,True
+SALE_000659,CUST_00114,PROD_4930,Jeans,Fashion,65.5,3,2025-07-16,False,Gift Card,Online,4.8,True
+SALE_000660,CUST_00123,PROD_9766,Games,Entertainment,34.72,2,2025-08-04,False,PayPal,In-Store,4.4,True
+SALE_000661,CUST_00300,PROD_4541,Supplements,Health,88.74,3,2025-05-31,False,Credit Card,Mobile App,3.7,True
+SALE_000662,CUST_00414,PROD_4541,Supplements,Health,24.06,5,2025-06-13,True,Credit Card,Phone,4.6,True
+SALE_000663,CUST_00229,PROD_4541,Supplements,Health,54.8,2,2024-12-26,False,Gift Card,Phone,2.9,False
+SALE_000664,CUST_00127,PROD_0864,Laptop,Electronics,397.57,2,2025-07-24,True,Cash,Online,4.9,True
+SALE_000665,CUST_00117,PROD_0297,Concerts,Entertainment,39.4,1,2025-06-17,False,Cash,Phone,5.0,True
+SALE_000666,CUST_00006,PROD_9288,Accessories,Fashion,70.14,3,2025-07-21,True,Credit Card,In-Store,5.0,False
+SALE_000667,CUST_00333,PROD_8417,Exclusive,Luxury,1771.61,7,2025-01-13,False,PayPal,Mobile App,4.8,True
+SALE_000668,CUST_00264,PROD_1670,Beverages,Groceries,24.82,1,2025-07-09,False,Cash,Mobile App,4.7,True
+SALE_000669,CUST_00175,PROD_3668,Wellness,Health,57.9,4,2025-07-18,False,Gift Card,Online,3.7,False
+SALE_000670,CUST_00466,PROD_5170,Decor,Home,104.1,2,2025-05-28,False,Cash,Mobile App,4.1,False
+SALE_000671,CUST_00274,PROD_1486,Camera,Electronics,341.28,1,2025-04-08,False,Debit Card,Online,4.4,True
+SALE_000672,CUST_00106,PROD_6980,Fresh,Groceries,19.04,1,2025-07-26,False,Gift Card,Phone,4.8,False
+SALE_000673,CUST_00455,PROD_9944,Snacks,Groceries,8.67,2,2025-06-10,False,Gift Card,Phone,4.2,False
+SALE_000674,CUST_00017,PROD_4412,Jacket,Fashion,69.29,3,2025-08-03,False,Debit Card,Mobile App,5.0,True
+SALE_000675,CUST_00378,PROD_0972,Bulk,Discount,3.88,1,2025-07-28,True,Credit Card,Phone,4.4,False
+SALE_000676,CUST_00424,PROD_1670,Beverages,Groceries,9.22,4,2025-06-01,False,Credit Card,Phone,4.1,True
+SALE_000677,CUST_00413,PROD_4112,Jewelry,Luxury,371.72,1,2025-05-26,False,Credit Card,In-Store,4.6,True
+SALE_000678,CUST_00318,PROD_4340,Flights,Travel,1423.48,4,2025-07-17,True,PayPal,Phone,4.7,True
+SALE_000679,CUST_00421,PROD_7562,Books,Entertainment,11.6,1,2025-07-02,False,PayPal,Mobile App,3.6,False
+SALE_000680,CUST_00334,PROD_3240,Clearance,Discount,23.76,4,2025-07-14,False,Credit Card,In-Store,4.9,False
+SALE_000681,CUST_00416,PROD_3240,Clearance,Discount,3.71,3,2025-08-02,False,Credit Card,In-Store,5.0,False
+SALE_000682,CUST_00384,PROD_5228,Organic,Groceries,8.1,1,2025-07-21,True,PayPal,In-Store,4.1,True
+SALE_000683,CUST_00210,PROD_4230,Frozen,Groceries,20.0,5,2025-07-23,False,Credit Card,Phone,3.7,False
+SALE_000684,CUST_00284,PROD_2864,Gaming,Electronics,911.52,3,2025-07-31,False,Gift Card,Phone,5.0,True
+SALE_000685,CUST_00299,PROD_7637,Movies,Entertainment,59.84,4,2025-06-13,False,Debit Card,Mobile App,4.8,True
+SALE_000686,CUST_00118,PROD_4430,Headphones,Electronics,288.14,3,2025-03-10,False,Credit Card,Online,4.4,True
+SALE_000687,CUST_00097,PROD_0534,Shoes,Fashion,44.78,2,2025-06-24,True,Debit Card,In-Store,5.0,True
+SALE_000688,CUST_00497,PROD_5089,Streaming,Entertainment,15.75,3,2025-07-24,False,Debit Card,Online,3.9,True
+SALE_000689,CUST_00034,PROD_9766,Games,Entertainment,27.35,2,2025-08-01,False,Debit Card,Mobile App,5.0,True
+SALE_000690,CUST_00395,PROD_9307,Basic Clothing,Essentials,12.84,3,2025-06-07,False,Debit Card,In-Store,4.4,True
+SALE_000691,CUST_00007,PROD_1745,Tablet,Electronics,483.51,2,2025-05-25,False,Gift Card,In-Store,4.8,True
+SALE_000692,CUST_00185,PROD_7649,Medical,Health,51.57,6,2025-08-08,False,Cash,Phone,4.0,True
+SALE_000693,CUST_00180,PROD_9944,Snacks,Groceries,25.3,7,2025-05-04,False,Gift Card,Online,4.1,False
+SALE_000694,CUST_00175,PROD_3948,Fitness,Health,42.94,4,2025-07-24,False,PayPal,Mobile App,3.6,True
+SALE_000695,CUST_00294,PROD_8417,Exclusive,Luxury,1016.05,3,2025-07-05,True,Gift Card,Phone,4.7,True
+SALE_000696,CUST_00250,PROD_9944,Snacks,Groceries,17.79,2,2025-06-07,False,PayPal,Online,4.0,True
+SALE_000697,CUST_00113,PROD_9288,Accessories,Fashion,71.3,5,2025-04-24,False,Gift Card,In-Store,4.3,True
+SALE_000698,CUST_00141,PROD_7899,Dress,Fashion,71.35,1,2025-07-29,False,Gift Card,Phone,5.0,True
+SALE_000699,CUST_00157,PROD_3966,Transportation,Essentials,26.15,1,2025-04-14,False,Credit Card,Mobile App,4.4,False
+SALE_000700,CUST_00399,PROD_6961,Utilities,Essentials,8.7,2,2025-06-28,False,Debit Card,Online,3.4,False
+SALE_000701,CUST_00086,PROD_0551,Cleaning,Essentials,27.18,5,2025-08-04,False,Gift Card,In-Store,4.1,False
+SALE_000702,CUST_00239,PROD_9246,Appliances,Home,162.42,3,2025-07-20,True,Cash,Online,4.9,True
+SALE_000703,CUST_00338,PROD_4112,Jewelry,Luxury,2094.33,2,2025-06-11,False,Cash,Mobile App,5.0,True
+SALE_000704,CUST_00068,PROD_4930,Jeans,Fashion,59.18,2,2025-07-08,False,Cash,Online,5.0,True
+SALE_000705,CUST_00353,PROD_5660,Packages,Travel,1175.76,2,2025-07-14,False,Credit Card,Mobile App,5.0,False
+SALE_000706,CUST_00135,PROD_0534,Shoes,Fashion,64.83,4,2025-01-26,True,PayPal,Phone,4.0,True
+SALE_000707,CUST_00238,PROD_3948,Fitness,Health,37.43,3,2025-06-05,True,Gift Card,Online,4.2,True
+SALE_000708,CUST_00355,PROD_3240,Clearance,Discount,19.21,2,2025-06-18,True,Gift Card,Online,5.0,True
+SALE_000709,CUST_00387,PROD_0972,Bulk,Discount,3.61,1,2025-07-20,False,Gift Card,In-Store,3.8,False
+SALE_000710,CUST_00350,PROD_5660,Packages,Travel,1031.39,4,2025-05-10,True,PayPal,In-Store,5.0,True
+SALE_000711,CUST_00068,PROD_1745,Tablet,Electronics,455.46,4,2025-06-26,True,Gift Card,Phone,5.0,True
+SALE_000712,CUST_00369,PROD_8417,Exclusive,Luxury,1826.54,3,2025-04-21,False,PayPal,Phone,4.1,True
+SALE_000713,CUST_00143,PROD_4930,Jeans,Fashion,39.16,3,2025-03-21,True,PayPal,Phone,5.0,True
+SALE_000714,CUST_00123,PROD_5729,Music,Entertainment,38.37,3,2025-07-19,False,Credit Card,In-Store,4.3,True
+SALE_000715,CUST_00248,PROD_5729,Music,Entertainment,34.03,3,2025-07-16,False,Credit Card,Mobile App,4.6,True
+SALE_000716,CUST_00238,PROD_4541,Supplements,Health,51.45,2,2025-05-16,False,PayPal,In-Store,4.1,True
+SALE_000717,CUST_00489,PROD_4541,Supplements,Health,38.43,1,2025-04-26,False,Cash,Online,5.0,True
+SALE_000718,CUST_00247,PROD_4230,Frozen,Groceries,20.5,2,2025-07-06,False,Debit Card,Mobile App,3.9,True
+SALE_000719,CUST_00418,PROD_0655,Personal Care,Essentials,8.87,5,2025-07-09,False,Credit Card,Mobile App,4.1,True
+SALE_000720,CUST_00105,PROD_2864,Gaming,Electronics,532.65,6,2025-04-27,False,PayPal,Phone,4.3,True
+SALE_000721,CUST_00066,PROD_1745,Tablet,Electronics,499.91,2,2025-04-27,False,Gift Card,Online,5.0,True
+SALE_000722,CUST_00063,PROD_5230,Food,Groceries,12.3,4,2025-06-02,True,Gift Card,Phone,4.5,False
+SALE_000723,CUST_00126,PROD_2864,Gaming,Electronics,297.95,2,2025-07-05,False,PayPal,Online,5.0,True
+SALE_000724,CUST_00235,PROD_3948,Fitness,Health,61.35,7,2025-01-31,False,PayPal,Mobile App,3.9,True
+SALE_000725,CUST_00053,PROD_4541,Supplements,Health,77.22,3,2025-08-06,False,PayPal,In-Store,4.2,False
+SALE_000726,CUST_00206,PROD_6961,Utilities,Essentials,29.15,1,2025-03-21,False,Cash,Mobile App,3.8,False
+SALE_000727,CUST_00104,PROD_4430,Headphones,Electronics,505.42,1,2025-08-05,True,Credit Card,In-Store,5.0,True
+SALE_000728,CUST_00217,PROD_7562,Books,Entertainment,44.1,3,2025-06-04,False,Cash,Phone,5.0,False
+SALE_000729,CUST_00331,PROD_7925,Hotels,Travel,984.45,3,2025-07-29,False,Gift Card,Phone,5.0,True
+SALE_000730,CUST_00186,PROD_7244,Garden,Home,238.51,5,2024-12-24,False,Debit Card,Phone,4.3,True
+SALE_000731,CUST_00491,PROD_4230,Frozen,Groceries,16.96,1,2025-06-06,False,Credit Card,In-Store,4.7,True
+SALE_000732,CUST_00179,PROD_8417,Exclusive,Luxury,657.01,5,2025-07-20,False,Debit Card,Online,2.9,False
+SALE_000733,CUST_00214,PROD_0473,Kitchen,Home,210.69,3,2025-07-13,False,Credit Card,In-Store,4.4,True
+SALE_000734,CUST_00484,PROD_7244,Garden,Home,116.83,2,2025-05-31,False,Debit Card,In-Store,3.7,True
+SALE_000735,CUST_00343,PROD_9255,Car Rental,Travel,1070.72,4,2025-05-15,False,PayPal,Online,4.6,True
+SALE_000736,CUST_00186,PROD_7244,Garden,Home,277.64,4,2025-03-13,False,Cash,Mobile App,3.5,False
+SALE_000737,CUST_00069,PROD_5103,T-Shirt,Fashion,55.8,4,2025-07-19,False,PayPal,Phone,4.5,True
+SALE_000738,CUST_00169,PROD_3668,Wellness,Health,39.83,3,2025-07-12,False,Cash,Mobile App,4.2,False
+SALE_000739,CUST_00210,PROD_7244,Garden,Home,325.15,2,2025-07-10,False,Gift Card,In-Store,4.7,False
+SALE_000740,CUST_00134,PROD_0534,Shoes,Fashion,63.04,2,2025-06-29,False,Cash,In-Store,5.0,True
+SALE_000741,CUST_00026,PROD_4930,Jeans,Fashion,72.47,2,2025-07-06,False,PayPal,Online,5.0,False
+SALE_000742,CUST_00151,PROD_1670,Beverages,Groceries,33.13,3,2025-05-13,False,Debit Card,Online,5.0,True
+SALE_000743,CUST_00034,PROD_4230,Frozen,Groceries,15.15,2,2025-08-02,False,Gift Card,Mobile App,3.8,True
+SALE_000744,CUST_00065,PROD_6220,Seasonal,Discount,13.33,2,2025-05-26,False,Credit Card,In-Store,3.6,True
+SALE_000745,CUST_00150,PROD_7562,Books,Entertainment,25.92,3,2025-06-06,False,PayPal,In-Store,5.0,False
+SALE_000746,CUST_00058,PROD_1745,Tablet,Electronics,280.29,1,2025-08-05,False,PayPal,In-Store,5.0,True
+SALE_000747,CUST_00310,PROD_0655,Personal Care,Essentials,80.54,1,2025-06-25,False,Gift Card,In-Store,5.0,False
+SALE_000748,CUST_00125,PROD_2864,Gaming,Electronics,244.65,2,2025-08-03,False,Credit Card,In-Store,4.9,True
+SALE_000749,CUST_00223,PROD_9944,Snacks,Groceries,24.89,4,2025-04-23,False,Credit Card,Mobile App,3.4,False
+SALE_000750,CUST_00115,PROD_1670,Beverages,Groceries,16.33,1,2025-06-30,True,Debit Card,In-Store,4.0,False
+SALE_000751,CUST_00167,PROD_5170,Decor,Home,221.14,1,2025-07-25,False,PayPal,Online,3.9,False
+SALE_000752,CUST_00406,PROD_2355,Basic,Discount,4.45,3,2025-03-13,True,PayPal,Phone,3.4,False
+SALE_000753,CUST_00062,PROD_9288,Accessories,Fashion,78.38,3,2025-07-28,False,Cash,Mobile App,5.0,True
+SALE_000754,CUST_00066,PROD_4881,Smartphone,Electronics,346.88,5,2025-04-09,False,Credit Card,Online,5.0,True
+SALE_000755,CUST_00119,PROD_3966,Transportation,Essentials,23.55,4,2025-07-24,False,Debit Card,Online,3.9,True
+SALE_000756,CUST_00113,PROD_6061,Insurance,Travel,621.71,2,2025-08-06,False,Credit Card,Online,4.3,False
+SALE_000757,CUST_00087,PROD_7637,Movies,Entertainment,35.63,6,2025-07-17,False,PayPal,Phone,5.0,True
+SALE_000758,CUST_00007,PROD_3668,Wellness,Health,67.29,4,2025-06-19,False,Credit Card,Mobile App,4.1,True
+SALE_000759,CUST_00424,PROD_6980,Fresh,Groceries,6.55,2,2025-01-24,True,Cash,Online,4.0,False
+SALE_000760,CUST_00167,PROD_4881,Smartphone,Electronics,377.94,2,2025-07-30,False,Debit Card,In-Store,4.7,False
+SALE_000761,CUST_00079,PROD_4930,Jeans,Fashion,50.56,6,2025-06-12,False,PayPal,Mobile App,4.9,True
+SALE_000762,CUST_00191,PROD_2689,Personal,Health,45.1,3,2025-04-30,False,Gift Card,Phone,3.8,False
+SALE_000763,CUST_00283,PROD_3010,Activities,Travel,1187.22,6,2025-07-27,True,Debit Card,In-Store,5.0,True
+SALE_000764,CUST_00370,PROD_7925,Hotels,Travel,879.9,4,2025-07-20,False,PayPal,Phone,4.3,True
+SALE_000765,CUST_00469,PROD_8128,Designer,Luxury,487.35,2,2025-03-21,False,Gift Card,Mobile App,4.2,True
+SALE_000766,CUST_00138,PROD_0534,Shoes,Fashion,37.23,4,2025-07-22,True,Debit Card,Online,5.0,True
+SALE_000767,CUST_00329,PROD_4112,Jewelry,Luxury,1809.71,4,2025-06-21,False,Gift Card,Mobile App,4.7,True
+SALE_000768,CUST_00100,PROD_4412,Jacket,Fashion,60.37,4,2025-05-22,False,PayPal,Online,4.7,True
+SALE_000769,CUST_00087,PROD_7637,Movies,Entertainment,33.95,5,2025-07-14,False,PayPal,Phone,4.8,False
+SALE_000770,CUST_00304,PROD_8417,Exclusive,Luxury,1318.38,4,2025-06-30,False,PayPal,Online,5.0,True
+SALE_000771,CUST_00279,PROD_3097,Premium,Luxury,2149.58,3,2025-06-20,False,Debit Card,Online,5.0,True
+SALE_000772,CUST_00379,PROD_3948,Fitness,Health,29.12,2,2025-04-26,False,Debit Card,Phone,3.2,False
+SALE_000773,CUST_00118,PROD_4430,Headphones,Electronics,521.16,2,2025-07-25,False,Credit Card,Online,4.7,True
+SALE_000774,CUST_00272,PROD_2689,Personal,Health,54.3,4,2025-05-30,True,PayPal,In-Store,4.0,True
+SALE_000775,CUST_00295,PROD_0997,Collections,Luxury,1331.93,4,2025-04-12,False,Gift Card,In-Store,5.0,True
+SALE_000776,CUST_00225,PROD_9246,Appliances,Home,100.13,2,2025-07-03,True,Gift Card,Mobile App,4.2,True
+SALE_000777,CUST_00097,PROD_0534,Shoes,Fashion,58.38,3,2025-07-02,False,PayPal,In-Store,4.8,True
+SALE_000778,CUST_00194,PROD_0297,Concerts,Entertainment,35.03,3,2025-07-31,False,Cash,In-Store,4.4,True
+SALE_000779,CUST_00355,PROD_0655,Personal Care,Essentials,40.6,5,2025-06-22,True,Cash,Phone,4.6,True
+SALE_000780,CUST_00287,PROD_5230,Food,Groceries,56.39,3,2025-05-07,False,Debit Card,In-Store,4.5,False
+SALE_000781,CUST_00251,PROD_0688,Skincare,Health,71.98,4,2025-06-29,False,Cash,Mobile App,4.5,False
+SALE_000782,CUST_00196,PROD_3948,Fitness,Health,73.73,3,2025-06-12,False,Debit Card,Online,4.9,True
+SALE_000783,CUST_00088,PROD_6377,Watches,Luxury,772.67,1,2025-03-28,False,PayPal,Online,5.0,False
+SALE_000784,CUST_00017,PROD_3966,Transportation,Essentials,21.3,1,2025-02-26,False,Debit Card,Mobile App,4.9,True
+SALE_000785,CUST_00029,PROD_4881,Smartphone,Electronics,470.64,2,2025-07-10,False,Debit Card,Phone,5.0,False
+SALE_000786,CUST_00019,PROD_0997,Collections,Luxury,397.42,2,2025-07-25,False,Credit Card,Mobile App,4.6,True
+SALE_000787,CUST_00449,PROD_1670,Beverages,Groceries,5.55,1,2025-07-26,False,PayPal,Phone,4.5,True
+SALE_000788,CUST_00374,PROD_5660,Packages,Travel,992.38,5,2025-06-18,True,Credit Card,Online,4.7,True
+SALE_000789,CUST_00055,PROD_5230,Food,Groceries,13.7,2,2024-10-12,False,Cash,Phone,4.4,True
+SALE_000790,CUST_00479,PROD_6980,Fresh,Groceries,17.73,3,2025-07-08,False,Gift Card,In-Store,4.0,False
+SALE_000791,CUST_00260,PROD_2689,Personal,Health,71.14,4,2025-05-30,False,Gift Card,Mobile App,4.1,True
+SALE_000792,CUST_00133,PROD_0534,Shoes,Fashion,49.38,5,2025-07-10,False,Credit Card,Online,4.2,True
+SALE_000793,CUST_00283,PROD_3010,Activities,Travel,828.68,4,2025-07-21,True,Credit Card,Phone,4.7,True
+SALE_000794,CUST_00137,PROD_0534,Shoes,Fashion,87.81,2,2025-08-04,False,Cash,Mobile App,5.0,False
+SALE_000795,CUST_00044,PROD_1486,Camera,Electronics,390.23,1,2025-07-01,False,PayPal,Phone,4.3,True
+SALE_000796,CUST_00053,PROD_4430,Headphones,Electronics,476.39,3,2025-07-31,False,PayPal,Online,4.1,False
+SALE_000797,CUST_00440,PROD_0688,Skincare,Health,28.05,1,2025-06-19,False,Debit Card,Phone,4.2,True
+SALE_000798,CUST_00402,PROD_3966,Transportation,Essentials,13.37,1,2025-06-24,False,Gift Card,Online,4.7,True
+SALE_000799,CUST_00337,PROD_7925,Hotels,Travel,1736.38,5,2025-05-02,False,Gift Card,Phone,4.9,False
+SALE_000800,CUST_00055,PROD_0864,Laptop,Electronics,370.06,2,2025-06-14,False,PayPal,In-Store,5.0,True
+SALE_000801,CUST_00316,PROD_0864,Laptop,Electronics,761.81,2,2025-06-14,False,Debit Card,Online,5.0,False
+SALE_000802,CUST_00461,PROD_1670,Beverages,Groceries,12.14,6,2025-07-07,False,Gift Card,Mobile App,4.5,True
+SALE_000803,CUST_00260,PROD_4541,Supplements,Health,44.83,2,2025-07-20,False,Cash,Online,4.1,False
+SALE_000804,CUST_00470,PROD_0688,Skincare,Health,28.93,6,2025-07-12,True,Gift Card,Mobile App,4.3,True
+SALE_000805,CUST_00313,PROD_0473,Kitchen,Home,361.08,2,2025-06-14,False,PayPal,Mobile App,4.6,True
+SALE_000806,CUST_00487,PROD_2689,Personal,Health,32.53,3,2025-08-08,False,Debit Card,Phone,4.3,True
+SALE_000807,CUST_00221,PROD_4881,Smartphone,Electronics,550.38,4,2025-07-19,False,Credit Card,In-Store,4.3,False
+SALE_000808,CUST_00480,PROD_7244,Garden,Home,153.41,6,2025-07-26,False,Gift Card,In-Store,4.2,True
+SALE_000809,CUST_00097,PROD_4930,Jeans,Fashion,57.94,4,2025-01-04,True,Gift Card,Online,5.0,False
+SALE_000810,CUST_00231,PROD_6980,Fresh,Groceries,15.61,1,2025-04-23,False,Cash,In-Store,4.3,True
+SALE_000811,CUST_00067,PROD_4430,Headphones,Electronics,395.63,3,2025-04-25,False,Credit Card,Phone,4.8,False
+SALE_000812,CUST_00353,PROD_5660,Packages,Travel,1708.1,2,2025-06-10,False,PayPal,Mobile App,4.6,True
+SALE_000813,CUST_00442,PROD_1602,Overstock,Discount,6.59,4,2025-07-24,False,Debit Card,Mobile App,3.5,False
+SALE_000814,CUST_00174,PROD_8417,Exclusive,Luxury,423.77,2,2025-07-09,True,Cash,Phone,4.5,True
+SALE_000815,CUST_00115,PROD_0864,Laptop,Electronics,531.72,4,2025-08-07,False,PayPal,In-Store,4.6,False
+SALE_000816,CUST_00498,PROD_7244,Garden,Home,150.26,3,2025-08-02,False,Credit Card,In-Store,3.8,False
+SALE_000817,CUST_00336,PROD_8417,Exclusive,Luxury,1604.49,1,2025-04-19,False,Debit Card,Mobile App,4.8,True
+SALE_000818,CUST_00004,PROD_4430,Headphones,Electronics,267.4,3,2025-05-26,False,Gift Card,In-Store,5.0,True
+SALE_000819,CUST_00383,PROD_5228,Organic,Groceries,10.29,4,2025-04-30,False,Cash,Phone,4.3,True
+SALE_000820,CUST_00345,PROD_3668,Wellness,Health,116.6,2,2025-06-30,True,Debit Card,Mobile App,4.9,False
+SALE_000821,CUST_00084,PROD_5103,T-Shirt,Fashion,53.08,4,2024-08-08,False,Credit Card,Phone,5.0,True
+SALE_000822,CUST_00466,PROD_1284,Bedding,Home,96.38,2,2025-05-31,False,Gift Card,Mobile App,3.8,True
+SALE_000823,CUST_00191,PROD_6061,Insurance,Travel,529.47,4,2025-05-26,True,Gift Card,Mobile App,3.6,False
+SALE_000824,CUST_00367,PROD_2355,Basic,Discount,32.14,3,2025-07-23,False,Cash,Mobile App,4.6,False
+SALE_000825,CUST_00266,PROD_6980,Fresh,Groceries,18.76,3,2025-05-05,False,PayPal,In-Store,4.0,True
+SALE_000826,CUST_00270,PROD_7244,Garden,Home,157.46,3,2025-06-01,True,PayPal,In-Store,4.0,False
+SALE_000827,CUST_00059,PROD_4412,Jacket,Fashion,57.66,6,2025-08-08,False,Credit Card,Mobile App,4.7,False
+SALE_000828,CUST_00043,PROD_8128,Designer,Luxury,339.37,3,2025-06-05,True,PayPal,Phone,4.2,False
+SALE_000829,CUST_00085,PROD_0297,Concerts,Entertainment,24.06,1,2025-07-12,True,PayPal,Online,4.8,True
+SALE_000830,CUST_00035,PROD_9288,Accessories,Fashion,55.53,1,2025-07-12,False,Debit Card,Phone,5.0,True
+SALE_000831,CUST_00006,PROD_9288,Accessories,Fashion,40.89,4,2025-07-25,False,Debit Card,Phone,5.0,True
+SALE_000832,CUST_00059,PROD_3010,Activities,Travel,502.82,3,2025-07-24,False,Debit Card,Mobile App,4.7,False
+SALE_000833,CUST_00238,PROD_5660,Packages,Travel,322.49,2,2025-08-06,False,PayPal,Mobile App,4.6,True
+SALE_000834,CUST_00483,PROD_9246,Appliances,Home,78.59,3,2025-07-13,True,Cash,Mobile App,4.3,True
+SALE_000835,CUST_00303,PROD_4230,Frozen,Groceries,32.1,4,2025-07-04,False,Debit Card,Mobile App,5.0,False
+SALE_000836,CUST_00197,PROD_3010,Activities,Travel,535.97,2,2025-07-11,False,Cash,Phone,3.5,False
+SALE_000837,CUST_00356,PROD_8128,Designer,Luxury,1002.41,3,2025-04-15,True,Credit Card,In-Store,5.0,True
+SALE_000838,CUST_00146,PROD_5729,Music,Entertainment,37.84,3,2025-07-06,False,PayPal,Phone,4.2,True
+SALE_000839,CUST_00463,PROD_3948,Fitness,Health,38.2,5,2024-12-11,False,Debit Card,Online,5.0,True
+SALE_000840,CUST_00040,PROD_1745,Tablet,Electronics,430.2,4,2025-04-16,False,Cash,Online,4.9,True
+SALE_000841,CUST_00369,PROD_9288,Accessories,Fashion,159.39,5,2025-06-20,False,Debit Card,Online,4.2,True
+SALE_000842,CUST_00169,PROD_2689,Personal,Health,48.17,5,2025-07-18,False,Debit Card,In-Store,3.7,True
+SALE_000843,CUST_00478,PROD_5170,Decor,Home,215.03,2,2025-07-22,False,Debit Card,Online,4.0,True
+SALE_000844,CUST_00288,PROD_3966,Transportation,Essentials,50.34,5,2024-10-06,False,Debit Card,In-Store,5.0,False
+SALE_000845,CUST_00500,PROD_6980,Fresh,Groceries,7.98,3,2025-07-13,True,PayPal,Online,4.3,True
+SALE_000846,CUST_00134,PROD_9288,Accessories,Fashion,56.86,3,2025-03-29,False,Cash,Online,5.0,False
+SALE_000847,CUST_00176,PROD_0473,Kitchen,Home,256.12,2,2025-07-08,False,Cash,Online,5.0,True
+SALE_000848,CUST_00217,PROD_5170,Decor,Home,173.94,2,2025-06-10,False,Debit Card,Online,4.5,False
+SALE_000849,CUST_00155,PROD_9246,Appliances,Home,203.48,4,2025-06-20,False,PayPal,Mobile App,4.2,True
+SALE_000850,CUST_00209,PROD_5230,Food,Groceries,20.03,3,2025-05-05,False,Gift Card,Mobile App,4.3,True
+SALE_000851,CUST_00407,PROD_0972,Bulk,Discount,4.37,8,2025-07-26,False,Cash,In-Store,3.7,True
+SALE_000852,CUST_00195,PROD_1284,Bedding,Home,136.95,5,2025-02-21,True,PayPal,Mobile App,3.5,False
+SALE_000853,CUST_00336,PROD_3097,Premium,Luxury,942.47,4,2025-04-19,True,Credit Card,In-Store,5.0,True
+SALE_000854,CUST_00101,PROD_4930,Jeans,Fashion,43.27,2,2025-04-06,False,Debit Card,Online,5.0,True
+SALE_000855,CUST_00377,PROD_6980,Fresh,Groceries,8.87,6,2025-06-28,False,Cash,Phone,4.1,False
+SALE_000856,CUST_00451,PROD_7244,Garden,Home,123.2,3,2025-08-08,False,Credit Card,Phone,4.4,False
+SALE_000857,CUST_00304,PROD_4112,Jewelry,Luxury,2021.89,7,2025-08-04,False,Cash,Online,4.7,True
+SALE_000858,CUST_00142,PROD_7637,Movies,Entertainment,31.63,4,2025-07-31,False,PayPal,Mobile App,4.5,False
+SALE_000859,CUST_00335,PROD_3010,Activities,Travel,869.39,7,2025-06-18,False,Cash,Online,4.7,False
+SALE_000860,CUST_00482,PROD_2689,Personal,Health,45.04,1,2025-04-14,False,Credit Card,Mobile App,4.3,True
+SALE_000861,CUST_00382,PROD_3240,Clearance,Discount,5.6,4,2025-07-16,True,Credit Card,Phone,4.4,True
+SALE_000862,CUST_00054,PROD_0297,Concerts,Entertainment,34.6,5,2025-07-14,False,Gift Card,Phone,4.5,False
+SALE_000863,CUST_00360,PROD_4340,Flights,Travel,846.18,2,2025-08-04,False,Debit Card,Phone,4.6,True
+SALE_000864,CUST_00158,PROD_1670,Beverages,Groceries,21.29,2,2025-06-16,True,Debit Card,Mobile App,4.1,False
+SALE_000865,CUST_00157,PROD_0864,Laptop,Electronics,433.33,1,2025-07-27,True,PayPal,In-Store,3.5,False
+SALE_000866,CUST_00335,PROD_5660,Packages,Travel,1078.93,2,2025-06-08,False,Gift Card,Mobile App,5.0,True
+SALE_000867,CUST_00241,PROD_4458,Furniture,Home,112.65,3,2025-07-01,False,Debit Card,Online,5.0,False
+SALE_000868,CUST_00391,PROD_0534,Shoes,Fashion,12.73,4,2025-06-17,True,Debit Card,In-Store,3.8,True
+SALE_000869,CUST_00153,PROD_7244,Garden,Home,230.52,1,2025-07-22,False,PayPal,In-Store,3.6,False
+SALE_000870,CUST_00317,PROD_8128,Designer,Luxury,1192.55,3,2025-07-31,False,PayPal,In-Store,4.9,True
+SALE_000871,CUST_00447,PROD_3240,Clearance,Discount,5.35,1,2025-07-17,True,Cash,Online,4.0,False
+SALE_000872,CUST_00078,PROD_7562,Books,Entertainment,35.25,3,2025-06-06,False,PayPal,In-Store,5.0,True
+SALE_000873,CUST_00092,PROD_4112,Jewelry,Luxury,877.83,4,2025-06-12,False,Cash,Online,4.8,False
+SALE_000874,CUST_00071,PROD_0864,Laptop,Electronics,361.89,2,2025-07-30,False,Debit Card,Phone,5.0,True
+SALE_000875,CUST_00005,PROD_9766,Games,Entertainment,35.13,4,2025-06-25,False,Cash,Phone,4.5,True
+SALE_000876,CUST_00458,PROD_0473,Kitchen,Home,112.51,6,2025-03-23,True,Cash,In-Store,4.2,True
+SALE_000877,CUST_00161,PROD_4458,Furniture,Home,181.02,4,2025-07-10,True,Gift Card,Online,3.7,False
+SALE_000878,CUST_00046,PROD_4458,Furniture,Home,114.19,4,2025-07-26,False,Debit Card,Phone,5.0,False
+SALE_000879,CUST_00091,PROD_8417,Exclusive,Luxury,867.94,5,2025-05-25,False,Debit Card,In-Store,5.0,False
+SALE_000880,CUST_00208,PROD_6980,Fresh,Groceries,21.35,6,2025-07-18,False,Debit Card,Phone,4.8,True
+SALE_000881,CUST_00153,PROD_1284,Bedding,Home,185.37,5,2025-03-27,True,Debit Card,In-Store,4.7,True
+SALE_000882,CUST_00076,PROD_3097,Premium,Luxury,902.33,2,2025-08-05,False,Credit Card,Online,4.4,False
+SALE_000883,CUST_00323,PROD_9307,Basic Clothing,Essentials,84.27,2,2025-08-08,False,Debit Card,Mobile App,5.0,True
+SALE_000884,CUST_00064,PROD_7899,Dress,Fashion,61.4,7,2025-07-11,False,Cash,Mobile App,4.1,False
+SALE_000885,CUST_00011,PROD_7899,Dress,Fashion,35.15,3,2025-06-20,True,Debit Card,Online,4.8,True
+SALE_000886,CUST_00337,PROD_9255,Car Rental,Travel,856.49,3,2025-07-31,True,Debit Card,Mobile App,4.7,False
+SALE_000887,CUST_00012,PROD_4881,Smartphone,Electronics,350.25,2,2025-06-16,False,Gift Card,Mobile App,5.0,True
+SALE_000888,CUST_00291,PROD_8128,Designer,Luxury,2095.95,3,2024-10-23,False,Debit Card,Mobile App,4.6,False
+SALE_000889,CUST_00169,PROD_3668,Wellness,Health,39.54,3,2025-05-05,False,Gift Card,Mobile App,5.0,True
+SALE_000890,CUST_00194,PROD_2689,Personal,Health,57.93,2,2025-07-15,False,PayPal,Phone,4.4,True
+SALE_000891,CUST_00251,PROD_2689,Personal,Health,48.96,4,2025-08-08,False,Cash,In-Store,4.5,False
+SALE_000892,CUST_00298,PROD_0688,Skincare,Health,113.95,1,2025-06-06,False,Gift Card,Online,5.0,True
+SALE_000893,CUST_00280,PROD_7649,Medical,Health,94.55,2,2025-07-14,True,PayPal,In-Store,4.4,False
+SALE_000894,CUST_00010,PROD_5729,Music,Entertainment,27.99,1,2025-07-06,True,Credit Card,Online,5.0,False
+SALE_000895,CUST_00198,PROD_1284,Bedding,Home,215.64,1,2025-07-18,False,Credit Card,Mobile App,4.9,False
+SALE_000896,CUST_00142,PROD_1670,Beverages,Groceries,16.74,3,2025-02-05,True,Credit Card,Phone,5.0,True
+SALE_000897,CUST_00006,PROD_2864,Gaming,Electronics,355.74,3,2025-02-23,False,Cash,Mobile App,4.5,True
+SALE_000898,CUST_00125,PROD_9288,Accessories,Fashion,65.14,4,2025-06-01,False,Cash,Mobile App,4.9,True
+SALE_000899,CUST_00046,PROD_4430,Headphones,Electronics,236.41,2,2025-06-02,False,PayPal,Mobile App,4.9,True
+SALE_000900,CUST_00058,PROD_1745,Tablet,Electronics,478.13,3,2025-07-13,False,Gift Card,In-Store,5.0,False
+SALE_000901,CUST_00322,PROD_5729,Music,Entertainment,64.55,2,2024-12-26,False,Credit Card,In-Store,5.0,False
+SALE_000902,CUST_00351,PROD_4340,Flights,Travel,1257.69,2,2025-08-03,False,Debit Card,In-Store,4.7,True
+SALE_000903,CUST_00163,PROD_0688,Skincare,Health,50.68,2,2025-07-05,False,Credit Card,Phone,4.5,True
+SALE_000904,CUST_00419,PROD_7244,Garden,Home,64.06,3,2025-05-19,False,Gift Card,In-Store,4.2,False
+SALE_000905,CUST_00152,PROD_9944,Snacks,Groceries,16.19,4,2025-05-13,False,Gift Card,Phone,5.0,False
+SALE_000906,CUST_00050,PROD_9766,Games,Entertainment,40.33,3,2025-02-21,False,Gift Card,In-Store,5.0,True
+SALE_000907,CUST_00279,PROD_6377,Watches,Luxury,1132.9,1,2025-07-09,False,Debit Card,Mobile App,4.4,True
+SALE_000908,CUST_00314,PROD_7562,Books,Entertainment,83.66,5,2025-05-07,False,Credit Card,Mobile App,4.9,True
+SALE_000909,CUST_00449,PROD_5230,Food,Groceries,7.97,1,2024-08-08,True,Credit Card,Phone,3.2,False
+SALE_000910,CUST_00034,PROD_9766,Games,Entertainment,30.62,1,2025-08-08,False,PayPal,Mobile App,4.1,False
+SALE_000911,CUST_00342,PROD_9255,Car Rental,Travel,906.08,2,2025-05-27,False,Cash,Mobile App,4.6,True
+SALE_000912,CUST_00148,PROD_9766,Games,Entertainment,34.31,5,2025-07-10,True,Debit Card,Online,5.0,True
+SALE_000913,CUST_00213,PROD_0688,Skincare,Health,60.85,5,2025-04-30,False,Cash,Mobile App,3.8,False
+SALE_000914,CUST_00265,PROD_3948,Fitness,Health,62.49,2,2025-03-20,False,PayPal,Mobile App,4.9,False
+SALE_000915,CUST_00360,PROD_7925,Hotels,Travel,1316.3,4,2025-03-23,False,Gift Card,Phone,4.9,False
+SALE_000916,CUST_00345,PROD_6961,Utilities,Essentials,37.02,1,2025-05-05,True,PayPal,In-Store,5.0,True
+SALE_000917,CUST_00496,PROD_9944,Snacks,Groceries,10.46,4,2025-05-20,False,PayPal,In-Store,4.8,False
+SALE_000918,CUST_00084,PROD_4541,Supplements,Health,48.4,1,2025-07-01,False,Debit Card,Phone,5.0,True
+SALE_000919,CUST_00449,PROD_0864,Laptop,Electronics,138.08,3,2025-07-10,False,Debit Card,In-Store,3.3,False
+SALE_000920,CUST_00179,PROD_9246,Appliances,Home,183.47,2,2025-05-06,False,Cash,Mobile App,5.0,False
+SALE_000921,CUST_00195,PROD_9246,Appliances,Home,211.96,2,2025-06-01,False,Gift Card,Phone,3.6,True
+SALE_000922,CUST_00226,PROD_4230,Frozen,Groceries,16.92,5,2025-05-12,False,Cash,Phone,4.6,True
+SALE_000923,CUST_00407,PROD_1284,Bedding,Home,75.86,6,2025-07-08,True,Gift Card,Online,3.2,False
+SALE_000924,CUST_00023,PROD_4430,Headphones,Electronics,321.76,2,2025-06-30,False,Gift Card,Mobile App,5.0,True
+SALE_000925,CUST_00133,PROD_0534,Shoes,Fashion,61.58,2,2025-07-17,False,Gift Card,Mobile App,5.0,False
+SALE_000926,CUST_00392,PROD_5170,Decor,Home,80.0,4,2025-05-12,True,Credit Card,Online,3.3,False
+SALE_000927,CUST_00242,PROD_9246,Appliances,Home,193.24,6,2025-07-14,True,PayPal,Online,4.0,True
+SALE_000928,CUST_00144,PROD_1745,Tablet,Electronics,423.16,3,2025-08-08,False,Cash,Phone,5.0,True
+SALE_000929,CUST_00195,PROD_9246,Appliances,Home,135.3,2,2025-07-25,True,PayPal,Phone,5.0,True
+SALE_000930,CUST_00251,PROD_2689,Personal,Health,44.43,3,2025-03-16,False,PayPal,Mobile App,4.7,True
+SALE_000931,CUST_00062,PROD_7562,Books,Entertainment,29.99,4,2025-04-06,False,Debit Card,In-Store,5.0,True
+SALE_000932,CUST_00119,PROD_4881,Smartphone,Electronics,312.6,2,2025-05-19,False,Gift Card,Mobile App,4.6,True
+SALE_000933,CUST_00360,PROD_6061,Insurance,Travel,889.6,2,2025-06-22,False,Credit Card,Mobile App,4.7,True
+SALE_000934,CUST_00277,PROD_9255,Car Rental,Travel,1085.86,4,2025-04-08,True,Debit Card,Online,4.5,True
+SALE_000935,CUST_00383,PROD_1670,Beverages,Groceries,9.16,2,2025-08-02,False,PayPal,In-Store,3.4,False
+SALE_000936,CUST_00240,PROD_1745,Tablet,Electronics,476.03,6,2025-01-08,True,Gift Card,Mobile App,4.1,True
+SALE_000937,CUST_00053,PROD_8128,Designer,Luxury,813.62,3,2025-06-08,False,Credit Card,In-Store,4.5,True
+SALE_000938,CUST_00449,PROD_4541,Supplements,Health,23.69,2,2025-05-11,True,Cash,Online,3.8,False
+SALE_000939,CUST_00082,PROD_0297,Concerts,Entertainment,30.52,3,2025-07-15,True,Credit Card,Phone,4.2,False
+SALE_000940,CUST_00448,PROD_1602,Overstock,Discount,6.85,1,2025-08-06,False,PayPal,Online,4.1,True
+SALE_000941,CUST_00223,PROD_6061,Insurance,Travel,471.47,6,2025-07-31,True,Debit Card,Phone,4.6,True
+SALE_000942,CUST_00499,PROD_6980,Fresh,Groceries,13.77,4,2025-03-13,False,Cash,Phone,3.8,False
+SALE_000943,CUST_00157,PROD_6061,Insurance,Travel,699.32,3,2025-08-05,True,PayPal,Phone,4.0,True
+SALE_000944,CUST_00097,PROD_5103,T-Shirt,Fashion,49.09,1,2025-07-08,False,Gift Card,Online,5.0,False
+SALE_000945,CUST_00475,PROD_3948,Fitness,Health,28.62,5,2025-08-07,False,Credit Card,Mobile App,4.8,False
+SALE_000946,CUST_00066,PROD_4881,Smartphone,Electronics,469.97,1,2025-08-01,False,Debit Card,Phone,5.0,False
+SALE_000947,CUST_00047,PROD_7562,Books,Entertainment,17.81,2,2025-04-25,True,Gift Card,Mobile App,4.4,True
+SALE_000948,CUST_00376,PROD_3966,Transportation,Essentials,11.81,2,2025-06-12,False,PayPal,Mobile App,3.2,False
+SALE_000949,CUST_00136,PROD_9766,Games,Entertainment,21.01,2,2025-07-29,False,Cash,Online,4.8,True
+SALE_000950,CUST_00076,PROD_1284,Bedding,Home,146.43,1,2024-12-02,True,Gift Card,Mobile App,3.8,True
+SALE_000951,CUST_00167,PROD_5170,Decor,Home,114.48,5,2025-06-23,True,Cash,Online,4.4,True
+SALE_000952,CUST_00188,PROD_2689,Personal,Health,49.71,6,2025-07-24,False,Cash,Online,4.4,False
+SALE_000953,CUST_00389,PROD_6961,Utilities,Essentials,9.36,6,2025-07-30,False,PayPal,Phone,4.6,True
+SALE_000954,CUST_00002,PROD_0297,Concerts,Entertainment,33.5,4,2025-06-25,False,Debit Card,Phone,4.4,True
+SALE_000955,CUST_00178,PROD_4930,Jeans,Fashion,90.96,3,2025-05-31,False,PayPal,In-Store,4.0,True
+SALE_000956,CUST_00310,PROD_9246,Appliances,Home,396.15,3,2025-07-28,False,Gift Card,In-Store,4.6,True
+SALE_000957,CUST_00371,PROD_5660,Packages,Travel,607.3,3,2025-04-24,True,Credit Card,Online,4.7,False
+SALE_000958,CUST_00258,PROD_5228,Organic,Groceries,33.76,5,2025-05-06,False,Gift Card,Online,4.8,True
+SALE_000959,CUST_00185,PROD_2689,Personal,Health,56.29,3,2025-06-29,False,Debit Card,Phone,4.4,False
+SALE_000960,CUST_00088,PROD_1745,Tablet,Electronics,454.5,5,2025-06-15,False,Debit Card,In-Store,3.4,False
+SALE_000961,CUST_00494,PROD_9246,Appliances,Home,137.0,2,2025-07-29,True,Debit Card,Phone,4.2,False
+SALE_000962,CUST_00205,PROD_0997,Collections,Luxury,654.56,3,2025-05-16,False,Gift Card,Phone,3.6,False
+SALE_000963,CUST_00097,PROD_1602,Overstock,Discount,6.53,3,2025-07-18,True,PayPal,Online,5.0,True
+SALE_000964,CUST_00103,PROD_4930,Jeans,Fashion,79.59,4,2025-05-03,False,PayPal,Phone,5.0,True
+SALE_000965,CUST_00066,PROD_1486,Camera,Electronics,421.04,2,2025-07-06,False,Gift Card,In-Store,4.1,True
+SALE_000966,CUST_00237,PROD_0688,Skincare,Health,42.88,3,2025-07-19,False,Debit Card,Phone,4.3,True
+SALE_000967,CUST_00068,PROD_4340,Flights,Travel,383.75,3,2025-06-08,False,Cash,Online,5.0,True
+SALE_000968,CUST_00052,PROD_4430,Headphones,Electronics,256.59,1,2025-03-28,False,Debit Card,Online,4.7,True
+SALE_000969,CUST_00312,PROD_1602,Overstock,Discount,21.92,2,2025-06-09,False,Cash,Online,5.0,True
+SALE_000970,CUST_00350,PROD_4340,Flights,Travel,1458.47,2,2025-06-21,False,Cash,Mobile App,4.7,False
+SALE_000971,CUST_00338,PROD_6061,Insurance,Travel,1142.88,2,2025-05-27,False,Gift Card,In-Store,5.0,False
+SALE_000972,CUST_00310,PROD_9896,Generic,Discount,27.51,7,2025-08-01,False,Credit Card,Phone,4.7,True
+SALE_000973,CUST_00463,PROD_8417,Exclusive,Luxury,509.63,4,2025-07-11,False,Debit Card,Mobile App,4.3,True
+SALE_000974,CUST_00114,PROD_5103,T-Shirt,Fashion,36.39,5,2025-04-25,True,Gift Card,In-Store,5.0,False
+SALE_000975,CUST_00443,PROD_4230,Frozen,Groceries,7.7,2,2025-08-08,True,Cash,In-Store,3.6,False
+SALE_000976,CUST_00384,PROD_6980,Fresh,Groceries,9.89,2,2025-05-21,False,Credit Card,Mobile App,2.9,False
+SALE_000977,CUST_00007,PROD_1745,Tablet,Electronics,350.48,4,2025-07-27,False,Debit Card,Phone,3.9,True
+SALE_000978,CUST_00024,PROD_1745,Tablet,Electronics,333.4,5,2025-07-02,True,Gift Card,Phone,3.9,False
+SALE_000979,CUST_00063,PROD_0534,Shoes,Fashion,62.26,3,2024-08-08,False,Credit Card,In-Store,4.2,False
+SALE_000980,CUST_00165,PROD_3668,Wellness,Health,39.98,5,2025-01-30,False,Gift Card,Mobile App,4.1,False
+SALE_000981,CUST_00430,PROD_4112,Jewelry,Luxury,310.66,5,2025-05-25,False,PayPal,In-Store,4.0,False
+SALE_000982,CUST_00432,PROD_6961,Utilities,Essentials,10.72,1,2025-07-06,True,Credit Card,Mobile App,4.3,True
+SALE_000983,CUST_00429,PROD_4340,Flights,Travel,163.45,5,2025-07-20,False,Gift Card,In-Store,3.7,False
+SALE_000984,CUST_00348,PROD_2689,Personal,Health,95.04,2,2025-02-05,False,Cash,Phone,4.8,False
+SALE_000985,CUST_00275,PROD_7649,Medical,Health,41.14,4,2025-04-16,False,Debit Card,Phone,4.8,False
+SALE_000986,CUST_00373,PROD_7637,Movies,Entertainment,89.42,3,2025-07-07,False,Debit Card,Phone,5.0,True
+SALE_000987,CUST_00074,PROD_0864,Laptop,Electronics,216.41,3,2025-07-10,True,PayPal,Mobile App,4.1,True
+SALE_000988,CUST_00070,PROD_0297,Concerts,Entertainment,37.08,2,2025-05-16,False,Gift Card,In-Store,4.5,False
+SALE_000989,CUST_00431,PROD_4230,Frozen,Groceries,8.21,1,2025-08-01,False,Credit Card,Mobile App,4.4,False
+SALE_000990,CUST_00006,PROD_0534,Shoes,Fashion,51.11,2,2025-06-30,False,PayPal,Mobile App,4.7,True
+SALE_000991,CUST_00097,PROD_4930,Jeans,Fashion,76.39,4,2025-07-17,False,PayPal,Mobile App,4.6,False
+SALE_000992,CUST_00278,PROD_6980,Fresh,Groceries,65.76,4,2025-07-28,False,PayPal,Mobile App,5.0,True
+SALE_000993,CUST_00442,PROD_9246,Appliances,Home,58.89,3,2025-06-30,True,Cash,Online,4.1,False
+SALE_000994,CUST_00238,PROD_3948,Fitness,Health,35.15,4,2025-08-07,True,Cash,Phone,4.1,True
+SALE_000995,CUST_00326,PROD_7649,Medical,Health,122.64,4,2025-07-29,False,Debit Card,In-Store,4.4,True
+SALE_000996,CUST_00466,PROD_4458,Furniture,Home,65.93,2,2025-06-13,True,Credit Card,Online,5.0,False
+SALE_000997,CUST_00317,PROD_2355,Basic,Discount,42.78,6,2025-08-06,False,Cash,In-Store,5.0,False
+SALE_000998,CUST_00236,PROD_4230,Frozen,Groceries,23.96,3,2025-06-22,False,Cash,Mobile App,3.4,False
+SALE_000999,CUST_00050,PROD_4430,Headphones,Electronics,383.5,1,2025-07-21,False,Debit Card,In-Store,4.4,False
+SALE_001000,CUST_00427,PROD_9288,Accessories,Fashion,34.22,2,2025-07-10,False,PayPal,Phone,4.1,False

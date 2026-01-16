@@ -1,0 +1,501 @@
+customer_id,age,income,spending_score,membership_years,gender,city,preferred_category,total_purchases,last_purchase_days,average_order_value,loyalty_points,segment_true
+CUST_00001,29,34539,85,2.4,Female,San Diego,Electronics,15,0,28844.65,8653,young_spenders
+CUST_00002,30,33063,80,1.5,Other,San Jose,Entertainment,12,10,15931.41,3823,young_spenders
+CUST_00003,31,34247,82,1.2,Other,San Diego,Entertainment,8,17,30534.43,4885,young_spenders
+CUST_00004,27,33711,77,2.0,Male,Los Angeles,Electronics,14,25,14622.66,4094,young_spenders
+CUST_00005,23,31520,83,1.9,Male,Los Angeles,Entertainment,14,55,21851.28,6118,young_spenders
+CUST_00006,28,33464,86,1.9,Other,Chicago,Fashion,20,0,6778.73,2711,young_spenders
+CUST_00007,30,37259,85,1.8,Male,Chicago,Electronics,20,33,14667.65,5867,young_spenders
+CUST_00008,26,34759,86,1.9,Other,Dallas,Entertainment,20,44,12053.71,4821,young_spenders
+CUST_00009,27,34797,76,2.2,Male,San Antonio,Entertainment,17,42,13062.24,4441,young_spenders
+CUST_00010,25,37349,84,1.1,Male,Dallas,Entertainment,7,71,39774.54,5568,young_spenders
+CUST_00011,31,34026,71,1.9,Male,Houston,Fashion,10,11,27441.13,5488,young_spenders
+CUST_00012,28,34948,82,2.1,Other,New York,Electronics,20,182,9795.35,3918,young_spenders
+CUST_00013,27,35013,84,1.6,Other,San Diego,Entertainment,10,8,32409.25,6481,young_spenders
+CUST_00014,28,37426,79,1.9,Male,Philadelphia,Fashion,14,48,20980.33,5874,young_spenders
+CUST_00015,27,37858,85,1.4,Other,Dallas,Fashion,15,54,24207.5,7262,young_spenders
+CUST_00016,23,35685,76,1.3,Female,Dallas,Entertainment,18,26,18417.48,6630,young_spenders
+CUST_00017,28,28551,83,1.7,Other,Chicago,Fashion,10,13,14241.57,2848,young_spenders
+CUST_00018,28,36393,74,2.7,Other,Philadelphia,Entertainment,16,115,17573.92,5623,young_spenders
+CUST_00019,24,32175,88,2.2,Male,Phoenix,Electronics,25,43,20784.53,10392,young_spenders
+CUST_00020,28,34586,85,1.6,Female,Dallas,Electronics,12,11,30209.36,7250,young_spenders
+CUST_00021,28,36284,78,1.8,Other,Philadelphia,Entertainment,9,35,31339.3,5641,young_spenders
+CUST_00022,29,38017,79,1.9,Male,Houston,Fashion,21,20,15405.18,6470,young_spenders
+CUST_00023,28,32709,82,1.6,Female,San Jose,Electronics,12,120,16226.4,3894,young_spenders
+CUST_00024,27,33426,87,1.8,Female,Houston,Electronics,19,29,10356.93,3935,young_spenders
+CUST_00025,33,37113,74,1.8,Male,San Antonio,Entertainment,17,0,12314.1,4186,young_spenders
+CUST_00026,28,32427,89,1.6,Male,Phoenix,Fashion,11,37,23734.64,5221,young_spenders
+CUST_00027,33,38441,76,1.5,Female,San Jose,Fashion,10,19,33105.04,6621,young_spenders
+CUST_00028,30,30683,82,0.9,Other,Los Angeles,Fashion,8,2,15346.18,2455,young_spenders
+CUST_00029,29,38087,85,2.2,Male,New York,Electronics,20,29,18523.81,7409,young_spenders
+CUST_00030,29,32770,78,1.5,Female,San Jose,Electronics,10,14,15842.08,3168,young_spenders
+CUST_00031,27,37832,83,1.5,Female,New York,Entertainment,10,139,38440.19,7688,young_spenders
+CUST_00032,29,38478,83,1.1,Other,Dallas,Entertainment,9,95,35415.32,6374,young_spenders
+CUST_00033,28,35892,76,0.3,Male,Houston,Fashion,1,24,28930.2,578,young_spenders
+CUST_00034,26,37080,85,1.7,Other,Los Angeles,Entertainment,7,17,23034.1,3224,young_spenders
+CUST_00035,29,33120,79,1.9,Other,San Antonio,Fashion,17,50,8704.79,2959,young_spenders
+CUST_00036,25,29189,86,1.7,Other,San Antonio,Electronics,13,8,30088.94,7823,young_spenders
+CUST_00037,27,34984,79,1.7,Female,Dallas,Entertainment,8,26,38176.63,6108,young_spenders
+CUST_00038,30,32176,82,0.7,Male,Los Angeles,Entertainment,7,35,35429.33,4960,young_spenders
+CUST_00039,31,38197,91,1.4,Female,Los Angeles,Fashion,12,18,21669.03,5200,young_spenders
+CUST_00040,27,36139,90,2.1,Male,Philadelphia,Electronics,21,72,12807.59,5379,young_spenders
+CUST_00041,32,29232,83,2.2,Other,Phoenix,Electronics,13,126,18058.89,4695,young_spenders
+CUST_00042,31,36136,82,1.9,Other,Philadelphia,Fashion,15,9,21406.14,6421,young_spenders
+CUST_00043,32,35750,83,2.1,Male,Chicago,Fashion,20,6,8824.36,3529,young_spenders
+CUST_00044,27,30438,84,2.2,Female,Philadelphia,Electronics,17,33,21994.6,7478,young_spenders
+CUST_00045,27,37976,80,2.8,Female,Philadelphia,Electronics,21,70,19456.54,8171,young_spenders
+CUST_00046,29,29230,88,2.1,Female,San Antonio,Electronics,16,45,15415.38,4932,young_spenders
+CUST_00047,24,34814,84,1.7,Male,San Antonio,Entertainment,14,2,12713.92,3559,young_spenders
+CUST_00048,29,29119,88,1.4,Other,Los Angeles,Fashion,14,62,21384.01,5987,young_spenders
+CUST_00049,27,32357,82,1.3,Male,Dallas,Electronics,7,1,42171.6,5904,young_spenders
+CUST_00050,28,37837,79,1.4,Female,San Antonio,Electronics,8,19,35087.86,5614,young_spenders
+CUST_00051,32,34169,84,1.9,Other,Dallas,Entertainment,16,22,17250.32,5520,young_spenders
+CUST_00052,26,34376,82,1.3,Male,Houston,Electronics,9,66,22654.61,4077,young_spenders
+CUST_00053,28,39933,82,1.4,Female,Houston,Electronics,12,10,18796.38,4511,young_spenders
+CUST_00054,28,30282,84,0.9,Female,San Diego,Entertainment,4,57,25273.0,2021,young_spenders
+CUST_00055,30,35484,89,1.7,Male,Philadelphia,Electronics,19,54,7914.33,3007,young_spenders
+CUST_00056,34,32455,74,1.1,Female,Phoenix,Entertainment,7,12,24363.15,3410,young_spenders
+CUST_00057,25,35765,80,1.9,Other,New York,Fashion,10,27,27996.78,5599,young_spenders
+CUST_00058,26,36237,79,1.8,Male,Phoenix,Electronics,15,4,18193.5,5458,young_spenders
+CUST_00059,29,36584,80,1.5,Other,Philadelphia,Fashion,10,37,24870.22,4974,young_spenders
+CUST_00060,32,35061,89,1.9,Other,San Antonio,Entertainment,15,71,19435.48,5830,young_spenders
+CUST_00061,24,32450,86,2.2,Male,Houston,Electronics,19,45,18337.04,6968,young_spenders
+CUST_00062,30,34827,90,1.6,Other,San Diego,Fashion,15,18,22529.42,6758,young_spenders
+CUST_00063,22,33714,88,2.6,Female,San Jose,Fashion,26,16,7379.02,3837,young_spenders
+CUST_00064,27,37892,78,1.4,Other,San Diego,Fashion,14,2,22407.13,6273,young_spenders
+CUST_00065,28,37603,93,2.0,Male,Chicago,Entertainment,17,0,27180.51,9241,young_spenders
+CUST_00066,27,38505,81,1.7,Other,Chicago,Electronics,13,26,29802.94,7748,young_spenders
+CUST_00067,28,30602,85,1.7,Male,Houston,Electronics,13,97,13903.1,3614,young_spenders
+CUST_00068,29,35366,87,1.5,Other,New York,Fashion,11,16,20330.45,4472,young_spenders
+CUST_00069,30,33684,75,2.0,Other,Houston,Fashion,18,20,7573.24,2726,young_spenders
+CUST_00070,34,33107,81,1.4,Other,Los Angeles,Entertainment,16,48,21394.51,6846,young_spenders
+CUST_00071,28,35099,79,1.4,Male,San Diego,Electronics,13,5,21961.25,5709,young_spenders
+CUST_00072,28,39166,84,1.6,Male,San Antonio,Fashion,11,30,20419.8,4492,young_spenders
+CUST_00073,24,40882,77,1.4,Female,Dallas,Electronics,9,15,38621.93,6951,young_spenders
+CUST_00074,25,33776,84,1.8,Male,San Diego,Electronics,11,21,18240.67,4012,young_spenders
+CUST_00075,25,37477,83,1.7,Male,Phoenix,Fashion,10,9,32933.49,6586,young_spenders
+CUST_00076,26,41036,82,1.4,Male,San Antonio,Electronics,14,30,17476.35,4893,young_spenders
+CUST_00077,28,37688,84,0.8,Other,Houston,Fashion,3,14,18035.22,1082,young_spenders
+CUST_00078,29,37493,88,1.7,Female,Houston,Entertainment,24,19,16036.98,7697,young_spenders
+CUST_00079,29,29936,82,1.5,Male,New York,Fashion,13,2,16887.71,4390,young_spenders
+CUST_00080,29,37559,89,1.4,Female,Los Angeles,Entertainment,6,102,32667.66,3920,young_spenders
+CUST_00081,30,33018,83,2.6,Male,Los Angeles,Fashion,25,30,13608.65,6804,young_spenders
+CUST_00082,30,39516,86,1.8,Other,Dallas,Entertainment,15,3,20056.2,6016,young_spenders
+CUST_00083,28,37271,82,1.8,Male,Los Angeles,Entertainment,13,7,24187.32,6288,young_spenders
+CUST_00084,27,31525,87,1.6,Male,Los Angeles,Fashion,12,46,23781.17,5707,young_spenders
+CUST_00085,29,37965,82,2.2,Male,San Diego,Entertainment,26,19,10115.44,5260,young_spenders
+CUST_00086,31,32313,81,1.9,Female,Los Angeles,Electronics,18,18,5444.6,1960,young_spenders
+CUST_00087,24,30975,78,2.0,Female,San Diego,Entertainment,24,63,9566.38,4591,young_spenders
+CUST_00088,26,34676,82,2.2,Male,New York,Electronics,12,14,21338.16,5121,young_spenders
+CUST_00089,27,38963,88,1.5,Other,Dallas,Fashion,15,7,19071.43,5721,young_spenders
+CUST_00090,29,27514,78,1.7,Other,Philadelphia,Entertainment,20,9,5058.78,2023,young_spenders
+CUST_00091,28,40981,80,1.8,Female,San Diego,Entertainment,19,52,30335.94,11527,young_spenders
+CUST_00092,27,36364,85,2.2,Male,Dallas,Fashion,15,5,20999.54,6299,young_spenders
+CUST_00093,30,40105,79,2.0,Female,San Antonio,Electronics,10,51,25128.95,5025,young_spenders
+CUST_00094,29,37725,76,1.8,Other,Philadelphia,Entertainment,11,23,26767.95,5888,young_spenders
+CUST_00095,29,40258,82,1.9,Male,Philadelphia,Fashion,10,10,28590.32,5718,young_spenders
+CUST_00096,28,28966,86,1.5,Other,New York,Electronics,8,0,25865.86,4138,young_spenders
+CUST_00097,30,33476,82,1.2,Female,Chicago,Fashion,12,58,25831.94,6199,young_spenders
+CUST_00098,29,28844,80,2.2,Female,San Diego,Electronics,21,60,7924.69,3328,young_spenders
+CUST_00099,28,31044,80,1.8,Other,New York,Electronics,18,0,13128.33,4726,young_spenders
+CUST_00100,25,32745,90,1.7,Other,New York,Fashion,8,9,16820.8,2691,young_spenders
+CUST_00101,28,32706,92,1.5,Female,Chicago,Fashion,11,1,30407.91,6689,young_spenders
+CUST_00102,29,34987,77,2.4,Female,New York,Fashion,19,11,17910.96,6806,young_spenders
+CUST_00103,27,38583,85,1.3,Other,Philadelphia,Fashion,15,3,24171.79,7251,young_spenders
+CUST_00104,28,41039,83,1.9,Other,Houston,Electronics,20,50,20512.93,8205,young_spenders
+CUST_00105,28,39390,84,2.7,Other,Chicago,Electronics,26,46,8787.65,4569,young_spenders
+CUST_00106,27,36686,74,1.4,Other,New York,Entertainment,9,16,27037.29,4866,young_spenders
+CUST_00107,30,34630,86,2.1,Female,Los Angeles,Electronics,17,38,9310.46,3165,young_spenders
+CUST_00108,32,32039,76,1.5,Female,San Antonio,Electronics,15,44,5106.19,1531,young_spenders
+CUST_00109,29,34028,75,1.7,Female,New York,Entertainment,17,26,4949.15,1682,young_spenders
+CUST_00110,29,32086,75,2.5,Female,Chicago,Electronics,17,8,20685.33,7033,young_spenders
+CUST_00111,28,30723,86,1.5,Male,Phoenix,Entertainment,12,5,31931.34,7663,young_spenders
+CUST_00112,30,33927,91,1.9,Male,Houston,Electronics,18,6,19364.8,6971,young_spenders
+CUST_00113,25,37097,83,1.4,Male,Los Angeles,Fashion,14,0,35002.23,9800,young_spenders
+CUST_00114,28,34554,87,0.9,Female,Phoenix,Fashion,5,33,56556.38,5655,young_spenders
+CUST_00115,26,36612,85,1.2,Male,Dallas,Electronics,13,52,28377.04,7378,young_spenders
+CUST_00116,28,31699,80,1.1,Male,San Diego,Electronics,12,60,27035.08,6488,young_spenders
+CUST_00117,28,35051,77,1.1,Female,Dallas,Entertainment,7,28,40284.31,5639,young_spenders
+CUST_00118,30,37074,82,1.8,Other,Philadelphia,Electronics,12,15,16355.1,3925,young_spenders
+CUST_00119,27,36306,81,2.0,Other,Chicago,Electronics,10,11,21727.36,4345,young_spenders
+CUST_00120,26,40048,85,1.5,Female,San Antonio,Fashion,8,34,17835.9,2853,young_spenders
+CUST_00121,27,32014,80,2.0,Male,San Antonio,Electronics,23,3,12728.78,5855,young_spenders
+CUST_00122,23,35162,82,1.5,Male,San Jose,Entertainment,13,54,17768.34,4619,young_spenders
+CUST_00123,26,37983,81,2.3,Other,New York,Entertainment,21,26,10979.09,4611,young_spenders
+CUST_00124,33,34732,87,1.2,Other,San Jose,Fashion,8,6,31524.47,5043,young_spenders
+CUST_00125,31,29382,83,1.7,Male,San Antonio,Electronics,9,37,13883.9,2499,young_spenders
+CUST_00126,24,36008,80,1.1,Male,New York,Electronics,5,13,33674.79,3367,young_spenders
+CUST_00127,27,35684,76,2.1,Female,San Antonio,Electronics,17,6,14773.09,5022,young_spenders
+CUST_00128,25,28496,79,1.4,Other,San Jose,Electronics,19,42,12422.18,4720,young_spenders
+CUST_00129,31,33999,82,1.9,Female,Phoenix,Electronics,14,8,25083.2,7023,young_spenders
+CUST_00130,30,37710,79,1.9,Male,San Antonio,Electronics,15,1,25830.26,7749,young_spenders
+CUST_00131,25,29873,77,1.5,Female,Chicago,Electronics,12,61,20280.27,4867,young_spenders
+CUST_00132,28,35837,82,1.6,Other,San Diego,Electronics,20,51,16738.34,6695,young_spenders
+CUST_00133,29,36072,79,2.2,Female,San Jose,Fashion,10,12,33083.54,6616,young_spenders
+CUST_00134,26,32592,93,2.1,Female,Dallas,Fashion,24,91,6575.96,3156,young_spenders
+CUST_00135,27,34376,82,2.0,Other,Philadelphia,Fashion,27,17,10642.05,5746,young_spenders
+CUST_00136,24,35163,81,1.2,Female,Chicago,Entertainment,9,45,15129.76,2723,young_spenders
+CUST_00137,27,35568,83,1.8,Other,Los Angeles,Entertainment,19,22,19963.74,7586,young_spenders
+CUST_00138,25,33558,88,1.2,Male,Philadelphia,Fashion,11,5,37682.19,8290,young_spenders
+CUST_00139,28,34418,80,1.7,Male,San Jose,Electronics,11,7,25848.64,5686,young_spenders
+CUST_00140,26,31018,84,1.2,Male,San Jose,Electronics,11,9,18270.03,4019,young_spenders
+CUST_00141,27,32050,81,2.5,Male,New York,Fashion,18,66,20787.89,7483,young_spenders
+CUST_00142,28,34340,80,1.7,Male,New York,Entertainment,13,17,22100.49,5746,young_spenders
+CUST_00143,25,35208,82,2.5,Other,San Diego,Fashion,23,2,13444.75,6184,young_spenders
+CUST_00144,27,30509,78,2.3,Male,Phoenix,Electronics,20,5,9553.69,3821,young_spenders
+CUST_00145,26,34517,86,1.8,Other,Los Angeles,Electronics,19,96,14632.94,5560,young_spenders
+CUST_00146,28,32854,86,1.8,Female,San Jose,Entertainment,16,50,19081.95,6106,young_spenders
+CUST_00147,28,31972,81,1.4,Other,New York,Fashion,12,79,18269.8,4384,young_spenders
+CUST_00148,26,37868,80,1.7,Female,San Antonio,Entertainment,17,55,19330.93,6572,young_spenders
+CUST_00149,26,36676,83,1.8,Other,Los Angeles,Entertainment,22,38,13445.11,5915,young_spenders
+CUST_00150,28,31013,82,1.3,Female,Chicago,Entertainment,13,28,9159.28,2381,young_spenders
+CUST_00151,44,64723,57,5.7,Other,Dallas,Groceries,26,48,13299.51,6915,established_savers
+CUST_00152,40,66928,54,6.5,Female,San Jose,Groceries,33,22,14057.34,9277,established_savers
+CUST_00153,38,56046,50,4.2,Male,Philadelphia,Home,19,26,17355.34,6595,established_savers
+CUST_00154,43,60072,47,6.0,Female,San Antonio,Groceries,28,3,9309.46,5213,established_savers
+CUST_00155,48,60523,51,5.1,Female,Philadelphia,Home,23,41,15252.56,7016,established_savers
+CUST_00156,40,63015,58,3.9,Male,Dallas,Groceries,20,2,17212.65,6885,established_savers
+CUST_00157,39,73315,57,5.6,Male,Dallas,Home,24,25,15468.02,7424,established_savers
+CUST_00158,45,66688,59,6.7,Other,San Jose,Health,51,1,9415.77,9604,established_savers
+CUST_00159,40,49528,41,4.2,Other,New York,Home,25,70,6936.47,3468,established_savers
+CUST_00160,42,59791,51,5.7,Female,Philadelphia,Health,29,9,9964.9,5779,established_savers
+CUST_00161,43,61210,48,4.1,Female,Dallas,Home,23,1,10758.18,4948,established_savers
+CUST_00162,42,48358,56,5.7,Female,Dallas,Home,43,16,5766.26,4958,established_savers
+CUST_00163,39,65807,46,7.4,Other,Philadelphia,Health,31,8,8514.74,5279,established_savers
+CUST_00164,41,64684,52,4.5,Female,Philadelphia,Groceries,24,23,8142.8,3908,established_savers
+CUST_00165,39,45458,54,5.9,Female,San Jose,Health,31,1,9389.32,5821,established_savers
+CUST_00166,47,58731,49,4.5,Male,Philadelphia,Groceries,26,6,7902.95,4109,established_savers
+CUST_00167,41,53381,56,4.9,Female,Chicago,Home,28,51,11633.06,6514,established_savers
+CUST_00168,40,51820,53,5.4,Female,San Diego,Groceries,31,15,12496.63,7747,established_savers
+CUST_00169,43,57562,49,6.0,Female,Philadelphia,Health,23,17,8749.35,4024,established_savers
+CUST_00170,43,63617,53,5.5,Female,San Jose,Health,32,5,10554.93,6755,established_savers
+CUST_00171,40,64620,49,5.3,Male,Los Angeles,Health,21,3,17266.3,7251,established_savers
+CUST_00172,41,54753,57,5.7,Female,New York,Home,40,8,6475.22,5180,established_savers
+CUST_00173,44,61514,49,5.6,Female,Chicago,Home,29,49,15328.16,8890,established_savers
+CUST_00174,43,64672,49,6.2,Male,San Diego,Health,20,58,10514.28,4205,established_savers
+CUST_00175,44,54648,53,6.9,Other,Dallas,Health,33,61,10129.94,6685,established_savers
+CUST_00176,42,67512,53,3.4,Other,Houston,Home,14,4,14608.78,4090,established_savers
+CUST_00177,41,64959,50,5.8,Other,Houston,Groceries,38,9,10825.92,8227,established_savers
+CUST_00178,41,60281,51,4.9,Male,Dallas,Health,22,2,13057.71,5745,established_savers
+CUST_00179,44,72478,52,4.8,Male,Chicago,Home,30,1,12826.87,7696,established_savers
+CUST_00180,45,63559,59,3.9,Male,Chicago,Groceries,21,5,17268.1,7252,established_savers
+CUST_00181,46,66829,52,3.4,Female,San Antonio,Home,11,90,52167.15,11476,established_savers
+CUST_00182,42,75863,52,4.9,Other,San Jose,Home,23,1,16203.03,7453,established_savers
+CUST_00183,38,47373,50,7.3,Male,San Diego,Health,35,57,8722.05,6105,established_savers
+CUST_00184,48,59671,55,2.6,Male,Dallas,Home,11,1,16936.43,3726,established_savers
+CUST_00185,44,59144,56,5.1,Other,New York,Health,30,17,10067.99,6040,established_savers
+CUST_00186,42,67349,51,5.8,Female,Phoenix,Home,26,93,19279.75,10025,established_savers
+CUST_00187,41,63356,59,5.9,Male,New York,Groceries,26,3,5095.98,2649,established_savers
+CUST_00188,40,69117,49,6.8,Female,Los Angeles,Health,36,27,6401.34,4608,established_savers
+CUST_00189,43,66927,54,5.6,Male,Dallas,Groceries,23,4,15988.36,7354,established_savers
+CUST_00190,40,48194,58,4.8,Male,San Antonio,Home,36,7,5974.03,4301,established_savers
+CUST_00191,42,58721,51,6.1,Other,Chicago,Health,21,7,15383.26,6460,established_savers
+CUST_00192,45,60405,53,4.7,Male,San Antonio,Home,23,21,13606.6,6259,established_savers
+CUST_00193,41,67048,57,6.4,Male,San Diego,Groceries,34,33,5563.64,3783,established_savers
+CUST_00194,40,64085,57,4.1,Female,Philadelphia,Health,24,3,15867.93,7616,established_savers
+CUST_00195,39,60389,44,4.6,Female,Dallas,Home,27,65,9565.32,5165,established_savers
+CUST_00196,43,63677,49,5.0,Other,Chicago,Health,25,8,13968.06,6984,established_savers
+CUST_00197,39,57405,47,4.1,Other,Los Angeles,Health,31,4,11213.61,6952,established_savers
+CUST_00198,37,66181,49,4.1,Other,Phoenix,Home,18,18,23748.48,8549,established_savers
+CUST_00199,49,53732,53,5.5,Male,San Diego,Home,30,3,10369.92,6221,established_savers
+CUST_00200,41,61773,47,5.0,Female,New York,Groceries,30,14,10811.59,6486,established_savers
+CUST_00201,41,70517,43,8.1,Other,Houston,Health,36,52,8284.15,5964,established_savers
+CUST_00202,43,69300,51,4.9,Female,Philadelphia,Home,25,78,18393.49,9196,established_savers
+CUST_00203,48,65183,57,5.5,Female,San Diego,Groceries,28,139,19029.38,10656,established_savers
+CUST_00204,42,59375,56,5.5,Male,New York,Health,24,43,16828.62,8077,established_savers
+CUST_00205,40,63735,49,5.0,Male,Los Angeles,Home,23,3,12800.09,5888,established_savers
+CUST_00206,41,62676,55,4.5,Female,Los Angeles,Groceries,25,36,12880.97,6440,established_savers
+CUST_00207,38,58050,49,4.1,Male,Phoenix,Home,19,7,13782.79,5237,established_savers
+CUST_00208,37,52857,57,4.1,Female,Houston,Groceries,30,17,11052.25,6631,established_savers
+CUST_00209,43,59632,55,4.0,Other,Los Angeles,Groceries,23,9,15938.56,7331,established_savers
+CUST_00210,41,65744,55,4.3,Female,Philadelphia,Groceries,16,45,12169.58,3894,established_savers
+CUST_00211,42,67759,43,4.6,Female,Chicago,Home,29,60,10604.34,6150,established_savers
+CUST_00212,39,51535,47,5.2,Other,Dallas,Health,17,24,16215.92,5513,established_savers
+CUST_00213,44,69710,52,5.2,Male,Philadelphia,Health,24,1,17893.98,8589,established_savers
+CUST_00214,45,45976,52,3.6,Male,Los Angeles,Home,17,1,13179.57,4481,established_savers
+CUST_00215,43,64252,55,3.9,Female,Dallas,Health,21,28,20212.74,8489,established_savers
+CUST_00216,39,64670,50,4.7,Male,Dallas,Home,25,1,20557.41,10278,established_savers
+CUST_00217,42,56653,55,4.5,Other,Philadelphia,Home,22,20,13191.93,5804,established_savers
+CUST_00218,40,61013,54,5.6,Other,New York,Groceries,17,43,21516.66,7315,established_savers
+CUST_00219,43,68904,51,4.3,Other,San Jose,Health,20,12,7619.5,3047,established_savers
+CUST_00220,40,55271,46,5.2,Male,San Antonio,Home,30,68,8604.27,5162,established_savers
+CUST_00221,40,58613,53,5.1,Male,San Antonio,Home,29,26,11266.68,6534,established_savers
+CUST_00222,41,74904,54,5.8,Other,San Jose,Home,36,38,17914.87,12898,established_savers
+CUST_00223,45,65753,47,5.2,Male,Houston,Groceries,29,9,15709.44,9111,established_savers
+CUST_00224,39,60965,44,5.3,Male,San Diego,Groceries,14,0,22723.84,6362,established_savers
+CUST_00225,38,58303,49,6.3,Female,San Diego,Home,35,24,7745.7,5421,established_savers
+CUST_00226,39,59996,54,3.4,Female,Los Angeles,Groceries,17,2,21699.92,7377,established_savers
+CUST_00227,40,70182,49,6.6,Other,San Antonio,Home,30,7,8955.82,5373,established_savers
+CUST_00228,45,63854,47,5.0,Other,Phoenix,Groceries,21,7,20989.05,8815,established_savers
+CUST_00229,44,59862,50,5.3,Male,Philadelphia,Health,25,3,19514.01,9757,established_savers
+CUST_00230,41,54659,45,5.2,Female,Houston,Home,34,13,7560.7,5141,established_savers
+CUST_00231,37,67706,47,5.7,Male,San Diego,Health,19,90,14703.17,5587,established_savers
+CUST_00232,44,51857,49,4.8,Male,Phoenix,Groceries,22,56,12150.59,5346,established_savers
+CUST_00233,42,71315,46,5.0,Male,Houston,Groceries,24,6,17305.49,8306,established_savers
+CUST_00234,41,62564,55,6.3,Female,Houston,Health,41,35,7464.17,6120,established_savers
+CUST_00235,35,69778,51,5.7,Male,San Jose,Health,30,13,9549.75,5729,established_savers
+CUST_00236,42,68304,51,6.1,Female,Los Angeles,Groceries,33,42,7682.94,5070,established_savers
+CUST_00237,45,56776,50,5.5,Male,San Antonio,Health,25,26,9319.75,4659,established_savers
+CUST_00238,46,63277,45,5.8,Other,Dallas,Health,26,89,6367.37,3311,established_savers
+CUST_00239,41,63959,60,8.1,Other,Philadelphia,Home,46,37,9680.21,8905,established_savers
+CUST_00240,44,60062,56,4.6,Male,San Antonio,Home,28,3,10355.66,5799,established_savers
+CUST_00241,42,51036,42,5.1,Male,Los Angeles,Home,29,47,6506.33,3773,established_savers
+CUST_00242,43,63268,48,6.9,Male,Philadelphia,Home,34,16,8958.56,6091,established_savers
+CUST_00243,42,63841,56,6.5,Other,Chicago,Groceries,33,11,8291.98,5472,established_savers
+CUST_00244,42,62906,49,4.0,Male,Phoenix,Groceries,18,12,11464.14,4127,established_savers
+CUST_00245,40,55044,51,4.4,Female,San Antonio,Health,25,120,9534.25,4767,established_savers
+CUST_00246,39,64039,50,5.5,Female,Dallas,Home,46,23,9749.92,8969,established_savers
+CUST_00247,43,54989,52,3.6,Female,Philadelphia,Groceries,11,29,39296.15,8645,established_savers
+CUST_00248,42,64166,48,4.9,Female,Phoenix,Groceries,26,2,9276.31,4823,established_savers
+CUST_00249,40,70987,45,7.1,Male,Chicago,Groceries,35,0,4615.11,3230,established_savers
+CUST_00250,42,75072,48,3.6,Other,New York,Groceries,16,23,32185.71,10299,established_savers
+CUST_00251,45,60551,54,4.0,Other,Phoenix,Health,38,2,8543.82,6493,established_savers
+CUST_00252,42,64543,53,5.1,Female,Houston,Home,22,33,21830.79,9605,established_savers
+CUST_00253,43,65812,49,4.1,Other,Los Angeles,Groceries,16,27,30464.25,9748,established_savers
+CUST_00254,41,65414,54,5.1,Other,San Diego,Health,22,40,19633.55,8638,established_savers
+CUST_00255,41,71073,54,4.4,Female,San Jose,Groceries,21,30,23755.01,9977,established_savers
+CUST_00256,41,65640,53,4.5,Other,New York,Health,24,20,6783.15,3255,established_savers
+CUST_00257,44,61574,52,4.0,Male,Houston,Health,24,49,12504.84,6002,established_savers
+CUST_00258,45,79703,57,3.6,Other,Phoenix,Groceries,25,11,10962.66,5481,established_savers
+CUST_00259,42,49554,51,4.1,Male,San Antonio,Health,22,33,12753.95,5611,established_savers
+CUST_00260,41,61258,52,4.6,Other,New York,Health,23,14,6220.53,2861,established_savers
+CUST_00261,42,72677,51,5.4,Female,San Antonio,Health,25,28,15296.46,7648,established_savers
+CUST_00262,38,57743,48,6.2,Other,San Jose,Health,28,61,7553.0,4229,established_savers
+CUST_00263,40,66280,54,3.0,Male,San Antonio,Groceries,17,20,21894.64,7444,established_savers
+CUST_00264,43,56565,52,5.7,Other,Chicago,Health,34,58,11528.8,7839,established_savers
+CUST_00265,41,64623,55,5.4,Male,Chicago,Health,34,62,9748.62,6629,established_savers
+CUST_00266,46,64053,44,6.3,Female,Dallas,Groceries,26,0,10982.41,5710,established_savers
+CUST_00267,42,62838,56,2.8,Male,Philadelphia,Health,27,14,10660.92,5756,established_savers
+CUST_00268,43,62109,50,5.2,Other,San Jose,Health,28,14,10148.39,5683,established_savers
+CUST_00269,44,55863,51,5.0,Female,San Jose,Home,30,43,7405.04,4443,established_savers
+CUST_00270,42,49868,53,6.1,Other,Philadelphia,Home,36,32,9044.77,6512,established_savers
+CUST_00271,41,58478,47,7.0,Other,Dallas,Home,34,37,6268.09,4262,established_savers
+CUST_00272,38,60338,46,5.0,Other,San Jose,Health,18,35,19593.57,7053,established_savers
+CUST_00273,45,65981,56,3.9,Male,Houston,Health,24,35,11620.26,5577,established_savers
+CUST_00274,40,67447,47,5.6,Male,Houston,Home,31,2,12145.12,7529,established_savers
+CUST_00275,41,62112,51,5.5,Other,San Diego,Health,29,68,6874.99,3987,established_savers
+CUST_00276,47,114467,88,8.2,Other,San Jose,Premium,56,204,9701.26,10865,premium_customers
+CUST_00277,42,103282,92,6.6,Female,San Diego,Travel,62,0,9802.47,12155,premium_customers
+CUST_00278,45,96243,92,7.6,Male,Chicago,Premium,68,14,8689.0,11817,premium_customers
+CUST_00279,39,115448,94,10.3,Male,Chicago,Luxury,110,30,13979.36,30754,premium_customers
+CUST_00280,36,118340,91,6.6,Female,San Diego,Premium,59,33,18928.95,22336,premium_customers
+CUST_00281,43,118698,88,6.8,Male,San Diego,Travel,86,49,18006.41,30971,premium_customers
+CUST_00282,43,136494,85,7.0,Female,Houston,Travel,62,54,20634.73,25587,premium_customers
+CUST_00283,43,119569,92,7.9,Male,San Diego,Travel,76,27,12653.37,19233,premium_customers
+CUST_00284,43,112600,84,5.8,Other,Dallas,Premium,42,10,26727.04,22450,premium_customers
+CUST_00285,39,101512,91,9.9,Male,San Antonio,Luxury,93,12,8609.37,16013,premium_customers
+CUST_00286,43,119732,88,8.2,Other,Houston,Travel,80,5,5878.35,9405,premium_customers
+CUST_00287,40,106201,86,7.1,Female,San Antonio,Luxury,56,7,10422.38,11673,premium_customers
+CUST_00288,38,91942,83,7.8,Other,Phoenix,Travel,59,53,14046.8,16575,premium_customers
+CUST_00289,39,123440,87,7.3,Male,Los Angeles,Premium,61,6,13042.28,15911,premium_customers
+CUST_00290,36,112319,83,7.5,Female,Chicago,Premium,62,24,13448.17,16675,premium_customers
+CUST_00291,43,106502,89,6.4,Female,Philadelphia,Premium,55,39,17455.93,19201,premium_customers
+CUST_00292,48,111270,88,6.5,Other,Philadelphia,Travel,66,57,13050.92,17227,premium_customers
+CUST_00293,43,121049,94,10.6,Male,Phoenix,Travel,96,39,10768.89,20676,premium_customers
+CUST_00294,45,111805,80,11.3,Male,Houston,Luxury,98,27,10836.65,21239,premium_customers
+CUST_00295,39,98314,81,7.9,Male,San Antonio,Luxury,59,46,16336.87,19277,premium_customers
+CUST_00296,43,131213,86,7.4,Female,Los Angeles,Luxury,62,231,11572.2,14349,premium_customers
+CUST_00297,47,120003,88,6.9,Female,New York,Luxury,54,3,28557.87,30842,premium_customers
+CUST_00298,41,125995,86,5.2,Female,New York,Premium,35,9,28158.58,19711,premium_customers
+CUST_00299,40,126761,85,8.0,Female,Philadelphia,Travel,75,79,17320.7,25981,premium_customers
+CUST_00300,50,124958,84,6.2,Male,Chicago,Travel,47,10,21399.68,20115,premium_customers
+CUST_00301,44,112611,90,5.3,Other,Houston,Travel,51,9,21847.91,22284,premium_customers
+CUST_00302,44,135902,85,4.4,Female,San Diego,Premium,36,9,37661.73,27116,premium_customers
+CUST_00303,42,113062,81,7.2,Male,Dallas,Premium,50,12,12727.62,12727,premium_customers
+CUST_00304,46,88012,87,10.6,Other,San Diego,Luxury,100,25,6801.89,13603,premium_customers
+CUST_00305,41,129716,85,8.4,Other,New York,Travel,77,10,19779.56,30460,premium_customers
+CUST_00306,39,103302,85,6.2,Male,Houston,Travel,61,39,6255.35,7631,premium_customers
+CUST_00307,43,111724,89,6.5,Other,San Antonio,Premium,61,1,8463.28,10325,premium_customers
+CUST_00308,37,135458,90,7.2,Male,Phoenix,Travel,61,52,25137.78,30668,premium_customers
+CUST_00309,37,142155,93,8.4,Male,Philadelphia,Travel,79,10,18028.73,28485,premium_customers
+CUST_00310,37,100695,90,7.5,Female,Phoenix,Premium,69,35,11291.68,15582,premium_customers
+CUST_00311,42,127677,82,5.4,Female,San Diego,Luxury,51,55,11171.51,11394,premium_customers
+CUST_00312,30,129923,89,6.4,Female,New York,Premium,50,34,29349.4,29349,premium_customers
+CUST_00313,40,110459,77,6.5,Male,San Antonio,Premium,42,37,20609.16,17311,premium_customers
+CUST_00314,44,130669,87,7.6,Female,San Diego,Luxury,70,34,15364.29,21510,premium_customers
+CUST_00315,46,108116,87,8.3,Female,Houston,Premium,79,7,5614.96,8871,premium_customers
+CUST_00316,43,104156,85,10.3,Other,Dallas,Premium,73,103,12713.59,18561,premium_customers
+CUST_00317,43,106587,93,9.6,Female,San Antonio,Luxury,87,16,18195.38,31659,premium_customers
+CUST_00318,43,104710,86,7.5,Male,Phoenix,Travel,63,23,21063.77,26540,premium_customers
+CUST_00319,34,120129,87,8.1,Female,San Antonio,Premium,76,87,18049.23,27434,premium_customers
+CUST_00320,44,129802,86,4.0,Male,Phoenix,Premium,31,2,21244.95,13171,premium_customers
+CUST_00321,46,109915,85,8.0,Female,San Antonio,Premium,70,35,15965.89,22352,premium_customers
+CUST_00322,46,94897,88,6.9,Male,Chicago,Travel,59,1,12000.13,14160,premium_customers
+CUST_00323,44,118958,82,6.3,Other,San Diego,Premium,56,1,16790.36,18805,premium_customers
+CUST_00324,42,110527,82,5.8,Male,San Jose,Travel,41,9,20056.84,16446,premium_customers
+CUST_00325,46,105077,75,6.9,Male,San Antonio,Luxury,48,25,10323.36,9910,premium_customers
+CUST_00326,42,103878,84,5.8,Male,Chicago,Premium,52,1,7961.43,8279,premium_customers
+CUST_00327,39,119931,82,5.9,Male,Houston,Travel,39,46,31740.47,24757,premium_customers
+CUST_00328,43,95284,86,6.3,Female,Dallas,Travel,58,2,19767.95,22930,premium_customers
+CUST_00329,38,110166,85,5.9,Female,San Diego,Luxury,56,17,14881.44,16667,premium_customers
+CUST_00330,48,139680,87,7.4,Other,San Jose,Premium,59,3,18232.04,21513,premium_customers
+CUST_00331,38,100973,84,8.7,Female,New York,Travel,84,11,12824.78,21545,premium_customers
+CUST_00332,44,131643,91,4.9,Female,San Diego,Luxury,40,7,46369.83,37095,premium_customers
+CUST_00333,48,119269,88,6.0,Female,San Diego,Luxury,61,19,12834.74,15658,premium_customers
+CUST_00334,47,105776,87,7.2,Other,Los Angeles,Premium,61,5,13630.1,16628,premium_customers
+CUST_00335,40,126769,89,9.4,Female,Los Angeles,Travel,73,54,18778.92,27417,premium_customers
+CUST_00336,33,95764,86,6.0,Male,New York,Luxury,52,69,20763.38,21593,premium_customers
+CUST_00337,44,111974,83,6.4,Male,San Antonio,Travel,57,39,15140.27,17259,premium_customers
+CUST_00338,42,108888,74,8.5,Other,New York,Luxury,66,10,11056.17,14594,premium_customers
+CUST_00339,38,128072,92,7.7,Female,Los Angeles,Luxury,92,23,9496.4,17473,premium_customers
+CUST_00340,42,104181,77,6.3,Male,New York,Travel,48,19,15790.61,15158,premium_customers
+CUST_00341,47,125224,84,6.9,Male,San Antonio,Premium,61,36,26204.18,31969,premium_customers
+CUST_00342,45,133482,87,5.7,Other,San Diego,Travel,48,56,27455.93,26357,premium_customers
+CUST_00343,34,112606,83,6.1,Female,Philadelphia,Travel,57,1,12704.23,14482,premium_customers
+CUST_00344,42,136278,87,6.2,Other,Houston,Travel,56,49,14315.97,16033,premium_customers
+CUST_00345,46,119987,89,7.2,Other,New York,Premium,65,101,13890.91,18058,premium_customers
+CUST_00346,46,79916,82,7.8,Female,Chicago,Travel,48,21,9643.39,9257,premium_customers
+CUST_00347,38,109976,86,9.1,Female,Philadelphia,Premium,125,18,11001.5,27503,premium_customers
+CUST_00348,48,131089,85,7.1,Female,Philadelphia,Premium,52,22,19127.25,19892,premium_customers
+CUST_00349,39,105178,82,7.0,Male,Chicago,Luxury,63,27,14021.64,17667,premium_customers
+CUST_00350,39,98592,83,10.5,Male,Chicago,Premium,90,5,10003.75,18006,premium_customers
+CUST_00351,41,122452,89,11.0,Female,Houston,Travel,92,11,6753.56,12426,premium_customers
+CUST_00352,42,97130,84,5.7,Other,Phoenix,Travel,46,48,24006.18,22085,premium_customers
+CUST_00353,45,111682,86,10.6,Other,Phoenix,Travel,75,17,10213.2,15319,premium_customers
+CUST_00354,40,107060,86,9.9,Other,Houston,Premium,100,6,8486.11,16972,premium_customers
+CUST_00355,35,124185,88,9.6,Other,San Antonio,Premium,94,16,13253.02,24915,premium_customers
+CUST_00356,48,124705,95,9.6,Other,San Antonio,Luxury,92,32,15018.2,27633,premium_customers
+CUST_00357,38,120847,80,9.6,Other,San Diego,Premium,89,0,10483.36,18660,premium_customers
+CUST_00358,36,112669,87,6.5,Female,Dallas,Travel,46,45,16206.51,14909,premium_customers
+CUST_00359,51,117951,85,8.7,Other,Philadelphia,Premium,59,13,8644.62,10200,premium_customers
+CUST_00360,42,122935,82,9.2,Female,Dallas,Travel,73,25,10791.06,15754,premium_customers
+CUST_00361,44,110759,87,6.0,Male,Los Angeles,Premium,44,26,13612.52,11979,premium_customers
+CUST_00362,44,98033,82,8.3,Other,San Antonio,Travel,77,15,9349.04,14397,premium_customers
+CUST_00363,44,102885,92,6.2,Male,Phoenix,Travel,55,60,19454.55,21400,premium_customers
+CUST_00364,44,114081,90,10.5,Other,San Diego,Premium,98,1,9056.27,17750,premium_customers
+CUST_00365,40,94348,86,10.6,Male,San Antonio,Premium,89,5,13212.3,23517,premium_customers
+CUST_00366,50,95822,84,7.2,Male,San Jose,Luxury,56,15,7173.14,8033,premium_customers
+CUST_00367,37,109522,85,5.1,Male,Los Angeles,Premium,45,39,9267.51,8340,premium_customers
+CUST_00368,42,108491,82,7.8,Female,New York,Luxury,65,22,10579.31,13753,premium_customers
+CUST_00369,46,112464,92,8.1,Female,San Diego,Premium,73,5,14787.3,21589,premium_customers
+CUST_00370,45,95053,79,9.9,Male,Houston,Travel,69,44,16369.47,22589,premium_customers
+CUST_00371,39,89158,93,9.3,Male,Houston,Travel,100,34,13026.15,26052,premium_customers
+CUST_00372,45,98884,90,8.0,Other,Chicago,Luxury,67,4,9610.84,12878,premium_customers
+CUST_00373,51,110009,90,6.3,Other,Phoenix,Premium,63,112,9352.76,11784,premium_customers
+CUST_00374,40,89462,81,6.8,Female,San Antonio,Travel,39,100,13545.08,10565,premium_customers
+CUST_00375,39,128457,85,6.8,Male,Houston,Premium,53,50,25678.58,27219,premium_customers
+CUST_00376,45,37107,31,3.2,Female,New York,Essentials,7,49,12780.23,1789,budget_conscious
+CUST_00377,40,39413,27,4.2,Male,Chicago,Groceries,8,5,9389.04,1502,budget_conscious
+CUST_00378,43,36248,27,3.2,Other,San Jose,Discount,12,6,9849.24,2363,budget_conscious
+CUST_00379,36,43472,21,4.1,Other,Los Angeles,Essentials,12,2,5143.97,1234,budget_conscious
+CUST_00380,36,30418,25,3.4,Male,Los Angeles,Groceries,6,13,8306.27,996,budget_conscious
+CUST_00381,51,34209,46,5.4,Male,Phoenix,Groceries,21,16,9731.49,4087,budget_conscious
+CUST_00382,56,37551,27,2.7,Male,San Jose,Discount,10,6,15696.63,3139,budget_conscious
+CUST_00383,45,30273,20,3.6,Other,Houston,Groceries,9,8,7627.45,1372,budget_conscious
+CUST_00384,51,33710,28,2.8,Other,San Antonio,Groceries,9,22,12082.82,2174,budget_conscious
+CUST_00385,46,26872,31,3.0,Other,San Antonio,Essentials,5,7,5671.81,567,budget_conscious
+CUST_00386,39,31612,29,3.0,Male,Houston,Discount,16,42,3585.87,1147,budget_conscious
+CUST_00387,39,35425,28,3.7,Other,New York,Discount,14,81,10421.75,2918,budget_conscious
+CUST_00388,45,35435,42,3.2,Male,Phoenix,Groceries,14,6,15669.17,4387,budget_conscious
+CUST_00389,38,43804,26,3.8,Other,Philadelphia,Essentials,11,53,10458.43,2300,budget_conscious
+CUST_00390,57,23333,18,4.0,Other,San Jose,Essentials,16,103,3649.09,1167,budget_conscious
+CUST_00391,52,43369,25,4.7,Female,San Antonio,Discount,15,5,10286.14,3085,budget_conscious
+CUST_00392,44,41480,24,3.2,Male,Dallas,Groceries,5,2,9503.34,950,budget_conscious
+CUST_00393,35,32100,27,4.4,Female,San Antonio,Discount,7,8,12954.74,1813,budget_conscious
+CUST_00394,49,42726,42,3.1,Male,Houston,Groceries,19,13,8228.98,3127,budget_conscious
+CUST_00395,62,35323,26,3.6,Male,San Diego,Essentials,10,10,9475.65,1895,budget_conscious
+CUST_00396,50,39327,33,3.9,Female,New York,Discount,11,1,16445.03,3617,budget_conscious
+CUST_00397,53,25938,41,2.9,Male,San Jose,Discount,12,27,7955.77,1909,budget_conscious
+CUST_00398,43,27504,29,3.4,Male,San Antonio,Essentials,8,1,9288.21,1486,budget_conscious
+CUST_00399,37,27081,32,3.0,Other,Phoenix,Essentials,14,26,6639.98,1859,budget_conscious
+CUST_00400,36,33829,26,2.5,Male,Philadelphia,Groceries,6,41,11233.25,1347,budget_conscious
+CUST_00401,40,44452,30,4.1,Other,New York,Essentials,10,10,10902.28,2180,budget_conscious
+CUST_00402,47,29249,31,4.7,Male,Chicago,Essentials,21,26,2379.66,999,budget_conscious
+CUST_00403,54,43203,45,2.6,Male,San Jose,Discount,10,6,22667.54,4533,budget_conscious
+CUST_00404,41,31198,39,3.9,Female,Philadelphia,Groceries,22,11,2706.44,1190,budget_conscious
+CUST_00405,42,39056,30,3.1,Female,San Jose,Groceries,7,18,14182.59,1985,budget_conscious
+CUST_00406,50,32917,35,3.5,Other,San Antonio,Discount,16,16,8017.29,2565,budget_conscious
+CUST_00407,41,38480,27,3.4,Other,Los Angeles,Discount,7,10,15372.05,2152,budget_conscious
+CUST_00408,50,30410,26,2.9,Female,Chicago,Discount,4,5,6646.22,531,budget_conscious
+CUST_00409,45,27399,31,3.2,Male,Phoenix,Essentials,9,5,10466.24,1883,budget_conscious
+CUST_00410,49,36251,34,3.2,Other,Houston,Discount,8,42,9487.39,1517,budget_conscious
+CUST_00411,36,32303,31,3.6,Female,Houston,Essentials,8,91,8821.76,1411,budget_conscious
+CUST_00412,48,41555,28,4.2,Female,Los Angeles,Discount,11,4,10830.87,2382,budget_conscious
+CUST_00413,40,20540,39,2.6,Female,Philadelphia,Essentials,7,8,5936.57,831,budget_conscious
+CUST_00414,34,41755,34,3.4,Female,Chicago,Groceries,15,61,10154.78,3046,budget_conscious
+CUST_00415,40,29528,27,4.7,Male,Los Angeles,Groceries,14,1,4258.59,1192,budget_conscious
+CUST_00416,49,42291,24,3.7,Other,Los Angeles,Discount,5,26,13365.87,1336,budget_conscious
+CUST_00417,52,41359,29,3.2,Other,San Jose,Essentials,16,63,2551.69,816,budget_conscious
+CUST_00418,53,32278,34,3.6,Female,Houston,Essentials,16,28,1613.07,516,budget_conscious
+CUST_00419,34,34196,27,2.7,Male,Phoenix,Discount,9,9,10003.91,1800,budget_conscious
+CUST_00420,41,34510,24,2.4,Male,New York,Groceries,2,43,13088.81,523,budget_conscious
+CUST_00421,45,26664,30,3.6,Other,Philadelphia,Discount,4,19,7250.71,580,budget_conscious
+CUST_00422,48,31620,22,2.8,Other,San Antonio,Groceries,5,10,7268.09,726,budget_conscious
+CUST_00423,50,25703,30,4.0,Male,Houston,Groceries,11,22,7692.24,1692,budget_conscious
+CUST_00424,32,32412,28,3.1,Male,Chicago,Groceries,6,8,8351.8,1002,budget_conscious
+CUST_00425,41,40491,25,4.0,Female,Los Angeles,Groceries,12,6,7683.74,1844,budget_conscious
+CUST_00426,42,36125,27,4.2,Female,San Antonio,Groceries,8,78,10792.69,1726,budget_conscious
+CUST_00427,42,31954,38,4.0,Other,Houston,Discount,10,35,15066.94,3013,budget_conscious
+CUST_00428,64,32282,26,3.2,Other,Los Angeles,Groceries,7,43,7308.89,1023,budget_conscious
+CUST_00429,58,27440,35,4.3,Female,Chicago,Groceries,16,27,5178.42,1657,budget_conscious
+CUST_00430,46,43032,25,3.2,Female,Houston,Groceries,6,8,14849.18,1781,budget_conscious
+CUST_00431,38,31037,27,2.4,Male,Houston,Groceries,8,21,5521.13,883,budget_conscious
+CUST_00432,39,32953,35,2.6,Female,Philadelphia,Essentials,4,35,15436.19,1234,budget_conscious
+CUST_00433,52,47494,18,2.7,Male,San Diego,Groceries,2,38,8883.65,355,budget_conscious
+CUST_00434,33,36621,41,1.9,Other,Philadelphia,Groceries,7,36,14641.37,2049,budget_conscious
+CUST_00435,48,38401,31,2.8,Female,Los Angeles,Essentials,7,23,5682.33,795,budget_conscious
+CUST_00436,41,23141,40,3.7,Other,San Jose,Essentials,16,3,4437.58,1420,budget_conscious
+CUST_00437,42,31915,32,3.4,Male,Philadelphia,Discount,12,39,6919.13,1660,budget_conscious
+CUST_00438,47,33808,23,4.7,Other,New York,Discount,12,189,6126.77,1470,budget_conscious
+CUST_00439,33,29737,33,3.8,Other,Chicago,Groceries,13,41,9440.51,2454,budget_conscious
+CUST_00440,39,37704,34,2.9,Female,San Diego,Discount,12,37,10487.06,2516,budget_conscious
+CUST_00441,47,30778,30,3.1,Male,San Jose,Groceries,12,12,7203.97,1728,budget_conscious
+CUST_00442,52,28631,31,3.1,Female,Phoenix,Discount,4,25,7582.79,606,budget_conscious
+CUST_00443,33,36705,21,3.2,Female,San Jose,Groceries,10,11,2750.14,550,budget_conscious
+CUST_00444,46,40337,32,3.5,Other,New York,Discount,19,0,10994.0,4177,budget_conscious
+CUST_00445,45,32693,32,2.8,Male,Los Angeles,Essentials,9,5,6580.91,1184,budget_conscious
+CUST_00446,49,34873,36,2.1,Other,Philadelphia,Discount,8,22,11456.33,1833,budget_conscious
+CUST_00447,48,48461,25,3.5,Other,San Antonio,Discount,8,7,7490.64,1198,budget_conscious
+CUST_00448,40,34734,27,3.6,Male,San Jose,Groceries,16,11,7523.43,2407,budget_conscious
+CUST_00449,49,34603,27,5.4,Other,Houston,Groceries,20,47,2800.43,1120,budget_conscious
+CUST_00450,37,30478,29,4.2,Male,Houston,Essentials,8,49,9257.46,1481,budget_conscious
+CUST_00451,65,47953,47,14.6,Male,Chicago,Home,76,3,2514.81,3822,seniors
+CUST_00452,62,43128,46,9.6,Male,Los Angeles,Home,51,2,6014.54,6134,seniors
+CUST_00453,64,36216,48,10.9,Other,San Jose,Health,58,10,3199.3,3711,seniors
+CUST_00454,61,45880,52,13.6,Other,Los Angeles,Home,83,27,4004.22,6647,seniors
+CUST_00455,66,41438,47,11.9,Female,Dallas,Groceries,51,29,2641.54,2694,seniors
+CUST_00456,63,45950,51,11.1,Female,San Antonio,Health,58,21,4543.8,5270,seniors
+CUST_00457,61,45050,44,7.5,Other,San Antonio,Health,22,0,13079.32,5754,seniors
+CUST_00458,67,39059,47,8.8,Female,Los Angeles,Home,41,74,6243.62,5119,seniors
+CUST_00459,67,56056,50,11.2,Other,San Diego,Home,55,68,5375.03,5912,seniors
+CUST_00460,66,47073,50,11.1,Female,Chicago,Home,39,57,4382.62,3418,seniors
+CUST_00461,66,32203,42,14.9,Male,New York,Groceries,64,37,1315.74,1684,seniors
+CUST_00462,67,47626,43,12.3,Female,Chicago,Home,46,165,3984.72,3665,seniors
+CUST_00463,64,51274,48,11.0,Male,New York,Health,48,31,5577.93,5354,seniors
+CUST_00464,64,38773,51,15.7,Female,San Antonio,Health,89,88,1804.84,3212,seniors
+CUST_00465,69,53930,42,10.9,Male,Phoenix,Groceries,53,4,4907.99,5202,seniors
+CUST_00466,65,35967,52,13.1,Male,Chicago,Home,69,8,2671.77,3687,seniors
+CUST_00467,68,50521,47,11.7,Female,Philadelphia,Health,54,20,4675.01,5049,seniors
+CUST_00468,63,49872,43,12.8,Female,Phoenix,Home,57,98,3628.52,4136,seniors
+CUST_00469,60,51592,49,13.7,Female,Houston,Health,66,23,3989.63,5266,seniors
+CUST_00470,61,50910,45,13.5,Female,Houston,Health,49,13,3748.47,3673,seniors
+CUST_00471,60,51401,50,13.5,Other,Phoenix,Home,70,36,2368.42,3315,seniors
+CUST_00472,64,43012,48,12.2,Female,Chicago,Health,55,22,2198.58,2418,seniors
+CUST_00473,54,42728,52,12.4,Other,Philadelphia,Groceries,73,25,2951.12,4308,seniors
+CUST_00474,58,51203,57,13.5,Male,New York,Groceries,84,45,3522.39,5917,seniors
+CUST_00475,66,36128,38,14.3,Other,Houston,Health,53,8,1505.92,1596,seniors
+CUST_00476,62,51363,43,12.4,Female,Los Angeles,Groceries,60,24,3309.6,3971,seniors
+CUST_00477,66,46054,53,10.3,Female,San Diego,Health,50,20,4649.88,4649,seniors
+CUST_00478,64,56678,49,12.2,Female,San Jose,Home,60,1,4572.36,5486,seniors
+CUST_00479,66,51115,39,12.7,Female,Los Angeles,Groceries,41,23,6832.58,5602,seniors
+CUST_00480,62,55649,51,7.4,Female,Philadelphia,Home,29,3,16695.14,9683,seniors
+CUST_00481,66,48368,52,18.4,Female,Phoenix,Home,74,4,4286.69,6344,seniors
+CUST_00482,68,50702,48,12.3,Female,New York,Groceries,52,31,3692.96,3840,seniors
+CUST_00483,62,39295,39,14.5,Female,New York,Home,62,14,1732.0,2147,seniors
+CUST_00484,64,43324,46,11.5,Other,Philadelphia,Home,42,263,4411.38,3705,seniors
+CUST_00485,65,53167,51,10.6,Female,Phoenix,Groceries,67,34,5304.54,7108,seniors
+CUST_00486,62,48384,40,11.8,Other,San Antonio,Groceries,53,15,3695.29,3917,seniors
+CUST_00487,62,49270,53,7.8,Other,San Diego,Groceries,52,55,4386.78,4562,seniors
+CUST_00488,61,56859,43,10.8,Male,San Jose,Health,51,16,3815.18,3891,seniors
+CUST_00489,63,48891,42,12.1,Male,New York,Home,47,28,5806.22,5457,seniors
+CUST_00490,57,58802,36,12.1,Other,San Diego,Health,54,59,2315.5,2500,seniors
+CUST_00491,65,50071,45,17.5,Male,Chicago,Groceries,86,23,3461.82,5954,seniors
+CUST_00492,66,46556,44,9.7,Male,San Diego,Groceries,33,2,5884.13,3883,seniors
+CUST_00493,66,46753,50,11.5,Other,San Diego,Groceries,68,11,3666.52,4986,seniors
+CUST_00494,63,56417,47,10.0,Other,New York,Health,44,22,2255.25,1984,seniors
+CUST_00495,71,49193,43,10.1,Other,Dallas,Health,56,0,5882.72,6588,seniors
+CUST_00496,68,35253,50,12.2,Other,Philadelphia,Groceries,60,1,3437.26,4124,seniors
+CUST_00497,62,46531,46,10.0,Other,Philadelphia,Health,49,49,5841.55,5724,seniors
+CUST_00498,69,47833,48,11.1,Male,Dallas,Home,55,103,4201.9,4622,seniors
+CUST_00499,65,49822,47,10.7,Other,San Diego,Groceries,44,13,8957.42,7882,seniors
+CUST_00500,60,40415,49,16.5,Male,San Jose,Groceries,81,26,3153.34,5108,seniors
